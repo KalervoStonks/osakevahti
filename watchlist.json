@@ -1,0 +1,9 @@
+{
+  "osakkeet": [
+    { "ticker": "UUUU", "nimi": "Energy Fuels", "stocktwits": "UUUU" },
+    { "ticker": "EQR.AX", "nimi": "EQ Resources", "stocktwits": "EQR.AX" },
+    { "ticker": "CCJ", "nimi": "Cameco", "stocktwits": "CCJ" },
+    { "ticker": "MU", "nimi": "Micron Technology", "stocktwits": "MU" },
+    { "ticker": "NVDA", "nimi": "Nvidia", "stocktwits": "NVDA" }
+  ]
+}
