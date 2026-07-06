@@ -1,1 +1,224 @@
-{}
+{
+ "paivitetty": "2026-07-06T13:35:19+00:00",
+ "data": {
+  "yleiskuva": "Tekoälyn fyysinen toimitusketju on nyt suurin pullonkaula: HBM/DRAM-muistimarkkina on ajautunut historiallisen syvään niukkuuteen valmistajien siirrettyä yli 90% kapasiteetista AI-muisteihin, mikä nostaa hintoja ja on synnyttänyt jopa hintakartellisyytöksiä. Datakeskusten sähkönkulutus kasvaa eksponentiaalisesti (415 TWh 2024 -> ~945 TWh 2030-ennuste), mikä tekee sähköverkosta, ydinvoimasta ja jäähdytyksestä yhä kriittisempiä. Nvidia jatkaa dominointia GPU-markkinassa ja solmii jättimäisiä infrastruktuurisopimuksia, mutta on riippuvainen niukasta muistista. Uraani- ja kriittisten mineraalien teemat vahvistuvat geopoliittisten jännitteiden ja ydinvoiman uuden suosion myötä. Kokonaisuutena laskentapiirien pullonkaula helpottaa hieman TSMC:n kapasiteetin kasvaessa, mutta muisti, energia ja mineraalit kiristyvät edelleen vuosiksi eteenpäin.",
+  "alueet": [
+   {
+    "nimi": "Laskentakapasiteetti ja huippupiirit (GPU/ASIC)",
+    "kuvaus": "Nvidian Blackwell/Vera Rubin -kysyntä ylittää tarjonnan; TSMC:n CoWoS-pakkauskapasiteetti kasvaa mutta ei tarpeeksi nopeasti. Pullonkaula helpottaa hieman mutta pysyy kireänä geopoliittisten vientirajoitusten vuoksi.",
+    "suuret_yhtiot": [
+     "Nvidia (NVDA)",
+     "TSMC (TSM)",
+     "AMD (AMD)",
+     "Broadcom (AVGO)",
+     "Intel (INTC)"
+    ],
+    "pienet_poiminnat": [
+     {
+      "ticker": "AEHR",
+      "nimi": "Aehr Test Systems",
+      "perustelu": "AI-piirien burn-in-testauslaitteet, hyötyy volyymikasvusta",
+      "riskit": "Syklisyys, asiakaskeskittymä"
+     },
+     {
+      "ticker": "CRDO",
+      "nimi": "Credo Technology",
+      "perustelu": "AEC-kaapelit ja SerDes AI-klustereiden kytkentään, vahva tilauskanta hyperskaalaajilta",
+      "riskit": "Korkea arvostus, kilpailu Broadcomin kanssa"
+     }
+    ]
+   },
+   {
+    "nimi": "Muisti (HBM/DRAM)",
+    "kuvaus": "Akuutein pullonkaula juuri nyt: HBM-tuotanto vie yli 90% valmistajien kapasiteetista, varastot ovat pudonneet muutamaan viikkoon ja hinnat kaksinkertaistuneet. HBM4:n tuotantomonimutkaisuus (yield wall) pitää tarjonnan tiukkana. Suunta: kiristyy, pulan arvioidaan kestävän 2027-2030 asti.",
+    "suuret_yhtiot": [
+     "SK Hynix",
+     "Samsung Electronics",
+     "Micron Technology (MU)"
+    ],
+    "pienet_poiminnat": [
+     {
+      "ticker": "AXTI",
+      "nimi": "AXT Inc.",
+      "perustelu": "Yhdistesubstraatit muisti- ja optiikkatoimitusketjulle",
+      "riskit": "Pieni yhtiö, Kiina-riippuvuus raaka-aineissa"
+     },
+     {
+      "ticker": "FORM",
+      "nimi": "FormFactor",
+      "perustelu": "Testauskärjet ja -kortit hyötyvät HBM:n laadunvarmistustarpeen kasvusta",
+      "riskit": "Syklinen puolijohdekapex"
+     }
+    ]
+   },
+   {
+    "nimi": "Energia ja sähköverkot",
+    "kuvaus": "AI-datakeskusten sähkönkysyntä kasvaa moninkertaiseksi, sähköverkon liityntäkapasiteetti ja muuntajat ovat pullonkaula. Suunta: selvästi kiristyvä.",
+    "suuret_yhtiot": [
+     "Vistra (VST)",
+     "Constellation Energy (CEG)",
+     "NextEra Energy (NEE)",
+     "GE Vernova (GEV)"
+    ],
+    "pienet_poiminnat": [
+     {
+      "ticker": "BE",
+      "nimi": "Bloom Energy",
+      "perustelu": "Kiinteäoksidipolttokennot paikalliseen sähköntuotantoon datakeskuksille",
+      "riskit": "Kannattavuus, pääomaintensiivisyys"
+     },
+     {
+      "ticker": "TLN",
+      "nimi": "Talen Energy",
+      "perustelu": "Ydinvoimalla tuettuja suoria datakeskussopimuksia",
+      "riskit": "Sääntelyriski, aikataulut"
+     }
+    ]
+   },
+   {
+    "nimi": "Ydinvoima ja uraani",
+    "kuvaus": "Ydinvoima nähdään ratkaisuna datakeskusten perusvoimatarpeeseen; hyperskaalaajat solmivat suoria sopimuksia ja investoivat SMR-teknologiaan. Tarjonta reagoi hitaasti, joten pullonkaula kiristyy pitkällä aikavälillä.",
+    "suuret_yhtiot": [
+     "Cameco (CCJ)",
+     "Kazatomprom"
+    ],
+    "pienet_poiminnat": [
+     {
+      "ticker": "UUUU",
+      "nimi": "Energy Fuels",
+      "perustelu": "Yhdysvaltalainen uraani- ja harvinaisten maametallien tuottaja, kaksoishyötyjä",
+      "riskit": "Tuotannon skaalautuvuus, hintavolatiliteetti"
+     },
+     {
+      "ticker": "EQR.AX",
+      "nimi": "EQ Resources",
+      "perustelu": "Volframiin ja kriittisiin mineraaleihin keskittyvä pienyhtiö, korkea tuottopotentiaali",
+      "riskit": "Likviditeetti, projektien toteutusriski"
+     }
+    ]
+   },
+   {
+    "nimi": "Jäähdytys",
+    "kuvaus": "GPU-tiheyden kasvu tekee ilmajäähdytyksestä riittämättömän; nestejäähdytys yleistyy nopeasti. Erikoiskomponenttien valmistuskapasiteetti on pullonkaula, joka kiristyy lyhyellä aikavälillä.",
+    "suuret_yhtiot": [
+     "Vertiv (VRT)",
+     "Schneider Electric",
+     "Honeywell"
+    ],
+    "pienet_poiminnat": [
+     {
+      "ticker": "MOD",
+      "nimi": "Modine Manufacturing",
+      "perustelu": "Datakeskusjäähdytysratkaisut, kasvava AI-liikevaihto-osuus",
+      "riskit": "Arvostus noussut voimakkaasti, kilpailu kiristyy"
+     }
+    ]
+   },
+   {
+    "nimi": "Verkotus ja optiikka",
+    "kuvaus": "AI-klustereiden skaalautuminen vaatii massiivisesti optisia liitäntöjä ja uusia Ethernet-ratkaisuja (mm. Nvidia Spectrum-XGS). Co-packaged optics -siirtymä on vielä kesken, pullonkaula kiristyy.",
+    "suuret_yhtiot": [
+     "Broadcom (AVGO)",
+     "Arista Networks (ANET)",
+     "Coherent (COHR)"
+    ],
+    "pienet_poiminnat": [
+     {
+      "ticker": "CRDO",
+      "nimi": "Credo Technology",
+      "perustelu": "Aktiiviset sähkökaapelit ja optiset DSP:t, vahva tilauskanta hyperskaalaajilta",
+      "riskit": "Asiakaskeskittymä"
+     }
+    ]
+   },
+   {
+    "nimi": "Kriittiset mineraalit ja harvinaiset maametallit",
+    "kuvaus": "Kiinan vientirajoitukset harvinaisille maametalleille, germaniumille ja galliumille lisäävät geopoliittista riskiä koko toimitusketjuun. Länsimaiset vaihtoehtoiset ketjut ovat rakenteilla mutta hitaita. Pullonkaula kiristyy geopolitiikan myötä.",
+    "suuret_yhtiot": [
+     "MP Materials (MP)",
+     "Lynas Rare Earths"
+    ],
+    "pienet_poiminnat": [
+     {
+      "ticker": "UUUU",
+      "nimi": "Energy Fuels",
+      "perustelu": "Laajentunut uraanista harvinaisiin maametalleihin (White Mesa -laitos)",
+      "riskit": "Prosessiteknologian ylösajo"
+     },
+     {
+      "ticker": "EQR.AX",
+      "nimi": "EQ Resources",
+      "perustelu": "Volframi Kiinan vientirajoitusten kohteena, strateginen arvo länsimaille",
+      "riskit": "Pieni yhtiö, hinnanvaihtelu"
+     }
+    ]
+   },
+   {
+    "nimi": "Datakeskusrakentaminen",
+    "kuvaus": "Muuntajien, kytkinlaitteiden ja ammattitaitoisen työvoiman toimitusajat ovat venyneet, mikä hidastaa uusien datakeskusten valmistumista. Modulaarinen rakentaminen helpottaa osittain, mutta pullonkaula pysyy kireänä.",
+    "suuret_yhtiot": [
+     "Eaton (ETN)",
+     "Vertiv (VRT)",
+     "Jacobs Engineering"
+    ],
+    "pienet_poiminnat": [
+     {
+      "ticker": "FIX",
+      "nimi": "Comfort Systems USA",
+      "perustelu": "Mekaaninen/sähköinen urakointi datakeskuksille, vahva tilauskanta",
+      "riskit": "Korkea arvostus, syklisyys"
+     }
+    ]
+   }
+  ],
+  "seurantalista": [
+   {
+    "ticker": "UUUU",
+    "liittyy": "Ydinvoima/uraani ja kriittiset mineraalit",
+    "huomiot": "Laajentunut uraanista harvinaisiin maametalleihin, hyötyy sekä ydinvoiman kasvusta että Kiinan vientirajoitusten synnyttämästä länsimaisesta toimitusketjusta"
+   },
+   {
+    "ticker": "EQR.AX",
+    "liittyy": "Kriittiset mineraalit (volframi)",
+    "huomiot": "Volframi on yksi Kiinan vientirajoitusten kohteena olevista strategisista metalleista, mikä nostaa länsimaisten tuottajien merkitystä"
+   },
+   {
+    "ticker": "CCJ",
+    "liittyy": "Ydinvoima/uraani",
+    "huomiot": "Hyperskaalaajien suorat ydinvoimasopimukset nostavat uraanin kysyntänäkymää rakenteellisesti"
+   },
+   {
+    "ticker": "MU",
+    "liittyy": "Muisti (HBM/DRAM)",
+    "huomiot": "Yksi kolmesta valmistajasta, jotka ovat kohdentaneet valtaosan kapasiteetistaan HBM-tuotantoon, mutta liian pieni yksin paikatakseen markkinan aukkoa; toimitusjohtaja on varoittanut pulan pitkittymisestä yli 2026"
+   },
+   {
+    "ticker": "NVDA",
+    "liittyy": "Laskentakapasiteetti / verkotus",
+    "huomiot": "Solminut merkittäviä infrastruktuurikumppanuuksia (mm. Anthropic 1 GW), jatkaa Blackwell/Vera Rubin -ramppausta, mutta riippuvainen niukasta HBM-muistista"
+   }
+  ],
+  "uudet_ehdokkaat": [
+   {
+    "ticker": "BE",
+    "nimi": "Bloom Energy",
+    "miksi": "Suora hyötyjä datakeskusten paikallisen sähköntuotannon kasvusta, tuoretta uutisvirtaa hyperskaalaaja-kumppanuuksista"
+   },
+   {
+    "ticker": "TLN",
+    "nimi": "Talen Energy",
+    "miksi": "Ydinvoimalla tuettuja suoria datakeskussopimuksia hyperskaalaajien kanssa"
+   },
+   {
+    "ticker": "FORM",
+    "nimi": "FormFactor",
+    "miksi": "Hyötyy HBM:n laadunvarmistustarpeen kasvusta muistikriisin keskellä"
+   },
+   {
+    "ticker": "MOD",
+    "nimi": "Modine Manufacturing",
+    "miksi": "Datakeskusjäähdytysratkaisujen kysyntä kasvaa nopeasti nestejäähdytyssiirtymän myötä"
+   }
+  ]
+ }
+}
