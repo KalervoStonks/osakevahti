@@ -1,5 +1,57 @@
 [
  {
+  "id": "7852d092705bb779",
+  "ticker": "MU",
+  "tyyppi": "uutinen",
+  "lahde": "Google News",
+  "otsikko": "Why Micron (MU) Stock Is Down Today - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSTBXdmVwYm9ROVZudThIN1VZRTRZeTJYckNGTDFJak51NVo3YW1ZSmFkTWlkRUg2UUg1Y3RhVV8weFNob1ZjYlRMQk9YbGxLVm5aZzFUYzczMlFtYTc4bXMzalNua3lQTko0SWdoeV9nUWNLXzl5TXpXcVpldGhLcDlZVHVEY3RlbDgyZnI2REZfUm8?oc=5",
+  "julkaistu": "Thu, 16 Jul 2026 21:13:22 GMT",
+  "kriittisyys": 5,
+  "luokka": "muu",
+  "tiivistelma": "Micron-osakkeen kurssissa on laskua, mutta otsikko ei kerro konkreettisista syistä. Tavanomainen markkinauutinen, joka vaatii artikkelin lukemista ymmärtämään vaikutusta.",
+  "haettu": "2026-07-17T00:15:34+00:00"
+ },
+ {
+  "id": "1c751b05c4d7c4c8",
+  "ticker": "NVDA",
+  "tyyppi": "uutinen",
+  "lahde": "Yahoo Finance",
+  "otsikko": "Why Newell Brands Stock Raced More Than 5% Higher Today",
+  "url": "https://www.fool.com/investing/2026/07/16/why-newell-brands-stock-raced-more-than-5-higher-t/?.tsrc=rss",
+  "julkaistu": "Thu, 16 Jul 2026 23:56:03 +0000",
+  "kriittisyys": 1,
+  "luokka": "muu",
+  "tiivistelma": "Otsikko koskee Newell Brands -yhtiötä, ei NVDA:ta. Väärä yhtiö liitteenä, uutisella ei ole relevanssia NVIDIA-sijoittajalle.",
+  "haettu": "2026-07-17T00:15:34+00:00"
+ },
+ {
+  "id": "d88c9339e6a089b0",
+  "ticker": "NVDA",
+  "tyyppi": "uutinen",
+  "lahde": "Yahoo Finance",
+  "otsikko": "The $1,000 Hidden Tax on Every $10,000 Invested in This NVIDIA ETF",
+  "url": "https://247wallst.com/investing/etf/2026/07/16/the-1000-hidden-tax-on-every-10000-invested-in-this-nvidia-etf/?.tsrc=rss",
+  "julkaistu": "Thu, 16 Jul 2026 23:51:35 +0000",
+  "kriittisyys": 2,
+  "luokka": "muu",
+  "tiivistelma": "Spekulatiivinen artikkeli NVIDIA-ETF:n maksuista. Ei sisällä uutta informaatiota yhtiöstä tai sen liiketoiminnasta, pikemminkin mainosmainen sisältö.",
+  "haettu": "2026-07-17T00:15:34+00:00"
+ },
+ {
+  "id": "74ba242597fcd335",
+  "ticker": "NVDA",
+  "tyyppi": "uutinen",
+  "lahde": "Yahoo Finance",
+  "otsikko": "Realty Income Is the Dividend Stock I'd Buy as Cooling Inflation Turns Into a Tailwind",
+  "url": "https://www.fool.com/investing/2026/07/16/realty-income-is-the-dividend-stock-id-buy-as-cool/?.tsrc=rss",
+  "julkaistu": "Thu, 16 Jul 2026 23:36:00 +0000",
+  "kriittisyys": 1,
+  "luokka": "muu",
+  "tiivistelma": "Otsikko koskee Realty Income -yhtiötä ja inflaatiokehitystä, ei NVIDIA:ta. Väärä yhtiö liitteenä, ei relevanttia NVIDIA-sijoittajille.",
+  "haettu": "2026-07-17T00:15:34+00:00"
+ },
+ {
   "id": "d1b9b3a2e5ccf28d",
   "ticker": "UUUU",
   "tyyppi": "uutinen",
@@ -5145,58 +5197,6 @@
   "kriittisyys": 6,
   "luokka": "saantely",
   "tiivistelma": "Kolme kiinalaista yritystä saivat USA:n hyväksynnän edistyneiden siruja koskevan kauppakiellon alaisista. Merkittävä positiivinen tieto Nvidian vientimahdollisuuksista Kiinaan.",
-  "haettu": "2026-07-14T20:43:33+00:00"
- },
- {
-  "id": "6d4005b4f8100d99",
-  "ticker": "NVDA",
-  "tyyppi": "uutinen",
-  "lahde": "Yahoo Finance",
-  "otsikko": "Why Core Scientific Stock Was Up 75.8% In The First Half of 2026",
-  "url": "https://www.fool.com/investing/2026/07/14/why-core-scientific-stock-was-up-758-in-the-first/?.tsrc=rss",
-  "julkaistu": "Tue, 14 Jul 2026 20:30:50 +0000",
-  "kriittisyys": 1,
-  "luokka": "muu",
-  "tiivistelma": "Uutinen koskee Core Scientific -yhtiötä, ei Nvidiaa. Ei relevantti NVDA-sijoittajalle.",
-  "haettu": "2026-07-14T20:43:33+00:00"
- },
- {
-  "id": "4760357ff7b827b0",
-  "ticker": "NVDA",
-  "tyyppi": "uutinen",
-  "lahde": "Yahoo Finance",
-  "otsikko": "Why Lucid Group Plunged Today",
-  "url": "https://www.fool.com/investing/2026/07/14/why-lucid-motors-plunged-today/?.tsrc=rss",
-  "julkaistu": "Tue, 14 Jul 2026 20:26:06 +0000",
-  "kriittisyys": 1,
-  "luokka": "muu",
-  "tiivistelma": "Uutinen koskee Lucid Group -yhtiötä, ei Nvidiaa. Ei relevantti NVDA-sijoittajalle.",
-  "haettu": "2026-07-14T20:43:33+00:00"
- },
- {
-  "id": "b4a0482a416860d8",
-  "ticker": "NVDA",
-  "tyyppi": "uutinen",
-  "lahde": "Yahoo Finance",
-  "otsikko": "Prediction: This Will Be Nvidia's Stock Price Next Year (Hint: The Time to Buy Is Now)",
-  "url": "https://www.fool.com/investing/2026/07/14/prediction-this-will-be-nvidias-stock-price-next-y/?.tsrc=rss",
-  "julkaistu": "Tue, 14 Jul 2026 20:25:00 +0000",
-  "kriittisyys": 1,
-  "luokka": "muu",
-  "tiivistelma": "Neljäs toisto samasta spekulatiivisesta hintaennusteesta. Ei uutta informaatiota sijoittajille.",
-  "haettu": "2026-07-14T20:43:33+00:00"
- },
- {
-  "id": "fd1edaf214259aca",
-  "ticker": "NVDA",
-  "tyyppi": "uutinen",
-  "lahde": "Yahoo Finance",
-  "otsikko": "1 Wall Street Analyst Sees Spacex's Stock Soaring by Over 450%. What Are the Chances of It Happening?",
-  "url": "https://www.fool.com/investing/2026/07/14/1-wall-street-analyst-sees-spacexs-stock-soaring-b/?.tsrc=rss",
-  "julkaistu": "Tue, 14 Jul 2026 20:25:00 +0000",
-  "kriittisyys": 1,
-  "luokka": "muu",
-  "tiivistelma": "Uutinen koskee SpaceX:n osakkeiden ennustetta, ei Nvidiaa. Ei relevantti NVDA-sijoittajalle.",
   "haettu": "2026-07-14T20:43:33+00:00"
  }
 ]
