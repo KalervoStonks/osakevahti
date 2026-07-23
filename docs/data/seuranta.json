@@ -1,1 +1,61 @@
-{}
+{
+ "paivitetty": "2026-07-23T15:50:10+00:00",
+ "osakkeet": [
+  {
+   "ticker": "UUUU",
+   "nimi": "Energy Fuels",
+   "lahde": "oma",
+   "syy": "",
+   "lisatty": ""
+  },
+  {
+   "ticker": "EQR.AX",
+   "nimi": "EQ Resources",
+   "lahde": "oma",
+   "syy": "",
+   "lisatty": ""
+  },
+  {
+   "ticker": "CCJ",
+   "nimi": "Cameco",
+   "lahde": "oma",
+   "syy": "",
+   "lisatty": ""
+  },
+  {
+   "ticker": "MU",
+   "nimi": "Micron Technology",
+   "lahde": "oma",
+   "syy": "",
+   "lisatty": ""
+  },
+  {
+   "ticker": "NVDA",
+   "nimi": "Nvidia",
+   "lahde": "oma",
+   "syy": "",
+   "lisatty": ""
+  },
+  {
+   "ticker": "POWL",
+   "nimi": "Powell Industries",
+   "lahde": "auto",
+   "syy": "Analyysi: Muuntaja- ja sähkönjakelupula on noussut konkreettisimmaksi datakeskusrakentamisen esteeksi; yhtiöllä vahva tilauskertymä.",
+   "lisatty": "2026-07-23T15:50:10+00:00"
+  },
+  {
+   "ticker": "LITE",
+   "nimi": "Lumentum Holdings",
+   "lahde": "auto",
+   "syy": "Analyysi: Nvidian miljardiluokan ennakkoinvestoinnit optiikkaan viittaavat siihen, että optinen verkotus on seuraava merkittävä pullonkaula sirujen ja muistin jälkeen.",
+   "lisatty": "2026-07-23T15:50:10+00:00"
+  },
+  {
+   "ticker": "OKLO",
+   "nimi": "Oklo",
+   "lahde": "auto",
+   "syy": "Analyysi: Teknologiajättien ydinvoimasopimukset laajenevat kohti uutta pientä modulaarista kapasiteettia (SMR), ei vain olemassa olevia reaktoreita.",
+   "lisatty": "2026-07-23T15:50:10+00:00"
+  }
+ ]
+}

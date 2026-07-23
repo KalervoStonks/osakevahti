@@ -1,9 +1,67 @@
 {
-  "osakkeet": [
-    { "ticker": "UUUU", "nimi": "Energy Fuels", "markkina": "us", "stocktwits": "UUUU", "lahde": "oma" },
-    { "ticker": "EQR.AX", "nimi": "EQ Resources", "markkina": "asx", "asx_koodi": "EQR", "stocktwits": "EQR.AX", "lahde": "oma" },
-    { "ticker": "CCJ", "nimi": "Cameco", "markkina": "us", "stocktwits": "CCJ", "lahde": "oma" },
-    { "ticker": "MU", "nimi": "Micron Technology", "markkina": "us", "stocktwits": "MU", "lahde": "oma" },
-    { "ticker": "NVDA", "nimi": "Nvidia", "markkina": "us", "stocktwits": "NVDA", "lahde": "oma" }
-  ]
+ "osakkeet": [
+  {
+   "ticker": "UUUU",
+   "nimi": "Energy Fuels",
+   "markkina": "us",
+   "stocktwits": "UUUU",
+   "lahde": "oma"
+  },
+  {
+   "ticker": "EQR.AX",
+   "nimi": "EQ Resources",
+   "markkina": "asx",
+   "asx_koodi": "EQR",
+   "stocktwits": "EQR.AX",
+   "lahde": "oma"
+  },
+  {
+   "ticker": "CCJ",
+   "nimi": "Cameco",
+   "markkina": "us",
+   "stocktwits": "CCJ",
+   "lahde": "oma"
+  },
+  {
+   "ticker": "MU",
+   "nimi": "Micron Technology",
+   "markkina": "us",
+   "stocktwits": "MU",
+   "lahde": "oma"
+  },
+  {
+   "ticker": "NVDA",
+   "nimi": "Nvidia",
+   "markkina": "us",
+   "stocktwits": "NVDA",
+   "lahde": "oma"
+  },
+  {
+   "ticker": "POWL",
+   "nimi": "Powell Industries",
+   "lahde": "auto",
+   "lisatty": "2026-07-23T15:50:10+00:00",
+   "syy": "Analyysi: Muuntaja- ja sähkönjakelupula on noussut konkreettisimmaksi datakeskusrakentamisen esteeksi; yhtiöllä vahva tilauskertymä.",
+   "markkina": "us",
+   "stocktwits": "POWL"
+  },
+  {
+   "ticker": "LITE",
+   "nimi": "Lumentum Holdings",
+   "lahde": "auto",
+   "lisatty": "2026-07-23T15:50:10+00:00",
+   "syy": "Analyysi: Nvidian miljardiluokan ennakkoinvestoinnit optiikkaan viittaavat siihen, että optinen verkotus on seuraava merkittävä pullonkaula sirujen ja muistin jälkeen.",
+   "markkina": "us",
+   "stocktwits": "LITE"
+  },
+  {
+   "ticker": "OKLO",
+   "nimi": "Oklo",
+   "lahde": "auto",
+   "lisatty": "2026-07-23T15:50:10+00:00",
+   "syy": "Analyysi: Teknologiajättien ydinvoimasopimukset laajenevat kohti uutta pientä modulaarista kapasiteettia (SMR), ei vain olemassa olevia reaktoreita.",
+   "markkina": "us",
+   "stocktwits": "OKLO"
+  }
+ ]
 }
