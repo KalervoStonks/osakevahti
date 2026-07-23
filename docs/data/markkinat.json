@@ -1,1 +1,40 @@
-{}
+{
+ "paivitetty": "2026-07-23T15:13:55+00:00",
+ "kurssit": {
+  "UUUU": {
+   "hinta": 11.9,
+   "valuutta": "USD",
+   "muutos_1pv": -3.3,
+   "muutos_5pv": 2.0,
+   "nimi": "Energy Fuels"
+  },
+  "EQR.AX": {
+   "hinta": 0.27,
+   "valuutta": "AUD",
+   "muutos_1pv": 1.9,
+   "muutos_5pv": 10.2,
+   "nimi": "EQ Resources"
+  },
+  "CCJ": {
+   "hinta": 88.33,
+   "valuutta": "USD",
+   "muutos_1pv": -2.3,
+   "muutos_5pv": 1.1,
+   "nimi": "Cameco"
+  },
+  "MU": {
+   "hinta": 980.89,
+   "valuutta": "USD",
+   "muutos_1pv": 2.2,
+   "muutos_5pv": 15.0,
+   "nimi": "Micron Technology"
+  },
+  "NVDA": {
+   "hinta": 206.6,
+   "valuutta": "USD",
+   "muutos_1pv": -2.6,
+   "muutos_5pv": -0.4,
+   "nimi": "Nvidia"
+  }
+ }
+}
