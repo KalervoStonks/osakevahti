@@ -8,12 +8,13 @@
   :root {
     --bg:#0b0e14; --card:#11161f; --card2:#151b26; --border:#1f2733; --border2:#2a3444;
     --text:#e8ecf3; --muted:#8b95a5; --dim:#5c6675; --accent:#60a5fa;
+    --green:#34d399; --red:#f87171; --amber:#fbbf24;
   }
   * { box-sizing:border-box; }
   body { margin:0; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; background:var(--bg); color:var(--text); }
   a { color:inherit; }
   nav { position:sticky; top:0; z-index:10; background:rgba(11,14,20,.92); backdrop-filter:blur(8px);
-        border-bottom:1px solid var(--border); display:flex; align-items:center; gap:20px;
+        border-bottom:1px solid var(--border); display:flex; align-items:center; gap:18px;
         padding:0 20px; overflow-x:auto; white-space:nowrap; }
   nav .brand { font-weight:700; font-size:14px; letter-spacing:.04em; color:var(--muted); padding:14px 0; }
   nav button { background:none; border:none; color:var(--muted); font-size:14px; font-weight:600;
@@ -21,46 +22,60 @@
   nav button.active { color:var(--text); border-bottom-color:var(--accent); }
   nav button:hover { color:var(--text); }
   .badge-count { background:#1d4ed8; color:#fff; border-radius:10px; font-size:11px; padding:1px 7px; margin-left:4px; vertical-align:1px; }
-  main { max-width:960px; margin:0 auto; padding:36px 20px 80px; }
+  main { max-width:960px; margin:0 auto; padding:32px 20px 80px; }
   .kicker { font-size:12px; font-weight:700; letter-spacing:.14em; text-transform:uppercase; color:var(--dim); margin:0 0 14px; }
-  h1 { font-size:clamp(30px,5.4vw,46px); line-height:1.12; margin:0 0 18px; font-weight:800; letter-spacing:-.015em; }
-  .johdanto { font-size:16px; line-height:1.65; color:var(--muted); max-width:640px; margin:0 0 40px; }
+  h1 { font-size:clamp(28px,5vw,44px); line-height:1.13; margin:0 0 18px; font-weight:800; letter-spacing:-.015em; }
+  .johdanto { font-size:16px; line-height:1.65; color:var(--muted); max-width:640px; margin:0 0 38px; }
   .johdanto strong { color:var(--text); }
-  .virtaus-otsikot { display:flex; justify-content:space-between; font-size:13px; font-weight:600; color:var(--muted); margin-bottom:4px; }
+  .virtaus-otsikot { display:flex; justify-content:space-between; font-size:13px; font-weight:600; color:var(--muted); margin-bottom:2px; }
   #virtaus { width:100%; height:auto; display:block; }
   @keyframes virtaa { to { stroke-dashoffset:-30; } }
   .kanava { animation:virtaa 1.8s linear infinite; }
-  .selite { font-size:13px; color:var(--dim); line-height:1.6; margin:14px 0 44px; max-width:560px; }
-  .statit { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; margin-bottom:52px; }
+  .selite { font-size:13px; color:var(--dim); line-height:1.6; margin:12px 0 40px; max-width:560px; }
+  .statit { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; margin-bottom:48px; }
   .stat { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:18px 18px 14px; }
   .stat .luku { font-size:30px; font-weight:800; }
   .stat .nimi { font-size:11px; font-weight:700; letter-spacing:.1em; text-transform:uppercase; color:var(--dim); margin-top:6px; }
   h2 { font-size:20px; margin:0 0 14px; font-weight:700; }
-  .selite-lyhyt { color:var(--muted); font-size:14px; line-height:1.6; margin:0 0 18px; max-width:560px; }
+  h2.osio { margin-top:32px; }
+  .selite-lyhyt { color:var(--muted); font-size:14px; line-height:1.6; margin:0 0 18px; max-width:600px; }
   .vaiheet { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:12px; }
   .vaihe { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:16px; position:relative; }
   .vaihe .nro { position:absolute; top:12px; right:14px; color:var(--dim); font-weight:700; }
   .vaihe h3 { margin:0 0 8px; font-size:15px; }
   .vaihe p { margin:0; font-size:13px; line-height:1.55; color:var(--muted); }
   .filters { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:18px; }
-  .filters button { padding:5px 13px; border:1px solid var(--border2); background:var(--card); border-radius:15px;
-        font-size:13px; cursor:pointer; color:var(--muted); }
+  .filters button { padding:5px 13px; border:1px solid var(--border2); background:var(--card); border-radius:15px; font-size:13px; cursor:pointer; color:var(--muted); }
   .filters button.active { border-color:var(--accent); color:var(--accent); }
   .kortti { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:15px 17px; margin-bottom:10px; }
   .kortti a { text-decoration:none; font-weight:600; font-size:15px; }
   .kortti a:hover { text-decoration:underline; }
   .tiivistelma { margin:7px 0 0; font-size:14px; line-height:1.55; color:#b6bfcc; }
   .meta { font-size:12px; color:var(--dim); margin-top:8px; }
-  .kbadge { display:inline-block; min-width:34px; text-align:center; padding:2px 7px; border-radius:6px;
-        font-size:12px; font-weight:700; color:#fff; margin-right:8px; }
+  .kbadge { display:inline-block; min-width:34px; text-align:center; padding:2px 7px; border-radius:6px; font-size:12px; font-weight:700; color:#fff; margin-right:8px; }
   .b-red { background:#b91c1c; } .b-orange { background:#c2540a; } .b-yellow { background:#a16207; } .b-gray { background:#3f4854; }
   .chip { display:inline-block; padding:2px 9px; border-radius:10px; font-size:11px; background:#172554; color:#93c5fd; margin-left:6px; }
-  .pieni { background:var(--card2); border:1px solid var(--border2); border-left:3px solid #34d399; border-radius:0 8px 8px 0;
-        padding:11px 13px; margin:10px 0; font-size:14px; line-height:1.5; }
+  .pris { display:inline-block; padding:2px 8px; border-radius:6px; font-size:12px; font-weight:600; margin-left:6px; }
+  .pris.up { background:#052e1a; color:#6ee7b7; } .pris.down { background:#3b0d0d; color:#fca5a5; }
+  .pieni { background:var(--card2); border:1px solid var(--border2); border-left:3px solid var(--green); border-radius:0 8px 8px 0; padding:11px 13px; margin:10px 0; font-size:14px; line-height:1.5; }
   .pieni .riskit { color:#f0a5a5; font-size:13px; margin-top:5px; }
   .suuret { font-size:13px; color:var(--muted); margin:10px 0 0; }
   .tyhja { color:var(--dim); padding:40px 0; text-align:center; font-size:14px; }
-  section h2.osio { margin-top:34px; }
+  .varoitus { background:#2a1f06; border:1px solid #7c5e10; border-radius:12px; padding:14px 16px; margin-bottom:20px; font-size:13px; line-height:1.6; color:#f5d98a; }
+  .varoitus strong { color:#fde68a; }
+  .nbadge { display:inline-block; padding:3px 12px; border-radius:8px; font-size:13px; font-weight:700; color:#fff; }
+  .n-osta { background:#15803d; } .n-lisaa { background:#0d9488; } .n-pida { background:#4b5563; } .n-vahenna { background:#c2540a; } .n-myy { background:#b91c1c; }
+  .suositus h3 { margin:0 0 4px; font-size:17px; display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin:12px 0; }
+  @media (max-width:560px){ .grid2 { grid-template-columns:1fr; } }
+  .grid2 h4 { margin:0 0 6px; font-size:13px; color:var(--muted); font-weight:700; }
+  .grid2 ul { margin:0; padding-left:18px; font-size:13px; line-height:1.6; color:#c3ccd8; }
+  .luvut { list-style:none; margin:8px 0 0; padding:0; }
+  .luvut li { font-size:13px; padding:6px 0; border-top:1px solid var(--border); color:#c3ccd8; }
+  .luvut b { color:var(--text); }
+  .rivi { display:flex; flex-wrap:wrap; gap:6px 14px; font-size:12px; color:var(--dim); margin-top:10px; }
+  .teemarivi { display:flex; justify-content:space-between; align-items:center; padding:9px 0; border-top:1px solid var(--border); font-size:14px; }
+  .teemarivi .palkki { height:6px; border-radius:3px; background:var(--accent); }
 </style>
 </head>
 <body>
@@ -68,6 +83,8 @@
   <span class="brand">OSAKEVAHTI</span>
   <button data-sivu="yleiskuva" class="active">Yleiskuva</button>
   <button data-sivu="uutiset">Uutiset <span id="uutisbadge" class="badge-count" style="display:none"></span></button>
+  <button data-sivu="teemat">Teemat</button>
+  <button data-sivu="suositukset">Suositukset</button>
   <button data-sivu="pullonkaulat">Pullonkaulat</button>
   <button data-sivu="seuranta">Seuranta</button>
 </nav>
@@ -76,28 +93,40 @@
 <section id="sivu-yleiskuva">
   <p class="kicker">Pullonkaula-digest · päivittyvä tutkimustyökalu</p>
   <h1>Kaikki katsovat tekoälyä. Tämä katsoo, mitä sen rakentaminen vaatii.</h1>
-  <p class="johdanto">Tekoäly ei ole vain ohjelmistoja. Se on halleja, jotka tarvitsevat <strong>sähköä, jäähdytystä, erikoismetalleja ja uraania</strong> — ja juuri niistä on pulaa. Tämä työkalu lukee alan uutiset puolen tunnin välein, arvioi mitkä niistä ovat sijoittajalle merkittäviä ja kokoaa viikoittain kuvan siitä, mitkä yhtiöt hyötyvät pullonkauloista.</p>
+  <p class="johdanto">Tekoäly ei ole vain ohjelmistoja. Se on halleja, jotka tarvitsevat <strong>sähköä, jäähdytystä, erikoismetalleja ja uraania</strong> — ja juuri niistä on pulaa. Tämä työkalu lukee alan uutiset, viralliset pörssitiedotteet ja sijoittajakeskustelut, arvioi mitkä niistä ovat merkittäviä ja kokoaa kuvan siitä, mitkä yhtiöt hyötyvät pullonkauloista.</p>
 
   <div class="virtaus-otsikot"><span>AI-investoinnit sisään</span><span>Rakentaminen toteutuu — viiveellä</span></div>
   <svg id="virtaus" viewBox="0 0 900 360" role="img" aria-label="Pullonkaula-alueet virtauskanavina"></svg>
-  <p class="selite" id="virtaus-selite">Raha virtaa tekoälyyn nopeammin kuin fyysinen maailma ehtii rakentaa. Kapeikot määräävät tahdin — ja kapeikoissa syntyy arvo. Kanavan paksuus kertoo, kuinka suuri osuus havainnoista koskee teemaa.</p>
+  <p class="selite" id="virtaus-selite">Kanavan paksuus ja prosentti kertovat, kuinka suuri osuus kerätyistä pullonkaulauutisista koskee kutakin teemaa. Kapeikot määräävät tahdin — ja kapeikoissa syntyy arvo.</p>
 
   <div class="statit" id="statit"></div>
 
   <h2>Näin se toimii</h2>
   <p class="selite-lyhyt">Neljä vaihetta, jotka pidetään tarkoituksella erillään: tulkinta ei sotke keräystä, eikä kerääminen tulkintaa.</p>
   <div class="vaiheet">
-    <div class="vaihe"><span class="nro">1</span><h3>Uutiset sisään</h3><p>Google News, Yahoo Finance, StockTwits ja Reddit luetaan noin 30 minuutin välein: sopimukset, tulokset, politiikka, huhut.</p></div>
-    <div class="vaihe"><span class="nro">2</span><h3>Tekoäly tulkitsee</h3><p>Malli arvioi jokaisen havainnon kriittisyyden asteikolla 1–10 ja tiivistää sen suomeksi sijoittajan näkökulmasta.</p></div>
-    <div class="vaihe"><span class="nro">3</span><h3>Hälytykset</h3><p>Kriittiset (8+) lähtevät heti sähköpostiin. Merkittävät (4–7) kootaan yhteen iltakoosteeseen.</p></div>
-    <div class="vaihe"><span class="nro">4</span><h3>Viikkoanalyysi</h3><p>Sunnuntaisin web-haku kartoittaa pullonkaulat alueittain: isot hyötyjät, pienet tuottopotentiaaliyhtiöt ja uudet seurantaehdokkaat.</p></div>
+    <div class="vaihe"><span class="nro">1</span><h3>Data sisään</h3><p>Uutiset, viralliset SEC- ja ASX-tiedotteet, StockTwits ja Reddit luetaan noin 30 min välein. Teemauutiset ja kurssit haetaan päivittäin.</p></div>
+    <div class="vaihe"><span class="nro">2</span><h3>Tekoäly tulkitsee</h3><p>Malli arvioi jokaisen havainnon kriittisyyden 1–10, tiivistää sen suomeksi ja tunnistaa mainitut yhtiöt.</p></div>
+    <div class="vaihe"><span class="nro">3</span><h3>Hälytykset</h3><p>Kriittiset (8+) lähtevät heti sähköpostiin. Merkittävät (4–7) kootaan iltakoosteeseen.</p></div>
+    <div class="vaihe"><span class="nro">4</span><h3>Analyysi ja näkemys</h3><p>Viikoittain web-haku kartoittaa pullonkaulat ja muodostaa itsenäisen sijoitusnäkemyksen jokaisesta yhtiöstä.</p></div>
   </div>
 </section>
 
 <section id="sivu-uutiset" hidden>
-  <h2>Uutiset ja some</h2>
+  <h2>Uutiset, tiedotteet ja some</h2>
   <div class="filters" id="filters"></div>
   <div id="uutislista"><p class="tyhja">Ladataan...</p></div>
+</section>
+
+<section id="sivu-teemat" hidden>
+  <h2>Pullonkaula-teemat</h2>
+  <p class="selite-lyhyt">Laajempi uutisvirta kustakin tekoälyn pullonkaulasta — ei sidottu vain omiin osakkeisiisi. Täältä nousee esiin uusia yhtiöitä.</p>
+  <div id="teemat"><p class="tyhja">Ladataan...</p></div>
+</section>
+
+<section id="sivu-suositukset" hidden>
+  <h2>Tekoälyn sijoitusnäkemykset</h2>
+  <div class="varoitus"><strong>Huomio:</strong> Tämä on tekoälyn julkisesta datasta tuottamaa analyysia, <strong>ei sijoitusneuvontaa</strong>. Työkalun tekijä ei ole lisensoitu sijoitusneuvoja. Näkemykset voivat olla virheellisiä tai vanhentuneita. Tee omat päätöksesi ja harkitse ammattilaisen konsultointia — vastuu sijoituspäätöksistä on sinun.</div>
+  <div id="suositukset"><p class="tyhja">Ladataan...</p></div>
 </section>
 
 <section id="sivu-pullonkaulat" hidden>
@@ -112,9 +141,8 @@
 
 </main>
 <script>
-let uutiset = [];
-let analyysi = null;
-let suodatin = "kaikki";
+let uutiset = [], analyysi = null, teemat = null, markkinat = {}, suositukset = null, suodatin = "kaikki";
+const VARIT = ["#f59e0b","#eab308","#34d399","#2dd4bf","#60a5fa","#a78bfa","#f472b6","#fb923c"];
 
 document.querySelectorAll("nav button").forEach(b =>
   b.addEventListener("click", () => {
@@ -123,189 +151,180 @@ document.querySelectorAll("nav button").forEach(b =>
   })
 );
 
-function esc(s) {
-  return String(s ?? "").replace(/[&<>"]/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
+const esc = s => String(s ?? "").replace(/[&<>"]/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
+function aika(iso) { if (!iso) return ""; const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleString("fi-FI",{day:"numeric",month:"numeric",hour:"2-digit",minute:"2-digit"}); }
+function kbadge(k) { const c = k>=8?"b-red":k>=6?"b-orange":k>=4?"b-yellow":"b-gray"; return `<span class="kbadge ${c}">${k}</span>`; }
+function prischip(t) {
+  const k = markkinat[t]; if (!k || k.muutos_1pv == null) return "";
+  const up = k.muutos_1pv >= 0;
+  return `<span class="pris ${up?"up":"down"}" title="1 pv muutos">${up?"+":""}${k.muutos_1pv} %</span>`;
 }
-function aika(iso) {
-  if (!iso) return "";
-  const d = new Date(iso);
-  return isNaN(d) ? "" : d.toLocaleString("fi-FI", {day:"numeric", month:"numeric", hour:"2-digit", minute:"2-digit"});
-}
-function kbadge(k) {
-  const c = k >= 8 ? "b-red" : k >= 6 ? "b-orange" : k >= 4 ? "b-yellow" : "b-gray";
-  return `<span class="kbadge ${c}">${k}</span>`;
-}
-
-const VARIT = ["#f59e0b","#eab308","#34d399","#2dd4bf","#60a5fa","#a78bfa","#f472b6","#fb923c"];
 
 function alueDatat() {
-  const d = analyysi?.data;
-  if (!d?.alueet?.length) {
-    return ["Kriittiset materiaalit","Sähkö ja verkko","Ydinvoima","Jäähdytys","AI-laskenta ja muisti","Verkotus ja optiikka"]
-      .map(nimi => ({nimi, osuus:null, paksuus:12}));
+  if (teemat?.teemat?.length && teemat.teemat.some(t => t.maara > 0)) {
+    return teemat.teemat.slice(0,7).map(t => ({ nimi:t.nimi, osuus:t.osuus, paksuus:Math.max(8, Math.min(22, 8 + t.osuus*0.45)) }));
   }
-  const tickerAlue = {};
-  for (const s of d.seurantalista ?? []) {
-    const liittyy = (s.liittyy ?? "").toLowerCase();
-    const alue = (d.alueet ?? []).find(a => {
-      const n = (a.nimi ?? "").toLowerCase();
-      return n && (liittyy.includes(n) || n.includes(liittyy));
-    });
-    if (alue) tickerAlue[s.ticker] = alue.nimi;
-  }
-  const laskuri = {};
-  let mapattu = 0;
-  for (const u of uutiset) {
-    const alue = tickerAlue[u.ticker];
-    if (alue) { laskuri[alue] = (laskuri[alue] ?? 0) + 1; mapattu++; }
-  }
-  return (d.alueet ?? []).slice(0, 7).map(a => {
-    const maara = laskuri[a.nimi] ?? 0;
-    const osuus = mapattu ? Math.round(100 * maara / mapattu) : null;
-    const paksuus = osuus == null ? 12 : Math.max(8, Math.min(22, 8 + osuus * 0.45));
-    return { nimi: a.nimi, osuus, paksuus };
-  });
+  return (analyysi?.data?.alueet ?? []).slice(0,7).map(a => ({ nimi:a.nimi, osuus:null, paksuus:12 }));
 }
 
 function piirraVirtaus() {
-  const alueet = alueDatat();
-  const svg = document.getElementById("virtaus");
-  const n = alueet.length, cy = 190, ylin = 74, alin = 330;
+  let alueet = alueDatat();
+  if (!alueet.length) alueet = ["Laskentakapasiteetti ja sirut","Muisti (HBM/DRAM)","Energia ja sähköverkot","Ydinvoima ja uraani","Jäähdytys","Verkotus ja optiikka","Kriittiset mineraalit"].map(n=>({nimi:n,osuus:null,paksuus:12}));
+  const svg = document.getElementById("virtaus"), n = alueet.length, cy = 190, ylin = 74, alin = 330;
   let s = "";
-  alueet.forEach((a, i) => {
-    const yi = n === 1 ? cy : ylin + (alin - ylin) * i / (n - 1);
-    const vari = VARIT[i % VARIT.length];
+  alueet.forEach((a,i) => {
+    const yi = n===1 ? cy : ylin + (alin-ylin)*i/(n-1), vari = VARIT[i%VARIT.length];
     const d = `M 30 ${cy} C 230 ${cy}, 280 ${yi}, 450 ${yi} C 620 ${yi}, 670 ${cy}, 870 ${cy}`;
     s += `<path class="kanava" d="${d}" fill="none" stroke="${vari}" stroke-width="${a.paksuus}" stroke-linecap="round" stroke-dasharray="16 14" opacity="0.85"/>`;
-    const nimike = esc(a.nimi) + (a.osuus != null ? ` · ${a.osuus} %` : "");
-    s += `<text x="450" y="${yi - a.paksuus / 2 - 9}" text-anchor="middle" fill="${vari}" font-size="14" font-weight="600">${nimike}</text>`;
+    const nimike = esc(a.nimi) + (a.osuus!=null ? ` · ${a.osuus} %` : "");
+    s += `<text x="450" y="${yi - a.paksuus/2 - 9}" text-anchor="middle" fill="${vari}" font-size="14" font-weight="600">${nimike}</text>`;
   });
   svg.innerHTML = s;
-  if (!analyysi?.data?.alueet?.length) {
-    document.getElementById("virtaus-selite").textContent =
-      "Esimerkkialueet — kanavat päivittyvät oikealla datalla ensimmäisen viikkoanalyysin jälkeen. Kanavan paksuus kertoo, kuinka suuri osuus havainnoista koskee teemaa.";
-  }
+  if (!(teemat?.teemat?.some(t=>t.maara>0)))
+    document.getElementById("virtaus-selite").textContent = "Esimerkkialueet — kanavat päivittyvät oikealla datalla, kun teemauutisia on kertynyt (Actions: Teemat). Paksuus kertoo teeman osuuden havainnoista.";
 }
 
 function piirraStatit() {
-  const d = analyysi?.data;
-  const yhtiot = new Set(uutiset.map(u => u.ticker));
-  for (const s of d?.seurantalista ?? []) yhtiot.add(s.ticker);
-  for (const a of d?.alueet ?? []) for (const p of a.pienet_poiminnat ?? []) if (p.ticker) yhtiot.add(p.ticker);
-  for (const e of d?.uudet_ehdokkaat ?? []) if (e.ticker) yhtiot.add(e.ticker);
-  const kriittisia = uutiset.filter(u => (u.kriittisyys ?? 0) >= 8).length;
-  const paivat = new Set(uutiset.map(u => (u.haettu ?? "").slice(0, 10)).filter(Boolean));
-  const statit = [
-    [uutiset.length, "havaintoa lokissa"],
-    [yhtiot.size, "yhtiötä seurannassa"],
-    [kriittisia, "kriittistä uutista"],
-    [paivat.size, "päivää dataa"],
-  ];
-  document.getElementById("statit").innerHTML = statit.map(([luku, nimi]) =>
-    `<div class="stat"><div class="luku">${luku}</div><div class="nimi">${nimi}</div></div>`
-  ).join("");
+  const yhtiot = new Set(uutiset.map(u=>u.ticker));
+  for (const s of analyysi?.data?.seurantalista ?? []) yhtiot.add(s.ticker);
+  for (const y of teemat?.yhtiot ?? []) if (y.ticker) yhtiot.add(y.ticker);
+  const kriittisia = uutiset.filter(u=>(u.kriittisyys??0)>=8).length;
+  const paivat = new Set(uutiset.map(u=>(u.haettu??"").slice(0,10)).filter(Boolean));
+  const statit = [[uutiset.length,"havaintoa lokissa"],[yhtiot.size,"yhtiötä seurannassa"],[kriittisia,"kriittistä uutista"],[paivat.size,"päivää dataa"]];
+  document.getElementById("statit").innerHTML = statit.map(([l,n])=>`<div class="stat"><div class="luku">${l}</div><div class="nimi">${n}</div></div>`).join("");
 }
 
 function piirraSuodattimet() {
-  const tickerit = [...new Set(uutiset.map(u => u.ticker))].sort();
-  document.getElementById("filters").innerHTML = ["kaikki", ...tickerit].map(t =>
-    `<button class="${t === suodatin ? "active" : ""}" onclick="suodata('${esc(t)}')">${esc(t)}</button>`
-  ).join("");
+  const t = [...new Set(uutiset.map(u=>u.ticker))].sort();
+  document.getElementById("filters").innerHTML = ["kaikki",...t].map(x=>`<button class="${x===suodatin?"active":""}" onclick="suodata('${esc(x)}')">${esc(x)}</button>`).join("");
 }
-function suodata(t) { suodatin = t; piirraSuodattimet(); piirraUutiset(); }
+function suodata(t){ suodatin=t; piirraSuodattimet(); piirraUutiset(); }
+
+function uutisKortti(u) {
+  const ots = u.url ? `<a href="${esc(u.url)}" target="_blank" rel="noopener">${esc(u.otsikko)}</a>` : `<strong>${esc(u.otsikko)}</strong>`;
+  const chip = u.tyyppi==="some-koonti" ? '<span class="chip">some</span>' : u.tyyppi==="tiedote" ? '<span class="chip">virallinen</span>' : "";
+  return `<div class="kortti">${kbadge(u.kriittisyys??0)} <strong>${esc(u.ticker)}</strong> ${prischip(u.ticker)} ${ots}${chip}
+    ${u.tiivistelma?`<p class="tiivistelma">${esc(u.tiivistelma)}</p>`:""}
+    <div class="meta">${esc(u.lahde)} · ${aika(u.haettu)} · ${esc(u.luokka??"")}</div></div>`;
+}
 
 function piirraUutiset() {
   const el = document.getElementById("uutislista");
-  const lista = uutiset.filter(u => suodatin === "kaikki" || u.ticker === suodatin);
-  if (!lista.length) {
-    el.innerHTML = '<p class="tyhja">Ei uutisia vielä. Data ilmestyy ensimmäisen keräysajon jälkeen.</p>';
-    return;
+  const lista = uutiset.filter(u=>suodatin==="kaikki"||u.ticker===suodatin);
+  el.innerHTML = lista.length ? lista.map(uutisKortti).join("") : '<p class="tyhja">Ei uutisia vielä. Data ilmestyy ensimmäisen keräysajon jälkeen.</p>';
+}
+
+function piirraTeemat() {
+  const el = document.getElementById("teemat");
+  if (!teemat?.uutiset?.length) { el.innerHTML = '<p class="tyhja">Teemauutiset ilmestyvät ensimmäisen teema-ajon jälkeen (Actions: Teemat).</p>'; return; }
+  let html = "";
+  const maxOsuus = Math.max(...(teemat.teemat.map(t=>t.osuus)), 1);
+  html += '<div class="kortti">' + teemat.teemat.map(t =>
+    `<div class="teemarivi"><span>${esc(t.nimi)}</span><span style="display:flex;align-items:center;gap:10px"><span class="palkki" style="width:${Math.max(4,t.osuus/maxOsuus*120)}px"></span><b>${t.osuus} %</b></span></div>`
+  ).join("") + '</div>';
+  if (teemat.uudet_ehdokkaat?.length) {
+    html += '<h2 class="osio">Uusia yhtiöitä uutisvirrasta</h2>' + teemat.uudet_ehdokkaat.map(y =>
+      `<div class="kortti"><strong>${esc(y.nimi)}</strong> ${y.ticker?`<span class="chip">${esc(y.ticker)}</span>`:""} ${prischip(y.ticker)}
+       <div class="meta">${y.mainintoja} mainintaa · ${(y.teemat||[]).map(esc).join(", ")}</div></div>`
+    ).join("");
   }
-  el.innerHTML = lista.map(u => {
-    const otsikko = u.url ? `<a href="${esc(u.url)}" target="_blank" rel="noopener">${esc(u.otsikko)}</a>` : `<strong>${esc(u.otsikko)}</strong>`;
-    const chip = u.tyyppi === "some-koonti" ? '<span class="chip">some-koonti</span>' : "";
-    return `<div class="kortti">
-      ${kbadge(u.kriittisyys ?? 0)} <strong>${esc(u.ticker)}</strong> ${otsikko}${chip}
-      ${u.tiivistelma ? `<p class="tiivistelma">${esc(u.tiivistelma)}</p>` : ""}
-      <div class="meta">${esc(u.lahde)} · ${aika(u.haettu)} · ${esc(u.luokka ?? "")}</div>
+  const teemoittain = {};
+  for (const u of teemat.uutiset) (teemoittain[u.teema] ??= []).push(u);
+  for (const nimi of Object.keys(teemoittain)) {
+    html += `<h2 class="osio">${esc(nimi)}</h2>` + teemoittain[nimi].slice(0,6).map(u => {
+      const ots = u.url ? `<a href="${esc(u.url)}" target="_blank" rel="noopener">${esc(u.otsikko)}</a>` : esc(u.otsikko);
+      return `<div class="kortti">${kbadge(u.kriittisyys??0)} ${ots}${u.tiivistelma?`<p class="tiivistelma">${esc(u.tiivistelma)}</p>`:""}</div>`;
+    }).join("");
+  }
+  el.innerHTML = html;
+}
+
+function nBadge(n) {
+  const luokka = {"osta":"n-osta","lisää":"n-lisaa","pidä":"n-pida","vähennä":"n-vahenna","myy":"n-myy"}[(n||"").toLowerCase()] || "n-pida";
+  return `<span class="nbadge ${luokka}">${esc(n||"–")}</span>`;
+}
+
+function piirraSuositukset() {
+  const el = document.getElementById("suositukset");
+  const lista = suositukset?.yhtiot ?? [];
+  if (!lista.length) { el.innerHTML = '<p class="tyhja">Näkemykset ilmestyvät ensimmäisen viikkoajon jälkeen (Actions: Viikkoanalyysi).</p>'; return; }
+  let html = `<p class="meta" style="margin-bottom:14px">Päivitetty ${aika(suositukset.paivitetty)}</p>`;
+  for (const y of lista) {
+    const k = markkinat[y.ticker];
+    const kurssi = k ? `${k.hinta} ${esc(k.valuutta||"")}` : "";
+    html += `<div class="kortti suositus">
+      <h3>${nBadge(y.nakemys)} ${esc(y.nimi)} (${esc(y.ticker)}) ${prischip(y.ticker)}
+        <span class="chip" style="margin-left:auto">${esc(y.tyyppi||"")}</span></h3>
+      <div class="meta">Varmuus: ${esc(y.varmuus||"–")} · aikajänne ${esc(y.aikajanne||"–")} ${kurssi?`· kurssi ${kurssi}`:""}</div>
+      <p class="tiivistelma">${esc(y.teesi||"")}</p>
+      <div class="grid2">
+        <div><h4>Puolesta</h4><ul>${(y.harka||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>
+        <div><h4>Vastaan</h4><ul>${(y.karhu||[]).map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>
+      </div>
+      ${(y.tunnusluvut||[]).length?`<ul class="luvut">${y.tunnusluvut.map(m=>`<li><b>${esc(m.mittari)}:</b> ${esc(m.arvo)} — ${esc(m.tulkinta)}</li>`).join("")}</ul>`:""}
+      <div class="rivi">
+        ${(y.katalyytit||[]).length?`<span><b style="color:var(--muted)">Katalyytit:</b> ${(y.katalyytit).map(esc).join("; ")}</span>`:""}
+      </div>
+      <div class="rivi"><span style="color:#f0a5a5"><b>Riskit:</b> ${(y.riskit||[]).map(esc).join("; ")}</span></div>
     </div>`;
-  }).join("");
+  }
+  el.innerHTML = html;
 }
 
 function piirraAnalyysi() {
-  const el = document.getElementById("analyysi");
-  const d = analyysi?.data;
-  if (!d?.alueet?.length) {
-    el.innerHTML = '<p class="tyhja">Analyysi ilmestyy tähän ensimmäisen viikkoajon jälkeen (Actions: Viikkoanalyysi).</p>';
-    return;
-  }
-  let html = `<div class="kortti"><p class="tiivistelma">${esc(d.yleiskuva ?? "")}</p>
-    <div class="meta">Päivitetty ${aika(analyysi.paivitetty)}</div></div>`;
-  (d.alueet ?? []).forEach((a, i) => {
-    const vari = VARIT[i % VARIT.length];
-    html += `<h2 class="osio" style="color:${vari}">${esc(a.nimi)}</h2><div class="kortti">
-      <p class="tiivistelma">${esc(a.kuvaus ?? "")}</p>
-      <p class="suuret">Suuret yhtiöt: ${(a.suuret_yhtiot ?? []).map(esc).join(", ") || "–"}</p>
-      ${(a.pienet_poiminnat ?? []).map(p => `<div class="pieni">
-        <strong>${esc(p.nimi)} (${esc(p.ticker)})</strong> — ${esc(p.perustelu ?? "")}
-        ${p.riskit ? `<div class="riskit">Riskit: ${esc(p.riskit)}</div>` : ""}
-      </div>`).join("")}
+  const el = document.getElementById("analyysi"), d = analyysi?.data;
+  if (!d?.alueet?.length) { el.innerHTML = '<p class="tyhja">Analyysi ilmestyy tähän ensimmäisen viikkoajon jälkeen.</p>'; return; }
+  let html = `<div class="kortti"><p class="tiivistelma">${esc(d.yleiskuva??"")}</p><div class="meta">Päivitetty ${aika(analyysi.paivitetty)}</div></div>`;
+  (d.alueet??[]).forEach((a,i) => {
+    html += `<h2 class="osio" style="color:${VARIT[i%VARIT.length]}">${esc(a.nimi)}</h2><div class="kortti">
+      <p class="tiivistelma">${esc(a.kuvaus??"")}</p>
+      <p class="suuret">Suuret yhtiöt: ${(a.suuret_yhtiot??[]).map(esc).join(", ")||"–"}</p>
+      ${(a.pienet_poiminnat??[]).map(p=>`<div class="pieni"><strong>${esc(p.nimi)} (${esc(p.ticker)})</strong> — ${esc(p.perustelu??"")}${p.riskit?`<div class="riskit">Riskit: ${esc(p.riskit)}</div>`:""}</div>`).join("")}
     </div>`;
   });
   el.innerHTML = html;
 }
 
 function piirraSeuranta() {
-  const el = document.getElementById("seuranta");
-  const d = analyysi?.data;
-  const lista = d?.seurantalista ?? [];
-  const ehdokkaat = d?.uudet_ehdokkaat ?? [];
-  if (!lista.length && !ehdokkaat.length) {
-    el.innerHTML = '<p class="tyhja">Seurantanäkymä täyttyy ensimmäisen viikkoanalyysin jälkeen.</p>';
-    return;
-  }
+  const el = document.getElementById("seuranta"), d = analyysi?.data;
+  const lista = d?.seurantalista ?? [], ehdokkaat = d?.uudet_ehdokkaat ?? [];
+  if (!lista.length && !Object.keys(markkinat).length) { el.innerHTML = '<p class="tyhja">Seurantanäkymä täyttyy datan kertyessä.</p>'; return; }
   let html = "";
-  if (lista.length) {
-    html += lista.map(s => {
-      const maara = uutiset.filter(u => u.ticker === s.ticker).length;
-      return `<div class="kortti"><strong>${esc(s.ticker)}</strong> <span class="chip">${esc(s.liittyy ?? "")}</span>
-        <p class="tiivistelma">${esc(s.huomiot ?? "")}</p>
-        <div class="meta">${maara} havaintoa lokissa</div></div>`;
-    }).join("");
+  const nahdyt = new Set();
+  for (const s of lista) {
+    nahdyt.add(s.ticker);
+    const maara = uutiset.filter(u=>u.ticker===s.ticker).length;
+    html += `<div class="kortti"><strong>${esc(s.ticker)}</strong> ${prischip(s.ticker)} <span class="chip">${esc(s.liittyy??"")}</span>
+      <p class="tiivistelma">${esc(s.huomiot??"")}</p><div class="meta">${maara} havaintoa lokissa</div></div>`;
   }
-  if (ehdokkaat.length) {
-    html += '<h2 class="osio">Uudet seurantaehdokkaat</h2>' + ehdokkaat.map(e =>
-      `<div class="kortti"><strong>${esc(e.nimi)} (${esc(e.ticker)})</strong>
-       <p class="tiivistelma">${esc(e.miksi ?? "")}</p></div>`
-    ).join("");
+  for (const [t,k] of Object.entries(markkinat)) {
+    if (nahdyt.has(t)) continue;
+    html += `<div class="kortti"><strong>${esc(t)}</strong> ${prischip(t)} <span class="meta">${esc(k.nimi||"")} · ${k.hinta} ${esc(k.valuutta||"")}${k.tulospaiva?` · tulos ${esc(k.tulospaiva)}`:""}</span></div>`;
   }
+  if (ehdokkaat.length) html += '<h2 class="osio">Uudet seurantaehdokkaat</h2>' + ehdokkaat.map(e=>`<div class="kortti"><strong>${esc(e.nimi)} (${esc(e.ticker)})</strong><p class="tiivistelma">${esc(e.miksi??"")}</p></div>`).join("");
   el.innerHTML = html;
 }
 
-async function lataa() {
-  try {
-    const r = await fetch(`data/uutiset.json?t=${Date.now()}`);
-    if (r.ok) uutiset = await r.json();
-  } catch (e) {}
-  try {
-    const r = await fetch(`data/analyysi.json?t=${Date.now()}`);
-    if (r.ok) analyysi = await r.json();
-  } catch (e) {}
-  const raja = Date.now() - 24 * 3600 * 1000;
-  const tuoreita = uutiset.filter(u => new Date(u.haettu ?? 0).getTime() >= raja).length;
-  const badge = document.getElementById("uutisbadge");
-  badge.style.display = tuoreita ? "" : "none";
-  badge.textContent = tuoreita;
-  piirraVirtaus();
-  piirraStatit();
-  piirraSuodattimet();
-  piirraUutiset();
-  piirraAnalyysi();
-  piirraSeuranta();
+async function nouda(nimi, oletus) {
+  try { const r = await fetch(`data/${nimi}?t=${Date.now()}`); if (r.ok) return await r.json(); } catch(e) {}
+  return oletus;
 }
 
+async function lataa() {
+  uutiset = await nouda("uutiset.json", []);
+  analyysi = await nouda("analyysi.json", null);
+  teemat = await nouda("teemat.json", null);
+  suositukset = await nouda("suositukset.json", null);
+  markkinat = (await nouda("markkinat.json", {})).kurssit ?? {};
+  const raja = Date.now() - 24*3600*1000;
+  const tuoreita = uutiset.filter(u=>new Date(u.haettu??0).getTime()>=raja).length;
+  const b = document.getElementById("uutisbadge");
+  b.style.display = tuoreita?"":"none"; b.textContent = tuoreita;
+  piirraVirtaus(); piirraStatit(); piirraSuodattimet(); piirraUutiset();
+  piirraTeemat(); piirraSuositukset(); piirraAnalyysi(); piirraSeuranta();
+}
 lataa();
-setInterval(lataa, 5 * 60 * 1000);
+setInterval(lataa, 5*60*1000);
 </script>
 </body>
 </html>

@@ -1,14 +1,14 @@
-name: Viikkoanalyysi
+name: Teemat
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 15 * * 0"
+    - cron: "0 10,20 * * *"
 permissions:
   contents: write
 concurrency:
   group: osakevahti-data
 jobs:
-  analysoi:
+  teemat:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -16,24 +16,20 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - name: Aja AI-pullonkaula-analyysi
+      - name: Kerää teemauutiset ja nosta uudet yhtiöt
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: python -m src.analyst
-      - name: Muodosta sijoitusnäkemykset
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
-        run: python -m src.recommender
+        run: python -m src.collector --themes
       - name: Tallenna data repoon
         run: |
           git config user.name "osakevahti-bot"
           git config user.email "actions@users.noreply.github.com"
           git add docs/data
           if ! git diff --cached --quiet; then
-            git commit -m "Päivitä viikkoanalyysi ja näkemykset"
+            git commit -m "Päivitä teemadata"
             git pull --rebase origin main
             git push
           fi

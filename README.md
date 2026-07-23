@@ -2,13 +2,16 @@
 
 Automaattinen osakeseuranta, joka pyörii ilmaiseksi GitHub Actionsissa:
 
-- Kerää seurattavien osakkeiden uutiset (Google News, Yahoo Finance) ja sijoittajakeskustelut (StockTwits, Reddit) noin 30 minuutin välein.
-- Tekoäly (Claude Haiku) arvioi jokaisen uutisen kriittisyyden asteikolla 1–10 ja tiivistää sen suomeksi.
+- Kerää seurattavien osakkeiden uutiset (Google News, Yahoo Finance), viralliset pörssitiedotteet (SEC ja ASX), sijoittajakeskustelut (StockTwits, Reddit) ja kurssit noin 30 minuutin välein.
+- Tekoäly (Claude Haiku) arvioi jokaisen havainnon kriittisyyden asteikolla 1–10 ja tiivistää sen suomeksi.
 - Kriittisistä uutisista (8+) lähtee heti sähköposti; muista merkittävistä (4–7) tulee päivittäinen kooste.
-- Dashboard (GitHub Pages) näyttää uutiset, some-koonnit ja viikoittaisen AI-pullonkaula-analyysin.
-- Sunnuntaisin syvempi analyysi (Claude Sonnet + web-haku) kartoittaa tekoälyn pullonkaulat liiketoiminta-alueittain, isot yhtiöt, pienet tuottopotentiaaliyhtiöt ja uudet seurantaehdokkaat.
+- Teemahaku kartoittaa päivittäin koko tekoälyn pullonkaula-uutisvirran (sirut, muisti, energia, ydinvoima, jäähdytys, verkotus, kriittiset mineraalit) ja nostaa esiin uusia yhtiöitä, joita et vielä seuraa.
+- Dashboard (GitHub Pages) näyttää uutiset, teemat, kurssikontekstin, viikkoanalyysin ja tekoälyn sijoitusnäkemykset.
+- Sunnuntaisin syvempi analyysi (Claude Sonnet + web-haku) kartoittaa pullonkaulat liiketoiminta-alueittain ja muodostaa jokaisesta yhtiöstä itsenäisen sijoitusnäkemyksen (osta/lisää/pidä/vähennä/myy), jossa tunnusluvut tulkitaan yhtiötyypin mukaan.
 
-Arvioidut käyttökulut: noin 5–10 €/kk (Anthropic API). Kaikki muu on ilmaista.
+Arvioidut käyttökulut: noin 8–18 €/kk (Anthropic API). Kaikki muu on ilmaista. Kuluja voi pienentää harventamalla teema- ja suositusajoja tai vaihtamalla halvempaan malliin.
+
+> **Sijoitusnäkemykset eivät ole sijoitusneuvontaa.** Ne ovat tekoälyn julkisesta datasta tekemiä päätelmiä ja voivat olla virheellisiä. Vastuu päätöksistä on sinulla.
 
 ---
 
@@ -44,6 +47,7 @@ Repossa: Settings → Secrets and variables → Actions → "New repository secr
 | `ANTHROPIC_API_KEY` | Vaiheen 2 API-avain |
 | `GMAIL_USER` | Gmail-osoitteesi |
 | `GMAIL_APP_PASSWORD` | Vaiheen 3 sovellussalasana |
+| `FINNHUB_API_KEY` | Valinnainen. Ilmainen avain osoitteesta https://finnhub.io lisää tuloskalenterin (näet tulospäivät etukäteen). Voit jättää tämän pois — kaikki muu toimii ilman. |
 
 ### Vaihe 5: Kytke GitHub Pages päälle
 
@@ -52,9 +56,9 @@ Repossa: Settings → Pages → kohtaan "Branch" valitse `main` ja kansioksi `/d
 ### Vaihe 6: Ensimmäinen ajo
 
 1. Repossa: Actions-välilehti → jos GitHub kysyy, salli workflowt ("I understand... enable them").
-2. Valitse vasemmalta "Uutisvahti" → "Run workflow" → Run. Ajo kestää 1–2 minuuttia.
-3. Aja samalla tavalla kerran "Viikkoanalyysi", niin dashboardin Pullonkaulat-välilehti täyttyy.
-4. Avaa dashboard selaimessa — uutiset ja analyysi näkyvät. Tämän jälkeen kaikki pyörii automaattisesti.
+2. Valitse vasemmalta "Uutisvahti" → "Run workflow" → Run. Ajo kestää 1–2 minuuttia (uutiset, tiedotteet, kurssit).
+3. Aja samalla tavalla "Teemat" (teemauutiset ja etusivun prosentit) ja "Viikkoanalyysi" (pullonkaula-analyysi ja sijoitusnäkemykset). Viikkoanalyysi kestää muutaman minuutin.
+4. Avaa dashboard selaimessa — uutiset, teemat ja näkemykset näkyvät. Tämän jälkeen kaikki pyörii automaattisesti.
 
 ---
 
@@ -66,11 +70,11 @@ Repossa: Settings → Pages → kohtaan "Branch" valitse `main` ja kansioksi `/d
 
 ## Kustannusarvio
 
-- Uutisluokittelu (Claude Haiku 4.5, 1 $ / 5 $ per miljoona tokenia): tyypillisesti 2–5 €/kk.
-- Viikkoanalyysi (Claude Sonnet 5 + web-haku, enintään 8 hakua/ajo): noin 2–5 €/kk.
+- Uutis- ja teemaluokittelu (Claude Haiku 4.5): tyypillisesti 3–7 €/kk.
+- Viikkoanalyysi + sijoitusnäkemykset (Claude Sonnet 5 + web-haku): noin 3–8 €/kk.
 - GitHub, sähköposti ja tietolähteet: 0 €.
 
-Kulutusta voi seurata osoitteessa https://console.anthropic.com (Usage). Sinne voi asettaa myös kulurajan.
+Kulut kasvavat lähinnä seurattavien osakkeiden ja teema-ajojen määrästä. Halutessasi voit harventaa teema-ajoja (`.github/workflows/teemat.yml`) tai vaihtaa mallit halvempaan (`src/config.py`). Kulutusta voi seurata osoitteessa https://console.anthropic.com (Usage), jonne voi asettaa myös kulurajan.
 
 ## Vianetsintä
 
