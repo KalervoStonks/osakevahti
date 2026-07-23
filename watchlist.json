@@ -1,9 +1,9 @@
 {
   "osakkeet": [
-    { "ticker": "UUUU", "nimi": "Energy Fuels", "markkina": "us", "stocktwits": "UUUU" },
-    { "ticker": "EQR.AX", "nimi": "EQ Resources", "markkina": "asx", "asx_koodi": "EQR", "stocktwits": "EQR.AX" },
-    { "ticker": "CCJ", "nimi": "Cameco", "markkina": "us", "stocktwits": "CCJ" },
-    { "ticker": "MU", "nimi": "Micron Technology", "markkina": "us", "stocktwits": "MU" },
-    { "ticker": "NVDA", "nimi": "Nvidia", "markkina": "us", "stocktwits": "NVDA" }
+    { "ticker": "UUUU", "nimi": "Energy Fuels", "markkina": "us", "stocktwits": "UUUU", "lahde": "oma" },
+    { "ticker": "EQR.AX", "nimi": "EQ Resources", "markkina": "asx", "asx_koodi": "EQR", "stocktwits": "EQR.AX", "lahde": "oma" },
+    { "ticker": "CCJ", "nimi": "Cameco", "markkina": "us", "stocktwits": "CCJ", "lahde": "oma" },
+    { "ticker": "MU", "nimi": "Micron Technology", "markkina": "us", "stocktwits": "MU", "lahde": "oma" },
+    { "ticker": "NVDA", "nimi": "Nvidia", "markkina": "us", "stocktwits": "NVDA", "lahde": "oma" }
   ]
 }

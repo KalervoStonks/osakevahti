@@ -8,6 +8,7 @@ Automaattinen osakeseuranta, joka pyörii ilmaiseksi GitHub Actionsissa:
 - Teemahaku kartoittaa päivittäin koko tekoälyn pullonkaula-uutisvirran (sirut, muisti, energia, ydinvoima, jäähdytys, verkotus, kriittiset mineraalit) ja nostaa esiin uusia yhtiöitä, joita et vielä seuraa.
 - Dashboard (GitHub Pages) näyttää uutiset, teemat, kurssikontekstin, viikkoanalyysin ja tekoälyn sijoitusnäkemykset.
 - Sunnuntaisin syvempi analyysi (Claude Sonnet + web-haku) kartoittaa pullonkaulat liiketoiminta-alueittain ja muodostaa jokaisesta yhtiöstä itsenäisen sijoitusnäkemyksen (osta/lisää/pidä/vähennä/myy), jossa tunnusluvut tulkitaan yhtiötyypin mukaan.
+- Seurantalista päivittyy automaattisesti: uusia yhtiöitä lisätään, kun ne nousevat esiin analyysissä ja uutisissa, ja hiljentyneet automaattilisätyt yhtiöt poistetaan. Omia osakkeitasi (`lahde: "oma"`) ei koskaan poisteta, ja jokaisesta muutoksesta tulee sähköposti.
 
 Arvioidut käyttökulut: noin 8–18 €/kk (Anthropic API). Kaikki muu on ilmaista. Kuluja voi pienentää harventamalla teema- ja suositusajoja tai vaihtamalla halvempaan malliin.
 
@@ -64,8 +65,9 @@ Repossa: Settings → Pages → kohtaan "Branch" valitse `main` ja kansioksi `/d
 
 ## Asetusten säätäminen
 
-- Seurattavat osakkeet: muokkaa tiedostoa `watchlist.json` (ticker, yhtiön nimi hakuja varten).
+- Seurattavat osakkeet: muokkaa tiedostoa `watchlist.json`. Merkitse omat osakkeesi `"lahde": "oma"`, niin niitä ei koskaan poisteta automaattisesti. Automaattisesti lisätyt saavat merkinnän `"lahde": "auto"`.
 - Hälytyskynnykset ja mallit: `src/config.py` (`HALYTYSKYNNYS`, `KOOSTEKYNNYS`, mallivalinnat).
+- Automaattinen seuranta: `src/config.py` (`AUTO_SEURANTA` päälle/pois, `AUTO_MAX` listan enimmäiskoko, `AUTO_POISTO_PAIVAT` hiljaisuusraja poistolle, `AUTO_LISAYS_MAINTA` lisäyskynnys).
 - Ajoaikataulut: `.github/workflows/*.yml` (cron-rivit, ajat UTC-aikaa; Suomi on UTC+2/+3).
 
 ## Kustannusarvio

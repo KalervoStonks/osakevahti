@@ -49,3 +49,20 @@ def laheta_kooste(uutiset: list[dict]) -> None:
         osat.append(f"<h3>{ticker}</h3>" + "".join(_rivi(u) for u in lista))
     html = "<h2>Päivän kooste</h2>" + "".join(osat)
     laheta(f"Osakevahti: päivän kooste ({len(uutiset)} nostoa)", html)
+
+
+def laheta_seurantamuutokset(lisatyt: list[dict], poistetut: list[dict]) -> None:
+    if not lisatyt and not poistetut:
+        return
+    osat = []
+    if lisatyt:
+        rivit = "".join(f'<li><strong>{m["ticker"]}</strong> — {m.get("nimi","")}<br>'
+                        f'<span style="color:#555">{m.get("syy","")}</span></li>' for m in lisatyt)
+        osat.append(f"<h3>Lisätty seurantaan</h3><ul>{rivit}</ul>")
+    if poistetut:
+        rivit = "".join(f'<li><strong>{m["ticker"]}</strong> — {m.get("nimi","")} '
+                        f'<span style="color:#999">({m.get("syy","")})</span></li>' for m in poistetut)
+        osat.append(f"<h3>Poistettu seurannasta</h3><ul>{rivit}</ul>")
+    html = "<h2>Seurantalistan muutokset</h2>" + "".join(osat) + \
+           "<p style='color:#999;font-size:13px'>Omia osakkeitasi ei poisteta automaattisesti. Voit muokata listaa tiedostossa watchlist.json.</p>"
+    laheta(f"Osakevahti: seurantalista päivittyi (+{len(lisatyt)}/-{len(poistetut)})", html)

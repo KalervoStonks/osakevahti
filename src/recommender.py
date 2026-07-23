@@ -49,12 +49,23 @@ Kirjoita kaikki suomeksi, tiiviisti ja konkreettisesti. Palauta vastauksen lopus
 ```"""
 
 
+def _valitut(watchlist: list[dict], uutiset: list[dict]) -> list[dict]:
+    """Omat osakkeet ensin, sitten automaattiset uutisaktiivisuuden mukaan — kokorajaan asti."""
+    maara = {}
+    for u in uutiset:
+        maara[u.get("ticker")] = maara.get(u.get("ticker"), 0) + 1
+    omat = [o for o in watchlist if o.get("lahde") != "auto"]
+    autot = sorted((o for o in watchlist if o.get("lahde") == "auto"),
+                   key=lambda o: -maara.get(o["ticker"], 0))
+    return (omat + autot)[:config.REKISTERI_MAX]
+
+
 def _konteksti() -> str:
     watchlist = _lataa(config.WATCHLIST, {"osakkeet": []})["osakkeet"]
     uutiset = _lataa(os.path.join(config.DATA_DIR, "uutiset.json"), [])
     markkinat = _lataa(os.path.join(config.DATA_DIR, "markkinat.json"), {}).get("kurssit", {})
     osat = ["Seurattavat yhtiöt ja niiden tuore konteksti:\n"]
-    for o in watchlist:
+    for o in _valitut(watchlist, uutiset):
         t = o["ticker"]
         k = markkinat.get(t, {})
         kurssi = f"{k.get('hinta')} {k.get('valuutta','')} (1pv {k.get('muutos_1pv')} %, 5pv {k.get('muutos_5pv')} %)" if k else "ei kurssidataa"

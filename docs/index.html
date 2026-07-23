@@ -141,7 +141,7 @@
 
 </main>
 <script>
-let uutiset = [], analyysi = null, teemat = null, markkinat = {}, suositukset = null, suodatin = "kaikki";
+let uutiset = [], analyysi = null, teemat = null, markkinat = {}, suositukset = null, seuranta = null, muutokset = null, suodatin = "kaikki";
 const VARIT = ["#f59e0b","#eab308","#34d399","#2dd4bf","#60a5fa","#a78bfa","#f472b6","#fb923c"];
 
 document.querySelectorAll("nav button").forEach(b =>
@@ -287,20 +287,38 @@ function piirraAnalyysi() {
 
 function piirraSeuranta() {
   const el = document.getElementById("seuranta"), d = analyysi?.data;
-  const lista = d?.seurantalista ?? [], ehdokkaat = d?.uudet_ehdokkaat ?? [];
-  if (!lista.length && !Object.keys(markkinat).length) { el.innerHTML = '<p class="tyhja">Seurantanäkymä täyttyy datan kertyessä.</p>'; return; }
+  const huom = {};
+  for (const s of d?.seurantalista ?? []) huom[s.ticker] = s;
+  const lista = seuranta?.osakkeet ?? [];
+  const ehdokkaat = d?.uudet_ehdokkaat ?? [];
+  if (!lista.length && !(d?.seurantalista?.length)) { el.innerHTML = '<p class="tyhja">Seurantanäkymä täyttyy datan kertyessä.</p>'; return; }
   let html = "";
-  const nahdyt = new Set();
-  for (const s of lista) {
-    nahdyt.add(s.ticker);
-    const maara = uutiset.filter(u=>u.ticker===s.ticker).length;
-    html += `<div class="kortti"><strong>${esc(s.ticker)}</strong> ${prischip(s.ticker)} <span class="chip">${esc(s.liittyy??"")}</span>
-      <p class="tiivistelma">${esc(s.huomiot??"")}</p><div class="meta">${maara} havaintoa lokissa</div></div>`;
+
+  const tuoreet = (muutokset?.muutokset ?? []).slice(0, 8);
+  if (tuoreet.length) {
+    html += '<div class="kortti"><h4 style="margin:0 0 8px;color:var(--muted)">Automaattiset muutokset</h4>' +
+      tuoreet.map(m => {
+        const merkki = m.tyyppi === "lisays"
+          ? '<span class="pris up">+ lisätty</span>' : '<span class="pris down">− poistettu</span>';
+        return `<div style="font-size:13px;padding:4px 0;color:#c3ccd8">${merkki} <strong>${esc(m.ticker)}</strong> ${esc(m.nimi||"")} <span style="color:var(--dim)">— ${esc(m.syy||"")}</span></div>`;
+      }).join("") + '</div>';
   }
-  for (const [t,k] of Object.entries(markkinat)) {
-    if (nahdyt.has(t)) continue;
-    html += `<div class="kortti"><strong>${esc(t)}</strong> ${prischip(t)} <span class="meta">${esc(k.nimi||"")} · ${k.hinta} ${esc(k.valuutta||"")}${k.tulospaiva?` · tulos ${esc(k.tulospaiva)}`:""}</span></div>`;
-  }
+
+  const omat = lista.filter(o => o.lahde !== "auto"), autot = lista.filter(o => o.lahde === "auto");
+  const kortti = o => {
+    const t = o.ticker, s = huom[t], k = markkinat[t];
+    const maara = uutiset.filter(u => u.ticker === t).length;
+    const tag = o.lahde === "auto" ? '<span class="chip" style="background:#1e293b;color:#94a3b8">auto</span>' : '<span class="chip" style="background:#052e1a;color:#6ee7b7">oma</span>';
+    const liittyy = s?.liittyy ? `<span class="chip">${esc(s.liittyy)}</span>` : "";
+    const kuvaus = s?.huomiot || o.syy || "";
+    const tulos = k?.tulospaiva ? ` · tulos ${esc(k.tulospaiva)}` : "";
+    return `<div class="kortti"><strong>${esc(t)}</strong> ${tag} ${prischip(t)} ${liittyy}
+      ${kuvaus ? `<p class="tiivistelma">${esc(kuvaus)}</p>` : ""}
+      <div class="meta">${esc(o.nimi||"")} · ${maara} havaintoa${k ? ` · ${k.hinta} ${esc(k.valuutta||"")}` : ""}${tulos}</div></div>`;
+  };
+  if (omat.length) html += '<h2 class="osio">Omat osakkeet</h2>' + omat.map(kortti).join("");
+  if (autot.length) html += '<h2 class="osio">Automaattisesti seurattavat</h2>' + autot.map(kortti).join("");
+  if (!lista.length) html += (d?.seurantalista ?? []).map(s => kortti({ticker:s.ticker, nimi:"", lahde:"oma"})).join("");
   if (ehdokkaat.length) html += '<h2 class="osio">Uudet seurantaehdokkaat</h2>' + ehdokkaat.map(e=>`<div class="kortti"><strong>${esc(e.nimi)} (${esc(e.ticker)})</strong><p class="tiivistelma">${esc(e.miksi??"")}</p></div>`).join("");
   el.innerHTML = html;
 }
@@ -315,6 +333,8 @@ async function lataa() {
   analyysi = await nouda("analyysi.json", null);
   teemat = await nouda("teemat.json", null);
   suositukset = await nouda("suositukset.json", null);
+  seuranta = await nouda("seuranta.json", null);
+  muutokset = await nouda("seurantamuutokset.json", null);
   markkinat = (await nouda("markkinat.json", {})).kurssit ?? {};
   const raja = Date.now() - 24*3600*1000;
   const tuoreita = uutiset.filter(u=>new Date(u.haettu??0).getTime()>=raja).length;

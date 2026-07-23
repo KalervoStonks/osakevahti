@@ -13,6 +13,14 @@ KOOSTEKYNNYS = 4    # tämä ja yli -> mukana iltapäiväkoosteessa
 # Some-koonti tehdään vasta kun uusia viestejä on vähintään näin monta per osake
 SOME_MIN_VIESTIT = 3
 
+# Automaattinen seurantalistan hallinta (ajetaan viikoittain analyysin yhteydessä)
+AUTO_SEURANTA = True        # koko toiminnon voi kytkeä pois
+AUTO_LISAYS_MAINTA = 3      # teemauutisissa vähintään näin monta mainintaa -> ehdolla lisättäväksi
+AUTO_MAX = 25              # seurantalistan enimmäiskoko (omat + automaattiset)
+AUTO_POISTO_PAIVAT = 21    # automaattilisätty osake poistetaan, jos näin monta päivää ilman uutisia
+REKISTERI_MAX = 12        # kuinka monelle yhtiölle viikoittainen näkemys tehdään (kulunhallinta)
+# Omia (lahde="oma") osakkeita ei koskaan poisteta automaattisesti.
+
 # Muistissa pidettävän datan rajat
 MAX_UUTISIA_MUISTISSA = 400
 MAX_NAHTYJA = 6000

@@ -22,6 +22,11 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python -m src.analyst
+      - name: Päivitä seurantalista automaattisesti
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python -m src.watchlist_manager
       - name: Muodosta sijoitusnäkemykset
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -31,9 +36,9 @@ jobs:
         run: |
           git config user.name "osakevahti-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs/data
+          git add docs/data watchlist.json
           if ! git diff --cached --quiet; then
-            git commit -m "Päivitä viikkoanalyysi ja näkemykset"
+            git commit -m "Päivitä viikkoanalyysi, seurantalista ja näkemykset"
             git pull --rebase origin main
             git push
           fi
