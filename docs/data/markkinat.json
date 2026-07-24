@@ -1,40 +1,61 @@
 {
- "paivitetty": "2026-07-23T15:13:55+00:00",
+ "paivitetty": "2026-07-24T06:42:23+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 11.9,
+   "hinta": 12.01,
    "valuutta": "USD",
-   "muutos_1pv": -3.3,
-   "muutos_5pv": 2.0,
+   "muutos_1pv": -2.4,
+   "muutos_5pv": 2.9,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
-   "hinta": 0.27,
+   "hinta": 0.26,
    "valuutta": "AUD",
-   "muutos_1pv": 1.9,
-   "muutos_5pv": 10.2,
+   "muutos_1pv": -3.7,
+   "muutos_5pv": 18.2,
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 88.33,
+   "hinta": 89.33,
    "valuutta": "USD",
-   "muutos_1pv": -2.3,
-   "muutos_5pv": 1.1,
+   "muutos_1pv": -1.2,
+   "muutos_5pv": 2.3,
    "nimi": "Cameco"
   },
   "MU": {
-   "hinta": 980.89,
+   "hinta": 990.21,
    "valuutta": "USD",
-   "muutos_1pv": 2.2,
-   "muutos_5pv": 15.0,
+   "muutos_1pv": 3.2,
+   "muutos_5pv": 16.1,
    "nimi": "Micron Technology"
   },
   "NVDA": {
-   "hinta": 206.6,
+   "hinta": 208.76,
    "valuutta": "USD",
-   "muutos_1pv": -2.6,
-   "muutos_5pv": -0.4,
+   "muutos_1pv": -1.6,
+   "muutos_5pv": 0.7,
    "nimi": "Nvidia"
+  },
+  "POWL": {
+   "hinta": 242.47,
+   "valuutta": "USD",
+   "muutos_1pv": 0.7,
+   "muutos_5pv": 2.8,
+   "nimi": "Powell Industries"
+  },
+  "LITE": {
+   "hinta": 833.64,
+   "valuutta": "USD",
+   "muutos_1pv": 0.5,
+   "muutos_5pv": 18.0,
+   "nimi": "Lumentum Holdings"
+  },
+  "OKLO": {
+   "hinta": 44.0,
+   "valuutta": "USD",
+   "muutos_1pv": -1.1,
+   "muutos_5pv": 5.5,
+   "nimi": "Oklo"
   }
  }
 }
