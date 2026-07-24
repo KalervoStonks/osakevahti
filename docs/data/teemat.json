@@ -1,1 +1,43 @@
-{}
+{
+ "paivitetty": "2026-07-24T08:21:35+00:00",
+ "teemat": [
+  {
+   "nimi": "Laskentakapasiteetti ja sirut",
+   "maara": 0,
+   "osuus": 0
+  },
+  {
+   "nimi": "Muisti (HBM/DRAM)",
+   "maara": 0,
+   "osuus": 0
+  },
+  {
+   "nimi": "Energia ja sähköverkot",
+   "maara": 0,
+   "osuus": 0
+  },
+  {
+   "nimi": "Ydinvoima ja uraani",
+   "maara": 0,
+   "osuus": 0
+  },
+  {
+   "nimi": "Jäähdytys",
+   "maara": 0,
+   "osuus": 0
+  },
+  {
+   "nimi": "Verkotus ja optiikka",
+   "maara": 0,
+   "osuus": 0
+  },
+  {
+   "nimi": "Kriittiset mineraalit",
+   "maara": 0,
+   "osuus": 0
+  }
+ ],
+ "uutiset": [],
+ "yhtiot": [],
+ "uudet_ehdokkaat": []
+}
