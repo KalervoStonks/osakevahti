@@ -164,32 +164,41 @@ def main() -> None:
         uutiset = (lisattavat + uutiset)[:config.MAX_UUTISIA_MUISTISSA]
     _tallenna(_kohde("uutiset.json"), uutiset)
 
-    kerää_kurssit(watchlist, nyt)
+    try:
+        kerää_kurssit(watchlist, nyt)
+    except Exception as e:
+        print(f"Kurssien haku epäonnistui, jatketaan: {e}")
 
     if args.themes:
-        kerää_teemat(nahdyt_set, nahdyt, nyt)
-        print("Teemauutiset päivitetty.")
+        try:
+            kerää_teemat(nahdyt_set, nahdyt, nyt)
+            print("Teemauutiset päivitetty.")
+        except Exception as e:
+            print(f"Teemakeräys epäonnistui, jatketaan: {e}")
 
     _tallenna(_kohde("nahdyt.json"), nahdyt[-config.MAX_NAHTYJA:])
 
-    kriittiset = [u for u in lisattavat if u.get("kriittisyys", 0) >= config.HALYTYSKYNNYS]
-    if kriittiset:
-        notifier.laheta_halytys(kriittiset)
+    try:
+        kriittiset = [u for u in lisattavat if u.get("kriittisyys", 0) >= config.HALYTYSKYNNYS]
+        if kriittiset:
+            notifier.laheta_halytys(kriittiset)
 
-    if args.digest:
-        raja = datetime.now(timezone.utc) - timedelta(hours=24)
-        koosteeseen = []
-        for u in uutiset:
-            try:
-                haettu = datetime.fromisoformat(u.get("haettu", ""))
-            except ValueError:
-                continue
-            if haettu >= raja and config.KOOSTEKYNNYS <= u.get("kriittisyys", 0) < config.HALYTYSKYNNYS:
-                koosteeseen.append(u)
-        if koosteeseen:
-            notifier.laheta_kooste(koosteeseen)
-        else:
-            print("Ei koostettavaa viimeisen 24 h ajalta.")
+        if args.digest:
+            raja = datetime.now(timezone.utc) - timedelta(hours=24)
+            koosteeseen = []
+            for u in uutiset:
+                try:
+                    haettu = datetime.fromisoformat(u.get("haettu", ""))
+                except ValueError:
+                    continue
+                if haettu >= raja and config.KOOSTEKYNNYS <= u.get("kriittisyys", 0) < config.HALYTYSKYNNYS:
+                    koosteeseen.append(u)
+            if koosteeseen:
+                notifier.laheta_kooste(koosteeseen)
+            else:
+                print("Ei koostettavaa viimeisen 24 h ajalta.")
+    except Exception as e:
+        print(f"Sähköposti-ilmoitus epäonnistui, jatketaan: {e}")
 
 
 if __name__ == "__main__":
