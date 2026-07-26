@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-07-26T14:48:45+00:00",
+ "paivitetty": "2026-07-26T18:33:52+00:00",
  "kurssit": {
   "UUUU": {
    "hinta": 11.3,
@@ -56,6 +56,34 @@
    "muutos_1pv": -8.5,
    "muutos_5pv": -2.1,
    "nimi": "Oklo"
+  },
+  "AVGO": {
+   "hinta": 381.92,
+   "valuutta": "USD",
+   "muutos_1pv": -2.7,
+   "muutos_5pv": 3.0,
+   "nimi": "Broadcom"
+  },
+  "VST": {
+   "hinta": 163.38,
+   "valuutta": "USD",
+   "muutos_1pv": -3.3,
+   "muutos_5pv": 5.1,
+   "nimi": "Vistra Corp"
+  },
+  "MP": {
+   "hinta": 41.3,
+   "valuutta": "USD",
+   "muutos_1pv": -7.5,
+   "muutos_5pv": -8.7,
+   "nimi": "MP Materials"
+  },
+  "COHR": {
+   "hinta": 282.39,
+   "valuutta": "USD",
+   "muutos_1pv": -9.8,
+   "muutos_5pv": 1.7,
+   "nimi": "Coherent Corp"
   }
  }
 }

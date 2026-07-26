@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-07-26T14:48:45+00:00",
+ "paivitetty": "2026-07-26T18:33:52+00:00",
  "teemat": [
   {
    "nimi": "Laskentakapasiteetti ja sirut",
@@ -13,13 +13,13 @@
   },
   {
    "nimi": "Energia ja sähköverkot",
-   "maara": 0,
-   "osuus": 0
+   "maara": 1,
+   "osuus": 14
   },
   {
    "nimi": "Ydinvoima ja uraani",
-   "maara": 0,
-   "osuus": 0
+   "maara": 2,
+   "osuus": 29
   },
   {
    "nimi": "Jäähdytys",
@@ -28,16 +28,166 @@
   },
   {
    "nimi": "Verkotus ja optiikka",
-   "maara": 0,
-   "osuus": 0
+   "maara": 2,
+   "osuus": 29
   },
   {
    "nimi": "Kriittiset mineraalit",
-   "maara": 0,
-   "osuus": 0
+   "maara": 2,
+   "osuus": 29
   }
  ],
- "uutiset": [],
- "yhtiot": [],
+ "uutiset": [
+  {
+   "id": "7d99c66191dd67ce",
+   "teema": "Energia ja sähköverkot",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Oracle (ORCL) Joins White House AI Data Center Power Cost Pledge - simplywall.st",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUY5TGZuLV9kOTNEMFVla1R4Ukk1Ni1jdVNCZTNjT1diQU43SEp0RHoycjdHQ3R2VldSVmY1cklZZC1iSG1MZWhfMFB4ZWNWX1pFNTgwcWVsVW5aX3hiajRhU2poWUVoT0VhQlBRaW1ZQUY1eUxxVzFQdHJJZlVQMlkxRncwVTl0MmhfWl92OWxweUphRWdzNXRVbGVkMk4wTDJSMjdudm0yQ0ZtMXJuZG5VRWR0aHdsalpmckN6VVpvSlRVVFHSAcYBQVVfeXFMTjlGOUxmbi1fZDkzRDBVZWtUeFJJNTYtY3VTQmUzY09XYkFON0hKdER6MnI3R0N0dlZXUlZmNXJJWWQtYkhtTGVoXzBQeGVjVl9aRTU4MHFlbFVuWl94Ymo0YVNqaFlFaE9FYUJQUWltWUFGNXlMcVcxUHRySWZVUDJZMUZ3MFU5dDJoX1pfdjlscHlKYUVnczV0VWxlZDJOMEwyUjI3bnZtMkNGbTFybmRuVUVkdGh3bGpaZnJDelVab0pUVVRR?oc=5",
+   "julkaistu": "Sat, 25 Jul 2026 16:40:46 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "Oracle sitoutuu datakeskusten sähköverkkojen kustannusvähennyksiin osana Valkoisen talon energiatehokkuusväliketta.",
+   "haettu": "2026-07-26T18:33:52+00:00"
+  },
+  {
+   "id": "667cad60a52f1059",
+   "teema": "Ydinvoima ja uraani",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Government unveils roadmap to achieve 100 GW nuclear power capacity by 2047, pushes indigenous small modular reactors - DD India",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWHRKRGE3T1ZyLUxQenBBWmlSb1dxT1VLa3lhaWFVZ0tnclVhUDR6aDc0UlhCdEktSnBEWDdwY1V4a0ljaEVHNGhUbkxtakppMVFTRF9vd3g1MkdnNVBvcFVYd0QtS2VHRjBZeTFud0pNUFRibXhscTBWUXhNV1B0Qm8xZmtlVF9tU1dxNnhzUnR6dzllUzVHVDN4eElLNTQ5MUNZWmdicnNNUXVzalgzVDVCTWFMVHdqc0Y1TWFPVlRLc0FELVpxOEFhUGs4bGdfWW9QTnJsWUNrdlFFOWxSTQ?oc=5",
+   "julkaistu": "Sun, 26 Jul 2026 16:47:30 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "Hallitus esittelee 100 GW:n ydinvoima-kapasiteetin tavoitteita 2047 mennessä, mikä voi edistää datakeskusten energiatarpeista johtuvaa ydinenergian kysyntää.",
+   "haettu": "2026-07-26T18:33:52+00:00"
+  },
+  {
+   "id": "9c8ad0fb5f0280f8",
+   "teema": "Ydinvoima ja uraani",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "NuScale Power Plunges 85% From Peak, But a PPA With TVA Could Ignite a Rebound - finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnQnZyVmZxYWRGV1NuVVYtajhmejF0OUZqSDhCWXllczRZMVVjbkZfQUdxMFVGUEY4MTJwcEpwbWtEVUFaNFlVZVl6SGZJWTBnMDRCVWtsYjVWZEtjNXdhdV9jVUpnRVg5bFhyRUx5czV2Q0VmUXc?oc=5",
+   "julkaistu": "Sun, 26 Jul 2026 11:55:00 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "NuScale Power -pienet ydinreaktorit voivat saada sähkönsyöpäyssopimusten kautta merkittävää kysyntää datakeskusten voimaloihin.",
+   "haettu": "2026-07-26T18:33:52+00:00"
+  },
+  {
+   "id": "c5a490da9f3e3ffa",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "【Ardentec FY2026 Q2 Earnings Call】Revenue Hits Record NT$4.53 Billion; Longtan Plant Fires Up in July; Q3 Revenue Expected to See Double-Digit QoQ Growth; Dividend Payout Ratio Cut Draws Attention - finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CRnV5aG5Dc1hHal9YYU15dHlTMWhKWHFwak5xd2lzWVJza3g2OGpXQWE0VU5hdmptZkFScjBfZENGZHR2REwyTEJOSklsSlJCcFFyNkNnMk15Q2VTOUhkYktR?oc=5",
+   "julkaistu": "Fri, 24 Jul 2026 08:15:00 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "Ardentec saavutti ennätystuotannon ja käynnisti Longtan-tehtaan heinäkuussa; kasvua optisen infrastruktuurin kysynnästä.",
+   "haettu": "2026-07-26T18:33:52+00:00"
+  },
+  {
+   "id": "cc21cf30b1ec277f",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "2027-2028 MONEY MONEY COME? Lightmatter CEO: “Moore’s Law Is Toast” — The AI Race Is Moving From Chips To Optical Infrastructure - Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxPeXBSWkZtNjEtYzRlTjZWeHZZb0NRODZaaE5MN2JzdE1heTM1RkdJN0xqVkVHaUdGU2JKdmJ4VEZQd1luNDc5U1JXLU9FZDZTUmdOMHRoT2R0cFFfeEJJTklzaHNnRXJkY2RKdmtvUjdLTklKdHFCRllWbnlZcl9RR1ZGTGxmbVdTdGlTVHVxQkpUM2RESTI1QUJlcWU3NlFuaGVDVHNxZnlGT0F1TU9SNlVKWFQxbGY4R1RvZ0VhS1pFQ1NReGVKZ21OZlVDQnJnd3V5VzJNeGttNmdVSmJ6c2FTd0Q0TGtEaVItOGE3UW9vT2YxRHZGYl85bnA2QUdsLU5oTk84MUk4R0FzdmF1SS14ZXR3c3F1amdqSVU1dERnUTk1TXlMYXBGc3hkbWhlbzZTVl9rN3V1cHRuN1BCSDJuRUxRajBCYXhXa0o1X2EwRlpiNzc5Z19lOTVzT2hfanFQdmtGc0YxWmtSTmZDRDJ0eTcxUHFrRm5BLUtiSUtfS1ll?oc=5",
+   "julkaistu": "Sat, 25 Jul 2026 10:33:41 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "Lightmatter CEO kertoo tekoälyn kilpailun siirtyvän siruista optiseen infrastruktuuriin, mikä paljastaa uuden pullonkaulan tekniikassa.",
+   "haettu": "2026-07-26T18:33:52+00:00"
+  },
+  {
+   "id": "7464bb71d6ad3314",
+   "teema": "Kriittiset mineraalit",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "US Is Reportedly Weighing Critical Minerals Price Floor – MP, USAR, UAMY, TMC Stocks Gain Pre-Market - Stocktwits",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVW9rbVhKNmFER3hvWGpEUjlHdjE2ZWZaWUxqNDMwQS0xbjgwc2tPS0U5YjUySmljVmo3S2RRMUM1SW5fSjVZVVVsbDAxcVoxektRQWRBdXNBd0tIeWtiTmUzbGV1V0xDNGprd2tDelVYRVE4aDRDUXUzSEtOZ0tXX1BhWEx3WXZ3ZlJub1g0dTc3WXMyaTVZblBMUXgzSTRMR3BIUGVwUzFtQlJ2Q3Q1cWtJTF8ybWtUZG9NRWp1UTNXTUw0TWExQlZYQQ?oc=5",
+   "julkaistu": "Fri, 24 Jul 2026 23:47:01 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "USA harkitsee kriittisten mineraalien hintapohjaa, mikä vaikuttaa tarjontaan ja AI-infrastruktuurin kustannuksiin.",
+   "haettu": "2026-07-26T18:33:52+00:00"
+  },
+  {
+   "id": "126a19ae755c500d",
+   "teema": "Kriittiset mineraalit",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "3D-printable material can heal the body, build better robots and recover critical minerals - Tech Xplore",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udkRZQzk3SEdiTTVWTGY1dWtkZTZfcnFER0RnaVRFb1BQc1pqSC1RRlI3bnU0TW1ENlIxQTFzeVJwTDQyUXZGNkhWLTRUczd1ekRWV1o4clEwZWR1NUV4QXB5MVUySFJPNGxUb3ZabFdDeUdzcGZoQzJ3WDJHQ2s?oc=5",
+   "julkaistu": "Sun, 26 Jul 2026 17:30:01 GMT",
+   "kriittisyys": 5,
+   "tiivistelma": "3D-tulostettava materiaali voi parantaa kriittisten mineraalien talteenottoa ja robotiikkaa, mikä auttaa ratkaisemaan mineraalipulaa.",
+   "haettu": "2026-07-26T18:33:52+00:00"
+  }
+ ],
+ "yhtiot": [
+  {
+   "nimi": "Oracle",
+   "ticker": "ORCL",
+   "mainintoja": 1,
+   "teemat": [
+    "Energia ja sähköverkot"
+   ]
+  },
+  {
+   "nimi": "NuScale Power",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Ydinvoima ja uraani"
+   ]
+  },
+  {
+   "nimi": "Lightmatter",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Verkotus ja optiikka"
+   ]
+  },
+  {
+   "nimi": "Ardentec",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Verkotus ja optiikka"
+   ]
+  },
+  {
+   "nimi": "MP Materials",
+   "ticker": "MP",
+   "mainintoja": 1,
+   "teemat": [
+    "Kriittiset mineraalit"
+   ]
+  },
+  {
+   "nimi": "USA Rare Earth",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Kriittiset mineraalit"
+   ]
+  },
+  {
+   "nimi": "USA Mining",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Kriittiset mineraalit"
+   ]
+  },
+  {
+   "nimi": "The Metals Company",
+   "ticker": "TMC",
+   "mainintoja": 1,
+   "teemat": [
+    "Kriittiset mineraalit"
+   ]
+  }
+ ],
  "uudet_ehdokkaat": []
 }
