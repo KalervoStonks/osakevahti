@@ -62,6 +62,42 @@
    "syy": "Analyysi: Teknologiajättien ydinvoimasopimukset laajenevat kohti uutta pientä modulaarista kapasiteettia (SMR), ei vain olemassa olevia reaktoreita.",
    "markkina": "us",
    "stocktwits": "OKLO"
+  },
+  {
+   "ticker": "AVGO",
+   "nimi": "Broadcom",
+   "lahde": "auto",
+   "lisatty": "2026-07-26T18:23:19+00:00",
+   "syy": "Analyysi: Custom AI-ASIC-suunnittelu hyperscalereille kasvaa vaihtoehtona GPU:ille ja on noussut yhdeksi keskeisimmistä laskentakapasiteetin pullonkaulan ratkaisijoista.",
+   "markkina": "us",
+   "stocktwits": "AVGO"
+  },
+  {
+   "ticker": "VST",
+   "nimi": "Vistra Corp",
+   "lahde": "auto",
+   "lisatty": "2026-07-26T18:23:19+00:00",
+   "syy": "Analyysi: Sähköntuottaja, joka on solminut suoria sähkösopimuksia datakeskusoperaattoreiden kanssa ja hyötyy energian pullonkaulateemasta.",
+   "markkina": "us",
+   "stocktwits": "VST"
+  },
+  {
+   "ticker": "MP",
+   "nimi": "MP Materials",
+   "lahde": "auto",
+   "lisatty": "2026-07-26T18:23:19+00:00",
+   "syy": "Analyysi: Yhdysvaltalainen harvinaisten maametallien tuottaja, strategisesti tärkeä Kiinan vientirajoitusten keskellä ja saanut valtiontukea toimitusketjun kotiuttamiseen.",
+   "markkina": "us",
+   "stocktwits": "MP"
+  },
+  {
+   "ticker": "COHR",
+   "nimi": "Coherent Corp",
+   "lahde": "auto",
+   "lisatty": "2026-07-26T18:23:19+00:00",
+   "syy": "Analyysi: Optisten komponenttien ja laserien valmistaja, joka hyötyy datakeskusten verkkokapasiteetin ja optisen kytkennän kasvavasta kysynnästä.",
+   "markkina": "us",
+   "stocktwits": "COHR"
   }
  ]
 }

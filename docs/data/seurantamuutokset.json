@@ -1,6 +1,34 @@
 {
- "paivitetty": "2026-07-23T15:50:10+00:00",
+ "paivitetty": "2026-07-26T18:23:19+00:00",
  "muutokset": [
+  {
+   "tyyppi": "lisays",
+   "ticker": "AVGO",
+   "nimi": "Broadcom",
+   "syy": "Analyysi: Custom AI-ASIC-suunnittelu hyperscalereille kasvaa vaihtoehtona GPU:ille ja on noussut yhdeksi keskeisimmistä laskentakapasiteetin pullonkaulan ratkaisijoista.",
+   "aika": "2026-07-26T18:23:19+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "VST",
+   "nimi": "Vistra Corp",
+   "syy": "Analyysi: Sähköntuottaja, joka on solminut suoria sähkösopimuksia datakeskusoperaattoreiden kanssa ja hyötyy energian pullonkaulateemasta.",
+   "aika": "2026-07-26T18:23:19+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "MP",
+   "nimi": "MP Materials",
+   "syy": "Analyysi: Yhdysvaltalainen harvinaisten maametallien tuottaja, strategisesti tärkeä Kiinan vientirajoitusten keskellä ja saanut valtiontukea toimitusketjun kotiuttamiseen.",
+   "aika": "2026-07-26T18:23:19+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "COHR",
+   "nimi": "Coherent Corp",
+   "syy": "Analyysi: Optisten komponenttien ja laserien valmistaja, joka hyötyy datakeskusten verkkokapasiteetin ja optisen kytkennän kasvavasta kysynnästä.",
+   "aika": "2026-07-26T18:23:19+00:00"
+  },
   {
    "tyyppi": "lisays",
    "ticker": "POWL",

@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-07-23T15:50:10+00:00",
+ "paivitetty": "2026-07-26T18:23:19+00:00",
  "osakkeet": [
   {
    "ticker": "UUUU",
@@ -56,6 +56,34 @@
    "lahde": "auto",
    "syy": "Analyysi: Teknologiajättien ydinvoimasopimukset laajenevat kohti uutta pientä modulaarista kapasiteettia (SMR), ei vain olemassa olevia reaktoreita.",
    "lisatty": "2026-07-23T15:50:10+00:00"
+  },
+  {
+   "ticker": "AVGO",
+   "nimi": "Broadcom",
+   "lahde": "auto",
+   "syy": "Analyysi: Custom AI-ASIC-suunnittelu hyperscalereille kasvaa vaihtoehtona GPU:ille ja on noussut yhdeksi keskeisimmistä laskentakapasiteetin pullonkaulan ratkaisijoista.",
+   "lisatty": "2026-07-26T18:23:19+00:00"
+  },
+  {
+   "ticker": "VST",
+   "nimi": "Vistra Corp",
+   "lahde": "auto",
+   "syy": "Analyysi: Sähköntuottaja, joka on solminut suoria sähkösopimuksia datakeskusoperaattoreiden kanssa ja hyötyy energian pullonkaulateemasta.",
+   "lisatty": "2026-07-26T18:23:19+00:00"
+  },
+  {
+   "ticker": "MP",
+   "nimi": "MP Materials",
+   "lahde": "auto",
+   "syy": "Analyysi: Yhdysvaltalainen harvinaisten maametallien tuottaja, strategisesti tärkeä Kiinan vientirajoitusten keskellä ja saanut valtiontukea toimitusketjun kotiuttamiseen.",
+   "lisatty": "2026-07-26T18:23:19+00:00"
+  },
+  {
+   "ticker": "COHR",
+   "nimi": "Coherent Corp",
+   "lahde": "auto",
+   "syy": "Analyysi: Optisten komponenttien ja laserien valmistaja, joka hyötyy datakeskusten verkkokapasiteetin ja optisen kytkennän kasvavasta kysynnästä.",
+   "lisatty": "2026-07-26T18:23:19+00:00"
   }
  ]
 }
