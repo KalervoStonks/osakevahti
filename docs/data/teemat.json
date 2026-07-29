@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-07-28T23:32:54+00:00",
+ "paivitetty": "2026-07-29T15:59:09+00:00",
  "teemat": [
   {
    "nimi": "Laskentakapasiteetti ja sirut",
@@ -39,6 +39,114 @@
  ],
  "uutiset": [
   {
+   "id": "3031c94a7700d2ec",
+   "teema": "Laskentakapasiteetti ja sirut",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Analysis: Can Nvidia sustain the high price of its data center GPU - TechInsights",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMzFyeVNHdkhRY1E1S29lZThMREFpaXI5elpaLXRmczJhWUlYeU1tNng4aVFtQzFjZjNEQ2VRVnBkTlctaVhGaHdvZXQyWXItaHE0VDhqUnR4UWNXd1NzdEFWSE5qR1ZjWnpDdzk3X1I4Z3o0UlRpbFRocWRCbmRISkhNNWdpdkhRUzZfejBFT0dFMGZ1UU0w?oc=5",
+   "julkaistu": "Mon, 27 Jul 2026 18:35:37 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "Analyysi Nvidian datakeskus-GPU:iden korkean hinnan kestävyydestä markkinalla.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "b3d46a754a0ffa10",
+   "teema": "Laskentakapasiteetti ja sirut",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Anthropic signs supply deal with Samsung, SK hynix for AI chips - varindia.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTUlrSUFpRy1rRy1pOTZ2T0JPSVVFUzAtNTBDeVJwVk5CMFRQbEFwcnZXM2ZKZDd3eUFjcE1ZaXI2amoteFZvcXF5cEpCRGlQSVI4V25oTnVOa2FyZ20xZG1raUVUM0pESmdPVDhybnVGbnJVanYwa3NLR1Z4RzJCYk96MFVpZkRKWjE5RG9oVk1qLU15VXUw?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 07:06:04 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "Anthropic tekee sopimuksen Samsungin ja SK Hynixin kanssa tekoälysirujen toimittamisesta.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "ba7dd2802daa3fa9",
+   "teema": "Laskentakapasiteetti ja sirut",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "INSIDE CHINA’S ALL-OUT PUSH TO CATCH UP WITH AMERICAN AI CHIPS - PressReader",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlbmtZNDZ2bC1fOExUaURxSkdkZkRNcEw5QlhuRGw3SzhQQ1ZfblNtVUdJM3dNUDIyVnl1TGRrM2M5R3U0ZFYzSHNZT2l1NG1rQ3h3UEJiNmV3TDZubnZDWjNYRFFfMXUyYnZXSHptTEt4SzZudVFETkNEbw?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 04:05:43 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "Kiina intensiivisesti pyrkii saavuttamaan Yhdysvaltain tekoälysirujen teknologisen tason.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "f8ed49e6456935a8",
+   "teema": "Laskentakapasiteetti ja sirut",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Jane Street Invests in Etched’s $800 Million Series C Financing for AI Chips - Global Legal Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TRFhZb2VpQ3B2YlNNWFRKcGtvbWliZUR5NWtDWjNuSXdsRU1GcGtnd2x5Y2NYVWFSRDJ5MkVoMHNhcXVUNFNoS0JneWs2NHdOYmhIUjVZa00?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 00:00:00 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "Jane Street sijoittaa 800 miljoonaa dollaria Etchedin tekoälysirujen sarjaan C rahoituskierroksessa.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "cb9bb782d28aa82a",
+   "teema": "Laskentakapasiteetti ja sirut",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Huawei plans to invest in glass substrate for AI chips by 2027 - Huawei Central",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnBzbnZOX3JkYkR4Ynh3WlNlcTFPRHBscEFlY1RxYWR0b3VRLUxLOW05bFE0MHk0YTY3Sm5BazJORFlYV2dyaTc1MjVzaU5YZ0xhYTcxcTdUQzdCamhqQkVPcmF2aGtGdmp0clpjT2FLUTlIbWdiMTY5RmpyeUw1NEJPTVRaWXQzX1M0aXIyR3RScTdSYWNZOdIBngFBVV95cUxQVnI4VWF0OEtrQlNndmp2eEJpT2o5cDRJZDFydVp5S2x0Vm03VnBNcWZ2UHBjU3lpcGxqalYydTF6dEltWno0WG1RUmxxWnVRLW9MekJWeVFvemh6cU9CN0hGZUxxMm13WTN6ZGlLTHZEM1R4SjRVa1NMZm14MmVkeUxLdjhwS19qclk5TUpZZEhrc01CTlBGbXRCa3c0Zw?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 08:30:42 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "Huawei investoi lasisisubstraattitekniikkaan tekoälysiruille vuoteen 2027 mennessä.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "0d1bb811daa15d17",
+   "teema": "Laskentakapasiteetti ja sirut",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Top VC Joe Lonsdale: Nvidia should not be selling advanced AI chips to China - Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LVW5fZF91Z01NLWdUdXpXVWNIWGdwZ1RzV1BxckV0azBvVmlTcXBSUmd3WVlMcWRZNGtFZ1NjaFRqN0huNFoyaVRkNnZoM0VjbGpwNWtBZ0ZldWp6UUxfcy1nbERvNkVhd0VmeVlMNzdaWVBGMjBtSi1RY1Fldw?oc=5",
+   "julkaistu": "Tue, 28 Jul 2026 20:58:35 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "VC-sijoittaja kritisoi Nvidian kehittyneiden tekoälysiruiden myyntiä Kiinaan geopolitiikan ja kapasiteetin kontrollin kannalta.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "701335f72cd7ce81",
+   "teema": "Laskentakapasiteetti ja sirut",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "U.S. Companies Believe China Has Been Acquiring AI Chips. Now A Nvidia Employee Has Been Arrested - International Business Times",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUZfM0VtNVlHdzlKNUJPRFRHZDJwc2tJSEtqZzFCeUhtRjk3NW5HemRnTzBsTnctV2FhN3d2SGUxd2ptWHdSRHNvQVphbUZvbzFrV3FNUGVJcC1zN2d0RDR3ZjY4dGYtb2Z2ak15RzdBdmNpS0dCYmFMdnBEa2c3ZVZtTjBReW1lNWVQblRJWnZkMG5SWW9WWWlQNmhnSFRXdW1qTGE3TFE0M052QVRvLXFqVWtvSEtoaTByR0hqVEUwdw?oc=5",
+   "julkaistu": "Tue, 28 Jul 2026 23:53:01 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "Nvidian työntekijä pidätettiin epäiltynä tekoälysiruiden laittomasta viennistä Kiinaan.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "d9dd7e82549ec250",
+   "teema": "Laskentakapasiteetti ja sirut",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Huawei targets 2027 glass substrate production to gain an edge in AI chips - digitimes",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSEJSak50Y0hPTjBCZFhRTnFrc0IyNWlpaTR4NmszWmMxWFFtdURuQi1VOWFhandVd1UtQkhId3lzN21ERFJ0eEJCd0h2RjdYc1I0NDlMR0pjeWp4UndQVzFqb3pvTzJiQ1RJdkFZdDhfNi1JeS1EVU1rM2FVamVhdjdvVXg1WlB2cGwydzBtRE82TXlf?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 01:15:00 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "Huawei tavoittelee lasisisubstraattien tuotantoa vuoteen 2027 mennessä tekoälysiruiden kilpailuedun saamiseksi.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "154adee6f75711c1",
+   "teema": "Laskentakapasiteetti ja sirut",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Huawei’s AI Chips Lack Differentiation And Face Global Market Penetration Hurdles, But A Focus On Glass Substrates Could Ignite Its Fortunes - Wccftech",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50M3NLTmlMUFZsVVlzR3JOT1dLNGRlb043WTlacE1EUWs4cFNsa2N1TG9ObjB0NlI0NXFrUTdtUEF2ZHN0ejRhU3AzNlBha0pKNDlPbTdRNHJkVWZfenFEaU9felFudmtPVmt2c1J2TdIBdEFVX3lxTE4yUkFnRW9pNUN5THJnelFER2R1VVVqUXBlVFJ3TWZqQ19WQ25abVJaTm9TeExseW1RY2RBR0JxSDk0czZzallMdzJwRy1IVWM1bWpXQk5GT24zT3dVeEJQRm52M0hUbVZuS29RR20wY2VYYW41?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 11:29:12 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "Huawei kehittää lasisisubstraatteja tekoälysiruihinsa kilpailueduksi, mutta kohtaa differentiaaation ja markkinapenetraation haasteita.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
    "id": "6a006d1348c024b1",
    "teema": "Laskentakapasiteetti ja sirut",
    "tyyppi": "teema",
@@ -75,112 +183,100 @@
    "haettu": "2026-07-28T23:32:54+00:00"
   },
   {
-   "id": "2541d74d20d589e9",
-   "teema": "Laskentakapasiteetti ja sirut",
+   "id": "0f6235f234079e4e",
+   "teema": "Muisti (HBM/DRAM)",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Tencent shifts bets to China's AI leaders from DeepSeek to AI chips - 디지털투데이",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUNCX1IxdG9lcFByOUpsYnZELTh2Wi1CcVllb1BuTWY0SFJ1UTB3RThuRHNXaTZYeVdMTm9FVFJ6N3ZYSDJBNzFwYWhjVTF6Q0NVMTNGX3Bfa1ZLd1BjYUZlbVdUOERDNkduLXVmb1JGWlBjM0hMZlNTc0V0b0U4aC1GTEpvUi1DcmstNjF6TWxWWWU5VkxxQXZuODI4bGI3OGJ4dzR5V0pBTUZPeHRGdQ?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 01:34:18 GMT",
+   "otsikko": "Nvidia Secures High-Bandwidth Memory Supply from SK Hynix in $500 Billion AI Infrastructure Push - Earnings Call Transcript - dars.gov.et",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUzM3VWxHQU8yb2xWZkdFOFZBQlYyY2Zkem5zejhoU2VCdmhfVDFxRXU1Qi1PYzJUS0JkcG4zbDd5U3pVVWR0OTc0SllWbjNJMHJzRjhENk5FcXpzRHlVdjZORE5uUzR1VlJrZFFGT2FHUzc3MHFKSEdzcldZcGFwTFRxaHhrRlZiaGlFUld1WGFwTUdEeVYyQUc1R1BjY2xTYkJsc1BoeHlYbmxwWi02S1ZveVl6SXRRSGxVVW8yQTdpWjFlNEhTNlY3dmV6ZkpZV3hV?oc=5",
+   "julkaistu": "Mon, 27 Jul 2026 00:14:10 GMT",
+   "kriittisyys": 9,
+   "tiivistelma": "Nvidia varmisti HBM-toimitussopimuksen SK Hynix:n kanssa 500 miljardin dollarin tekoälyinfrastruktuuri-aloitteeseen.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "cb29354b03e99d1f",
+   "teema": "Muisti (HBM/DRAM)",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Micron Technology: Long-Term AI Deals Stabilize Earnings Visibility - scanx.trade",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTBKUTJ4SG9OTXhhODFwcTRwWFAzU21iNm5SMmE5LWJxMS1kaE84SDRLc2RLNExEX0xObFdRczhSTXp0QWk4aWZQRjZ4cXI0cXJ3Z0R1NGdMUlBHZm9JQkwzTjd0RGF2aS12cWJ3aTAyRGNKM2lSd0NHeDZIbUNsSkdoY2RMalVQR3dUcVlrdWJvQ09TWXgtZ21vOVNZYjBuS0dVV2hwelpGRFB6REc5MzZUQzNGdkhES2lwenZzWUs?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 15:43:57 GMT",
    "kriittisyys": 7,
-   "tiivistelma": "Tencent siirtää sijoituksensa Kiinan tekoälyjohtajiin ja sirutuotantoon.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "Micron Technology vakiinnuttaa tulevaisuuden näkymää pitkäaikaisilla tekoälypalvelusopimuksilla.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "50804f207f702d95",
-   "teema": "Laskentakapasiteetti ja sirut",
+   "id": "2d4793d99a4da615",
+   "teema": "Muisti (HBM/DRAM)",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Nvidia employee detained by Taiwan in China chip smuggling probe - The Business Times",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3hVRHlmRG5sbmVXQ3R3ZDFiZVhmZ3lHZVV1TkxkTU9sQVY2QWVkOWF0TFUxZjdCVGExR1NqM2g4bG93STVReGI3U3VSRVptdXVkbE5ZaTFJTS1LRU1abE1FQ1FRZ1R3Tnc1bUFVUG1Lb09hNTRPX3FGajM5UTQ1VWVRSHVhNU5HZGxZT2JRNEZtNjFqLURic2hEU1lac0E0WHdLN25DOUs1S2pPUFE?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 06:05:00 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Taiwan pidätti Nvidian työntekijän Kiinan sirujen salakultjettamisen tutkimuksessa.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "2203e029407f2766",
-   "teema": "Laskentakapasiteetti ja sirut",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Nvidia employee tried to smuggle AI chips to China - dev.ua",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iMzRKUll1bVhnOG1oWEtuSW0teTB1bE90S1EybFdxY3hha21aRGZlMmFqT2lpMHJDY2x6VVBSZWxxeFVsRUVUaE10X1ZWcXdnWFUzd0owZjlwSXJNWnlESEEtN2lGVlk5RENJ?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 07:56:00 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Nvidian työntekijä yritti salakultjettaa tekoälysiruja Kiinaan.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "2ca6d130c2617a4a",
-   "teema": "Laskentakapasiteetti ja sirut",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "AI Chips Today - NVIDIA and Silvaco Partner to Elevate Semiconductor Design - Yahoo Finance Singapore",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM05YWmNUUkxDRUt0NmNTTGtBeVZ3ZWFWaGJtOWctVUF0RzJEQWl5NmZubTlCbUlaNXRxS0IzdWpNVzZQN19xNmNMSjB5U1plajExdzFUcGtQakp3MnUxcXlEX2I1N0R3cmVHTEhRLXA1VGd0cTU5MHEwaUVESkxhSldQTlg?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 11:37:34 GMT",
-   "kriittisyys": 5,
-   "tiivistelma": "Nvidia ja Silvaco tekevät yhteistyötä puolijohdesuunnittelun parantamiseksi.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "23d3943d5e084c3a",
-   "teema": "Laskentakapasiteetti ja sirut",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Anthropic seeks SK Hynix supply for AI chips, SK chair says - digitimes",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHFCOFN5UjQ1QVRzaWNWVERSaU1Ya0RjcEF1RDlWdkRCYjFJUXlMMUozNVR6d3B1emszR3ZVeHBodElUZ1FkY2VrMm52N0RoUVRrYmQ2d1ptanNfckh0NlEzVzlRVG1nME1vUDZmU0Y0eFpmREU1NDFoYmlZVkVJbmdpTzhqaGxsUUd5cnJ4WklqZw?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 02:27:40 GMT",
-   "kriittisyys": 7,
-   "tiivistelma": "Anthropic hakee SK Hynix -sopimusta tekoälysirujen muistikomponenteille.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "9e7da08066052290",
-   "teema": "Laskentakapasiteetti ja sirut",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Taiwan detains Nvidia worker in chip smuggling probe: source familiar with case - France 24",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaS1hNUxtZkVLcjlTdGM3OVBrOGp2VmFRVVBDMVUtWUVFQ0l3ejhzRmJ0X1ZUUThweXFTMjU3eV82dkNpZHlDbjhtejZHcWlqRzg0TFk5MXI1d0NFS1J3WWJjX2d5OVRGcFpLRGdvWmtxazBvc2NxSjRZUmZmZ1ZCZTh6VUpZU3g3M21TNndhbURlWUZnb2lpUEI1VU5ibW1ScEZNb3VYZE9hQ0hVMTdLdmp2MC12YWRzcElhVTNETnV5aTQ?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 06:49:10 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Taiwan pidätti Nvidian työntekijän tekoälysirujen salakultjettamisen epäilystä.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "bd87a4d819cffdb9",
-   "teema": "Laskentakapasiteetti ja sirut",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Nvidia employee detained in Taiwan's AI chip smuggling probe - PC Gamer",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONVpKbWo4d1JUSmxJSjZCd2NDRVZSUjRfM0gzVXpLd0Z5Y3NVSXZHV29aV0VoTHpYOWdWWTRWT09iRTFSOHdRSnRVQXJmeFVwZC1UOWRYd1RsZEN1MmlGVkJ3WGFNUWRpa0FpSTZrMjJHOXZScEE3bURSYzl0MzNkbGtJTm1nU1FnSWxUai1DX2djdXpLX3BtMnBwY0Z4ejFRYWNQSnM3eUNfM2V2RWNleTJlRXpsRGptZWJQNkV5OGUzR2swMFlIRg?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 15:33:31 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Nvidian työntekijä pidätettiin Taiwanissa sirujen salakultjettamista koskevan tutkimuksen yhteydessä.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "cfd76855ff33c38b",
-   "teema": "Laskentakapasiteetti ja sirut",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Huawei Links Thousands of AI Chips to Rival NVIDIA - 조선일보",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3QxMVlqSkZvLXZta1VuM0ZfV1FBMjhQVUd3bXdhOElJRjJiajZPX3ZERUR5THNFeklNV1I4SkVvZ3ZlUmhWemdka29FYzdnS3ZaMFdWZ3ZVZEZnUEZXRnBtMDE5NWtyV3E2WGlGY0IwWFVJZEVuZ2MyNFVVc1dadXB6eHJjUF9X?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 15:55:32 GMT",
+   "otsikko": "SK hynix asserts HBM leadership as rivals improve but yield gaps persist - CHOSUNBIZ - Chosunbiz",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmFKWVVMazdwYXZHYWl5M0VKUnlramRGOXV1QmZRMU83dFBUclh0a0FEWkFsYkduS3pBNnkyeGhxckMyOWhiU3Z4WVZRVkktZzg2c1VaaFlBd1h1RUtiYmE4MEdHRHFsbzlWb0loeHFpbTl0RVREaHBUd1FpOS12dDNuOV92MmJMZWNiN1V30gGOAUFVX3lxTE1GYUpZVUxrN3BhdkdhaXkzRUpSeWtqZEY5dXVCZlExTzd0UFRyWHRrQURaQWxiR25LekE2eTJ4aHFyQzI5aGJTdnhZVlFWSS1nODZzVVpoWUF3WHVFS2JiYTgwR0dEcWxvOVZvSWh4cWltOXRFVERocFR3UWk5LXZ0M245X3YyYkxlY2I3VXc?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 00:52:00 GMT",
    "kriittisyys": 8,
-   "tiivistelma": "Huawei yhdistää tuhansia tekoälysiruista kilpaillakseen Nvidian kanssa.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "SK Hynix vahvistaa HBM-johtajuuttaan, vaikka kilpailijat parantavat tuloksiaan tuotantokyvyn erojen pysyessä.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "d2b633f850c3f45f",
-   "teema": "Laskentakapasiteetti ja sirut",
+   "id": "12c62fa9bdd7fdbe",
+   "teema": "Muisti (HBM/DRAM)",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "It has been reported that the Chinese Vice Premier stated that 'those who refuse to adopt Chinese-made AI chips are traitors.' - GIGAZINE",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbHZNTGx1WGQ1bEh1OUw4NzlDU1dlU1J3ejBVXy1qS1hYeGJJdEI4T3h1STlFWDZyVlZBd1VRTE10RXR0ZjhZT0FKbE1TS0s4c2dKTTk1VFhVc1ZHQ2ZfNHJIdVJCcWM?oc=5",
-   "julkaistu": "Sat, 25 Jul 2026 01:00:00 GMT",
+   "otsikko": "\"SK hynix Is Samsung Electronics' Leverage\" ... Why the Stock Was Shaken Despite Record Results [Plus Watchlist] - 매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDai1SZjdFbnE2QjBwSDdBSmZJQ1BiTHVzUEp3RThpTG5FQ0pVd3RabWFEcUR1N25FWlRQck90b2MtU00tem9LTF8tTTBUcnFnTndB?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 06:56:23 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "SK Hynix on Samsung Electronics:in vipuvarsi tekoälymarkkinassa ennätystuloksista huolimatta.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "427b695a01a58fb5",
+   "teema": "Muisti (HBM/DRAM)",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "SK hynix posts 1,200% net profit boost on AI chip boom - eNCA",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN3BVQ1dndUl5RlNGRVdQZDYxVG52NmR6LUMtd0tsX1hPa2piM0IzY2JaQmkxbGxTVTlqTlhyM0h0WXlmQnBOTHZWak1aMUd1OXo1anFOTjEycGJ3dDRDN2xsTVVVZzR6NHpfeFllV2xzU0JZYWVGVWdkS1Q4S244TlFJb3dkUQ?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 10:02:46 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "SK Hynix:n nettotulos kasvoi 1200% tekoälypiiribuumin vuoksi.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "3ee774c40e600254",
+   "teema": "Muisti (HBM/DRAM)",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Record Earnings, Record Low: SK Hynix Stock Falls After Missing Q2 Estimates - Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVpGNTV0WTl6SExJQlk5TW9GX0JmYzRFWGN2U1hmM2RQREZZM2xYVk8zbTZRRy1NRFRwMGRGWGl4VzFrYmswVmRrLVI5RlpTOVJSRnFReFd2U3VobkFxblhIRWl0YVYxVWx3UnlocC0wNmdCWV9jYTNJTjN3alJfNXpBVVhQSFdvLWZjbEhXUGNmWlMwTjFMdDZaTF9faVZ1SEVzbjg5RVlrMFkwRTZrUmpxWTBYUU85UDFGSERnenowODhBM2IwOA?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 00:44:19 GMT",
    "kriittisyys": 7,
-   "tiivistelma": "Kiinan geopolittiset paineet kotimaisten AI-sirujäljittelyjen käyttöönotolle.",
-   "haettu": "2026-07-27T23:41:42+00:00"
+   "tiivistelma": "SK Hynix saavutti ennätyksellisen tuloksen tekoälypiirin kysynnän ansiosta, vaikka osake laski arvostuksissa.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "7411e7d4219bde87",
+   "teema": "Muisti (HBM/DRAM)",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "KLA Q4 Earnings Call Highlights - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjd0SDR2Uk8xV3hpV2FBWmMwR3drcHZWUnVfZnpTMWR2OVM0ejB0aDY4eERON25NejVZZjUzM0tRYkp2MHAzT2ltNVpRY1JydFVVX19ZaWtpdXIwSkwyTE8tMi1OWi1GZG40SUViX0QtRHN5TEZWMGs0NURUU3JFbUFTRHNzWWNqWEF3VzV2TDBLQ3ZQUFM0?oc=5",
+   "julkaistu": "Tue, 28 Jul 2026 23:04:14 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "KLA:n neljännen kvartaalin tuloskutsu käsittelee muistipiirin valmistukseen liittyvää teknologiaa.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "dab6501e5b2ee546",
+   "teema": "Muisti (HBM/DRAM)",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "SK Hynix second-quarter profit surges 557% to a new high — but misses estimates - CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3NvNXBjOWJpTHFGNjVRM3hWZ1h4LWZkUUIxTlJFYldWOVpPMXJxM0w1QjdDQjRteXppVGE3VkN3UHN0Q1UwNkp1LXd3Tm12ZDlLRDJrd2tqZXJLMG9LaWI5WUFLRXBrajRKVzhmTlI4ZnhIZVJ2OEZ3eVN1VW43aXVDOHF2VWJOSTRoWtIBjAFBVV95cUxNR3NvNXBjOWJpTHFGNjVRM3hWZ1h4LWZkUUIxTlJFYldWOVpPMXJxM0w1QjdDQjRteXppVGE3VkN3UHN0Q1UwNkp1LXd3Tm12ZDlLRDJrd2tqZXJLMG9LaWI5WUFLRXBrajRKVzhmTlI4ZnhIZVJ2OEZ3eVN1VW43aXVDOHF2VWJOSTRoWg?oc=5",
+   "julkaistu": "Tue, 28 Jul 2026 23:01:49 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "SK Hynix:n voitot nousivat 557% tekoälypiirin kysynnän myötä, vaikka tulos jäi odotuksista.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
    "id": "11eaa7c96ba5cf66",
@@ -231,100 +327,76 @@
    "haettu": "2026-07-28T16:21:02+00:00"
   },
   {
-   "id": "576e72e39b7fc29c",
-   "teema": "Muisti (HBM/DRAM)",
+   "id": "39a5f32aebe2aaf5",
+   "teema": "Energia ja sähköverkot",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Samsung Secures $200 bn Broadcom AI Chip Deal Through 2030 to Challenge TSMC in Foundry Market - TelecomLead",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ3RXQkdrMjJ3amdxQnZsaktIVWFJM3VIU1o0VTFIVUxiUkJWZzZwRjJYb3ZrVlcxVUxNRFFQYXlvUEF6ZjFHRWl6ekdxRE5LY1F6azJWSVZhNDl0SENBX1NqdUZBNEhmSUoyUTZxamFaMFZNRjVLUGhLTS1HQU1sUG9fQWFselFQa1JLTFZYR1J3THFmbDZjUzIwQ0lOSHdNcWpndmc0a2pPY0VlUWJHc1VSbHdwYWUydzFFLTROck5vWkZ3Uk5WRE5SckE3NFlrV0dLN9IB3AFBVV95cUxQRkItakU0bFpYWFVfOC1LcDdZbEwxTjlyQ3dTQzFvakdQaWc2Y3VuWnJ3c09HWlJNOTduNVdrczlaZDNlbExQbll5YVNXcXpvMHA3YXhGeUVBU0JoYXBGYmhSeVFnUEN3ckctb1l1dGZlYmRkMzdLYW13eFVDUElGLWxGN1lIZ1YzR19PX3U5THRMcVBWUzBEQzgxZEllbUNWWk9Fd252TW1JTW1VcHRZY1JJd0Z0VlRDWl8yeEEwWkRlSzFCa21vNXJKV1lrVVJkS1Q3RG9qM3pralVH?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 12:12:32 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "Samsung vahvistaa 200 miljardin dollarin Broadcom-sopimuksen AI-piireistä ja haastaa TSMC:tä foundry-markkinoilla.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "otsikko": "Bring, Buy, or Build? State Utility Laws May Complicate Data Center Power Procurement Strategies - The National Law Review",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZU5lMGxlbzJJNmU0V3FyZWZ3bTVaSVpCM1Y4Nk1iZDN0M2NsanR5VWZOOEdxNHJnM2xWQ1NDQUlHLW41RkMzQWh6V1VaUVBIR2hYMGlHVkdxSEZjd05SRExjMXVZT0p1anQyeGVIUFZ1T0JDV0s4d2FPeEoxaTloa2xDa2N1ZmpYXzktRkN0cUxmZWJiMGVTT2hKNm1ObFBvQlNid2hNMWxBeXpEQVR3R1hCWUdhZw?oc=5",
+   "julkaistu": "Tue, 28 Jul 2026 17:50:17 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "Osavaltioiden sähköyhtiölait voivat mutkistaa datakeskusten sähkönhankinnan strategioita.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "d2cdc1fef5a43e74",
-   "teema": "Muisti (HBM/DRAM)",
+   "id": "8e0f9061a1281056",
+   "teema": "Energia ja sähköverkot",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Nvidia, SK Group expand AI infrastructure partnership with AI factories and HBM roadmap - CRN Asia",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYi1YQ19VME5UWVE3aVdIRlROX0Fpb3BFbWtPOG02eWd2Vm0xc0ZyNE5OZ09JYnJWZEFEUFBGZHM4YWp6YnpielRRem9ndHhfeGw2bVRjMzdJSTcwUmFtNm53XzNBeEJsNDF6Q1ZFOC04THQ3d2xadFF2LThLNWY3djZaS3Fid3YtQi1OSmdEOWU5ZU5mcFR4cGxsWldfbUFiRkVueHc3R0tUNFo4MWRtbkFYdVQ4QWg4VHR2eTFMUm8zUFl3?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 06:23:40 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "Nvidia ja SK Group laajentavat AI-infrastruktuuri-kumppanuutta HBM-suunnitelmilla ja AI-tehtailla.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "a2b0b5e6de930a2d",
-   "teema": "Muisti (HBM/DRAM)",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Weekend Reading | In-depth Interview with Kim Jung-ho, the 'Father of HBM': Memory Chips Are More Critical in the Inference Phase; Power Delivery Networks and Cooling Technologies Will Become Extremely Important in the Future - 富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc1lycm5WYllGWTI3SHpfbUxHVjF3d2FDTmVuejNMN1Rtb2JQckFXZTlqTndSTW1rZHpWc3dPWXRLQ1IyQmNrS0VncG1CYjN4UHJXMHBQTHFwUEp0ZnJRM1dFRUYyc3Y3a21DQ0NjaUs3NnBQM0lWVUR3YlVDd1JGV2RiNzVndnYyZHVmTWdzRTl0S244TnQ2c05wZFQ?oc=5",
-   "julkaistu": "Sun, 26 Jul 2026 03:23:58 GMT",
+   "otsikko": "AI Demands Push Data Center Power Density, Grid Limits - Indiatimes",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR1Z0c3JwYTlnemtDN1N5Vi0xY2JqMG5BcjNqWURVQlhDVVNuUHp0d1hTY1VLdGd6c2hZVVBXSXVSczZnVGJaNmxxSXBnMURrbUFudElMSy1wS3FnVXR1aWl2LThWT3FOWGVqV3lVUU9ZY1N3ZXprUEVDdk1fRzB4bnoxN0tNdktjaURfbnhPdzA4alJTdFhWWUJkOGtTdEc4cjYta3QtQS12OTFwcWlBMVpWX2VLNVFuRHBvcGNCeWZkdC1EMDR4T2ZxaVZQNmFlZzRjRWsxQlpZQVM3U2d2Mg?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 15:33:45 GMT",
    "kriittisyys": 9,
-   "tiivistelma": "HBM-asiantuntijan haastattelussa käsitellään muistipirien kriittisyyttä inferenssivaiheessa ja tulevaisuuden jäähdytys- ja virtajakeluratkaisuja.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "Tekoälyn kysyntä nostaa datakeskusten sähköntiheyden ja osuu sähköverkon rajoihin.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "1ea6bc55998d9070",
-   "teema": "Muisti (HBM/DRAM)",
+   "id": "232cf9ba401c2b7e",
+   "teema": "Energia ja sähköverkot",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "SK Hynix just moved $26.5 billion onto Nasdaq and then moved South Korea's currency - Startup Fortune",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRURTc1VFUWQzOXpZTDAxWXdRdWU5dnZNRDh2OU5aaUZmNGswcGF5ZWp3VFphbFpWMGRTRms2UHMwRkZmSmZPUENqemY0ckNtU0pQaEpPS2JpRFBxdzFzTS1KWThPYjZrVDJOYjNoT2RBUUU4SFJpYnN1UTl4S25CYThYRlFFRUYzWUJBOS1uclpaR3h5TTBWTXhvX0FXZnMtUkl1OFJOTVIxUlYw?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 02:08:41 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "SK Hynix listautuu Nasdaqille 26,5 miljardilla dollarilla, kertoen HBM-kysynnän voimasta ja yhtiön strategisesta asemasta.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "otsikko": "Entergy: Eminent domain unlikely for AVAIO data center power lines - KATV",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFB3bDFzSXFOZnZDcjRsTElmZDhOdk9OTUp2S1pyOU1xQzFIVjVWTHV1ZjExNjJQeHZhZ1VHUDVxb3ktYV93ZFU0SVdidmFxeXpVZWwtT1lNSXFCanRXeHpUTTZXbHRqb3ZMWU11RG1FQ0o0TUY3Y1dGdHJLcDcxVkphUGtjNDVTV0Rtbzh3blZ0dEpGSGt0bw?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 00:56:10 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "Entergy-yhtiö kertoo pakkohaltuunoton olevan epätodennäköinen AVAIO-datakeskuksen sähkölinjalle.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "dacf0484858f84dc",
-   "teema": "Muisti (HBM/DRAM)",
+   "id": "cacff8ef7c8cabe9",
+   "teema": "Energia ja sähköverkot",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Samsung lands Broadcom AI chip deal worth more than $200 billion through 2030 - TechSpot",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0dIZlBkWjdPYlhlYzZJY3lJX2VzbGZUUmMyTFhVWDg3ejNsRVVBZGpqVXRvNkYycEROZmFNQUNXeXRScVYyOUtGRTZ6MGpSTm10WHdaNGZPeXJ0QXZWazFmUndncnl2WWdGUU4xWkthY3lheVhwY0k1REc4cmFJVk9UbEdvcy11clcwczFZUW1aUQ?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 17:14:00 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "Samsung saa 200 miljardin dollarin sopimuksen Broadcomin AI-piireille vuoteen 2030, mikä merkitsee merkittävää kapasiteetin lisäystä muistikilpailussa.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "4e5d59684cc3118d",
-   "teema": "Muisti (HBM/DRAM)",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Samsung to boost HBM5 speeds with cutting-edge 2-nanometer tech - Korea JoongAng Daily",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHBiV2NtT0RCTjhtUUdmUnkzV0pPbjI3dVRvQ192bzhxRl9LZm5oU2Z3Z0lqWTBFYmJOQlNrbkRsVlVoUzJOWGZ1Sno4Y25QNHdsT25Ta0RjMU5wVmlVMWJrT0lGckFUR2J4NG5wNlFIclNwc3ROakhBbHRqR1R5WWw2T25GNENBRlhZSFNsY2ZZYk1KSzZsQk95RXZ1Yk9qZWNaOFd2QVlUMlBhNmhwYW16UlU?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 10:11:40 GMT",
+   "otsikko": "Indiana Gov. Mike Braun pushes nuclear energy as data center power demand grows - WDRB",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSmYyb0lYbExPSFUyRzdoSlRTV0cwOUMzV3JYSk9aMzJsd3RhNzVaQ3NKUUZSd2lZNGl2aE12NVA4dmxUSGNTWDBObU9tUXNkOURfeW9JMVdJNjFaaFJvRkRRb0tIcjJ2QjlTZEI2MjZMWFd3OWUxbVlvdDRicHFCdkpvNVNHZy1iMEVicV9DakdMdDZUZHhtVEhYc2QtdkFUXzhjWlhUWkpEOWxUaXdURDltMWhiTDczUzdDWWpNRnlzdVNoTUZGaFVTQVh2U055RU9xTWlHNmNtUlJKaVRjejlFVzlDeUZmQXc?oc=5",
+   "julkaistu": "Tue, 28 Jul 2026 22:34:00 GMT",
    "kriittisyys": 7,
-   "tiivistelma": "Samsung nopeuttaa HBM5-muistikomponentteja 2 nanometrin tekniikalla.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "Indianan kuvernööri ajaa ydinvoimaa datakeskusten kasvavan sähkökysynnän ratkaisuksi.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "c382c383a1a36e3d",
-   "teema": "Muisti (HBM/DRAM)",
+   "id": "bc9eb006c6839801",
+   "teema": "Energia ja sähköverkot",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Nvidia, SK Group unveil $500 billion-plus AI data centres initiative, memory partnership - ET CIO",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQeEU4RGtENWZrZnZfcXNpQndMWWZwZUVpR1lOdjh5Zk9LakNpV09xNFpfRml3Rm04b0ItREthMDJIZlFhY05vVlo2Q0w2NWNmYTFxWU05cGdNcjdIRlM4ZkF2UzZIMDQwdDNBaHcycVFXVDhmazVPTTNjNzNtVDNRUXlvbXhtWWJLeTlvT1RFSjBTVF9DaVpBVU84MFRIR0pvWGVmS1BaeWRGQTJSODRHTTVSOF94akxXNzZLYWRBaDdpTGlRdHloaUp6UG45eTdBU3Y4bFBrVGJhTDFNZzEwMlJhNUZtM284aGNBQnNybUc5OTZ1OUdJOUcwZHNCb0ExYzFqS080Y3MzZjNkZWFQdTlta1RIOWJjQmF0QjN2YUEtZ9IB7gFBVV95cUxQM29FZUgxdHhUVlBqZ1RKWV92dG9naHhOemIwX0M2eGZ6Zmg5RWhaY3ZHOG8zdDY3d3pfU2tSY3Q0cVZuU2ZEMUwzY0hiaGV6ZklxTWZsZkRiOFdTT3E1Uk1SVVcyV0ZycHBBRW9OMVpmclpqZGxmUTd5UUkxMHVkaFhRX3FmS28yZVRfYXRQc3hocXpONHR4NXJTaXdzd1QwWFhVSVhubm1LM0tRTWlDU2VZWnJmZlA0b09CT1ZjUkpGQlg3eDV6aXBvLXhneHhjdmQ0OHIyLUltZVVJNGNmMzY5RWlsQmVndmdWMnZB?oc=5",
-   "julkaistu": "Sat, 25 Jul 2026 05:56:29 GMT",
-   "kriittisyys": 9,
-   "tiivistelma": "NVIDIA ja SK Group ilmoittavat 500+ miljardin dollarin datakeskusprojektista ja muistikumppanuudesta.",
-   "haettu": "2026-07-27T23:41:42+00:00"
+   "otsikko": "PJM files two plans with FERC in attempt to close data center power gap - report - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS2puMC1uT19iVGFsYm9JNTZoT2dDaHR6OGFiVS1xME5yOG5oRE5XYzU4YzhVQVJ6d19UeC0ydEJCcmdJYVNXbkRlTDBUOTdvcnpGRFg2RGVIenQzV1dyd0V4VGREZ19jN0tlV0xuelc2Uy1IUC0xenF1V0d4QlpqTl9YN2FPMHR4UWNmSkYwc2hHYWlyZ1FMdHN3M2FSd21CNTUySkhfelQyemlEY2ZwZ2U3QW5uQUxpTmtzUTJjRQ?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 12:00:51 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "PJM-sähköverkko tekee kaksi suunnitelmaa FERC:lle datakeskusten sähkönpuutteen korjaamiseksi.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "a85bc93a6f8a21d4",
-   "teema": "Muisti (HBM/DRAM)",
+   "id": "30f2916caf36aa12",
+   "teema": "Energia ja sähköverkot",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Nvidia Secures High-Bandwidth Memory Supply from SK Hynix Under $500 Billion AI Initiative - EPS Estimate Trend - dars.gov.et",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2hHY2RjUVJvMVFNZF9XTHpJQXIxOUxDRnhER2ZWWWMya0Z1blZpSTdhVHhDRFRISkJqVTBNblhZd2llSXhNRFZuOEpRR2Y4OXRQYmJscnVtNU9zSEhvanRRMU1DZWxfaE8xMk1NYkhleXNnM290NE81Z1l4T0MxcUwxNXdtYk5wc0d2S1RTTUpwOVRRTHNseVg4V2xLSk1nMUpNMDI4SzVuT2wyS0w4Sm9rbXFrMmIxcmFtLUVfMktkUGNqZWJwejcydUxjQQ?oc=5",
-   "julkaistu": "Sun, 26 Jul 2026 21:45:53 GMT",
-   "kriittisyys": 9,
-   "tiivistelma": "Nvidia turvaa HBM-muistintoimintaa SK Hyxiltä suurella sopimuksella tekoäly-aloitteena.",
-   "haettu": "2026-07-27T17:11:56+00:00"
+   "otsikko": "EPA Eases Pollution Rules for Data Center Power Plants - impakter.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUVhLcmpEb3N4bzlzdFl6X0dNbTVDOU5qOFNjWlBzbDhzc1ZJd2FsRVBxMFYzdDlRWmpWcVlxSnFjYlAtemdORlJlT05rX05xRTJiUklSUmhBZ09KZmJweWk4cXNfNmNEUHpFMF9CTVhubUs3YXVlVEJtOTZLRzlESUlB?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 05:05:45 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "EPA helpottaa datakeskusten voimalaitosten saastumissääntöjä, helpottaen tekoälyinfrastruktuurin laajentamista.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
    "id": "3946cf1c8151a289",
@@ -399,76 +471,16 @@
    "haettu": "2026-07-28T16:21:02+00:00"
   },
   {
-   "id": "1591539fcbd8bbfc",
-   "teema": "Energia ja sähköverkot",
+   "id": "2c4639e225d254ee",
+   "teema": "Ydinvoima ja uraani",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "EPA says acid rain rules don't apply to data center power plants - Seeking Alpha",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc01GYTJMYmd2djNidDZmWFhGUHRwRGZtUlJxbk5icmFuVXdDVXJMUW00WEVuTlc4RkppUXZtMHNZSVdiVDFxYk0zakJ0LUxReWxmalF4clpUOVJEbjhBZS1UM3d4S3ZOSnI2Wm5XMkpGMVNnUEtwWXVPWG1rMlhiVEpEendYY2RLVUFv?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 09:14:51 GMT",
-   "kriittisyys": 5,
-   "tiivistelma": "EPA:n sääntelymuutokset voivat vaikuttaa datakeskusten voimalaitosten toimintaehtoihin.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "8bb2242e3bdcc353",
-   "teema": "Energia ja sähköverkot",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Data center power supplies imperiled by crunch in top US grid - Times West Virginian",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUWt5SWx3SUdwcFFZRGx3YzFyTHpyZ3RhdWstemp6dGI5UlpFQjljVTlHUTlFYjB0VnE5UGJRY3VKUWVNMnRaaWNSbHpZakp6VFlXb2JuS214UnUwUVV2VmtmeTVNRHI2bmcxNVlIazFrWFNIM3lTTmJXZGJWWU1vV281Y3pCVzlUXzc1NS1oeHJpOWg1RTVSb280NnlBbHJjM3hreS1qdnFURzZCNFFuYUZPTnA5X0p6V3VFd1pkTXBQN012dC1MTXF3eVhqd3ZlbGlLV0dzYmFIU0x6Qkl6Vl9kQQ?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 10:00:00 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "Yhdysvaltain sähköverkko on pullonkaula datakeskusten tehovaatimuksille AI-buumin myötä.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "0b5e04260a0b408f",
-   "teema": "Energia ja sähköverkot",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Data Center Power Supplies Imperiled by Crunch in Top US Grid - Energy Connects",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZVBTcmk4eEdXV3F6T3hveURnOWNrZFlUekFQcERpY1I1ekh6U19scG9qc1YwaDhvRG4zVWw2dFBsVFJvZW5VblFhcW13Qy1oZ0VGTEtjY2NXMXg4am5sazdvOWpnZ3ZEMFJSMklwQTY0MnhVeUc0RVZGdGNtLTRfazB3ZFZkclMxeFlIczRvbEtacVNETUVES3pYb2RuMWQ1VzRFYk4wUTZwdjU2N0szeEJpS0p4eHhUNFE?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 08:03:49 GMT",
-   "kriittisyys": 9,
-   "tiivistelma": "Datakeskusten sähkönsyötöt vaarassa voimaverkkojen pullonkaulasta johtuen AI-kysyntää edessä.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "43f9290f1696e6d8",
-   "teema": "Energia ja sähköverkot",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Bloom Energy (BE) Rose on AI Data Center Power Demand - Yahoo Finance",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd2pkampGd0NXUDc4aTlJSjcySXVXckJNUkV5S1dBUU42bUNybG5xbzljQmVzV0Z2YXV5X0xOeTV0YTFzQ1BTMnl4eHY1UU12MjVvcEk2dFBIeWVTWUZiSmNoNkVBcU1QeEZnUVBWOWRpZ05tUGZjUG9fQXBIZEUzNVRTMU5ybnl1ZE9Pb19Xc3RKUzA?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 14:01:34 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "Bloom Energy nousee AI-datakeskusten sähkötarpeista johtuen merkittävää paineistusta energiatehokkaille ratkaisuille.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "e865ae92c74f0218",
-   "teema": "Energia ja sähköverkot",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "S&P Global to Acquire datacenterHawk Connecting Global Data Center, Power and Infrastructure Markets - PR Newswire",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONWNTaUpBUFVDcDVGdXU3R0ozeUlEaTJGN2VLSkNKb29lY3hDWVlKU1pSYkcxOVBwTlhxbzVVMFp5LUZKYllxdzRod0FONWxyMDZXTWZCTndPTEp3LVZ1b2pqUEtWLXB3UGc1di1USmhEM2ZPOEJ0aGJPa0psdDU4WXFsY0pMdmU1cHI3R1F6dTFUdGluUWlReXRNRXZRU2JyWkJYVVhfOE5VdkpJZzRBWjFBaDVFZlEtVkNsYnVrUEE5a2ZBeUY2YjM0NDlWWGZOeDlOUHJyTGV3cW85cUlMM3BLZW80ZEcyYnc?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 11:00:00 GMT",
+   "otsikko": "Antares raises $470M to build nuclear reactors for the US military - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWVhmWU5mTExkZV96U3NOaFZlRzdidzh6Vm55NWpIMklyUjlwNC1BeFlXeERNR2djYm53clNFTTYxekI5eTV0cXIzRjlhakNUTTktQkZDOWVFQ01YQ0YzLWlTeVo5TF8tSm80WE5qRXNCbkxWc0MwX3RPQnZrb2IyTUcyLXdRbjU4VnhlUC1pTGlaVlE5bEtoLWxRSW50Wmw2b2RZ?oc=5",
+   "julkaistu": "Mon, 27 Jul 2026 17:49:28 GMT",
    "kriittisyys": 7,
-   "tiivistelma": "S&P Global ostaa datacenterHawk:in yhdistäen datakeskus-, sähkö- ja infrastruktuuri-informaatiota AI-kysyntää varten.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "f2645c3e68e4e3dc",
-   "teema": "Energia ja sähköverkot",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Is NextEra Energy (NYSE:NEE) Meeting Rising Data-Center Power Demand? - Kalkine Media",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEtrTEExeEhBUFpocGdvY2kwZ1A3bE9tRExRSmJaRHFIQ3RMR3JvdENuVnlvcDh0OWR0UTcxeU9MaVZ6MkxoVnJNUXR2cW1Rd1JyUlF6VW10eHI0NElqQVNyRFVUR0lQNXkwMU4wbFlGTlMtMGxiMWpEcy1lQk9yMU1wb0RBOEZhR0FrS0hMQlo5RGVNODAyR3BxTEI4LUNPSnpxNHdManMwOFk?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 20:17:00 GMT",
-   "kriittisyys": 7,
-   "tiivistelma": "NextEra Energy arvioi kykyään vastata datakeskusten kasvavaan sähköntarpeeseen.",
-   "haettu": "2026-07-27T23:41:42+00:00"
+   "tiivistelma": "Antares kerää 470 miljoonaa dollaria rakentaakseen ydinreaktoreita USA:n puolustukselle, relevantista datakeskusten energian näkökulmasta.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
    "id": "c5d6a3b5e7152e4a",
@@ -603,16 +615,40 @@
    "haettu": "2026-07-28T16:21:02+00:00"
   },
   {
-   "id": "2bf76d47110f6d6d",
-   "teema": "Ydinvoima ja uraani",
+   "id": "2b0502f348c36ef2",
+   "teema": "Jäähdytys",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "A 606-ton steel can 98 feet long is taking shape in an Ontario factory, the piece that turns Canada's first small modular reactor from a hole in the ground into a machine, and exactly one shop on the continent has started one - Autonocion.com",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUGI2QnpjdHZScGtjTGdRdE1mNFlnaU5McE1PZXVVNDNiM2dtUFFmcEw2VUFMbnMxZGhkYkpvWUtrOUJ0UlI3T25oNmhNRWtEMGFjcnIwcHBnS3N0NjZVUXVUdHlrZ3pTaVhGd00yd0dMclE?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 12:00:22 GMT",
+   "otsikko": "LG wins Nvidia certification for AI data center cooling - mkbn.mk.co.kr",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PVmY1Q0x4Qkl6MGN3cC1nbGhoWDBXeW50Si1oTGJRcDdNNzEzX1B3eUE1MkJLR1dNMUdUek1JX25tWVEtUTBBMHBUb0tyakoyQW1Pbm1R?oc=5",
+   "julkaistu": "Tue, 28 Jul 2026 02:10:40 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "LG saa Nvidian sertifioinnin tekoäly-datakeskusten jäähdytykselle.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "6d07e18dc07f1351",
+   "teema": "Jäähdytys",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Ready Server tests full-immersion cooling as compute demand grows - Techgoondu",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUxMVklXY2FDc0VIY3MyUUZOWG9VUlFnNlJNTjAwZkpaOE5TTXJWLU5MMzJ6Q1BSMzgtLUQ2MlZlYjh4SGZyN2pENVkwZFNPTl8yUHRKZlNUeERCZHVNalR0cTU4WTBJbkRNTTRoNVRQVTd0TVc1UWpudm5xTWFVdXY5TVZ0TVNmRS1SS0ZVanV5bFprWENPajJqLWJ0blQydWlFUTFSdw?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 02:11:20 GMT",
    "kriittisyys": 7,
-   "tiivistelma": "Kanada rakentaa ensimmäistä pieni modulaarista ydinreaktoria, joka voisi ratkaista datakeskusten energiapulaa.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "Ready Server testaa täydellisen upotusyksikkö-jäähdytystä laskentakysynnän kasvaessa.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "de546a64b495a58b",
+   "teema": "Jäähdytys",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Prioritizing data center uptime with optimal cooling strategies - Data Center Dynamics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZnJsdlM0S0ljNFU0S2hhaDNlYzl5NnpPaHNOUVZSRVBDc2cwa1ZTNTA4bEtEcjFyNUdiS29sUnlSOC01MzNPWElNVGh6eC1Dc2FwbDJQZ2RuaUNWZEpXbVRSZ2tHX2F3Rm13WW5CZDY2bGljdUtJX3QwSFg4YlBRUC1nNDdfUXNydHJCejJnVDF1YjJsTXJYeVNreFQ4TFVvdkhxY2JKeWxKeFhScmVkMA?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 15:02:12 GMT",
+   "kriittisyys": 5,
+   "tiivistelma": "Datakeskusten käytettävyys paranee optimaalisilla jäähdytysstrategioilla.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
    "id": "e2b6706cbea75ad8",
@@ -723,184 +759,244 @@
    "haettu": "2026-07-27T23:41:42+00:00"
   },
   {
-   "id": "5f21ddfe667653a4",
-   "teema": "Jäähdytys",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Infinium unveils self-contained data center cooling system that uses no water - The Business Journals",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVNlVjUtbFZhd1c0Z0xOZzAwZldjb2FDZXl5UmN2dnA5YTZaczdiVkkzQWlUZVg3dzRXWTVBSFB5TDNDdkE3VjJKMEI1d3kzN2U0NzNOd2pYRUNzLVl6bmVtRVlUVHdlajc5cEJJQkxrWWdPQWJEMUVta2JJYjlfQ2w0cWo3bUpaekpFaVEyYU5OVDJwUHVPc3gwSVNyQTBvcXlTS3cwM3Q?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 21:31:00 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "Infinium esittelee vedettömän datakeskustenkin jäähdytysjärjestelmän, mikä ratkaisee kriittisen infrastruktuuri-pullonkaulaa.",
-   "haettu": "2026-07-27T23:41:42+00:00"
-  },
-  {
-   "id": "b0408c247c85103b",
-   "teema": "Jäähdytys",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "US Environmental Groups Urge EPA to Reject New PFAS for Datacenter Cooling - streamlinefeed.co.ke",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHlFM09yOFNrMVdRaTFMVUtZZnI0SjBMd0JORXNwVm1aZkJKSjdFa0J2NVZrOVRrUklCaUJYdXNBMEdhM2Z0VGxVWDNjUllhVzYwdFNZQ1JxVUNNNVpVeGwybTM0T0Y5QWlCQUJwZEgwQm5jdG5SUlNyUG84VE1hbjJnN1JnSUhoaVNvWThaQkxsaXloblpsSUZsY3hSR1oyWXZUQkd5dmk?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 13:28:20 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Ympäristöjärjestöt vastustavat EPA:a hyväksymästä uusia PFAS-kemikaaleja datakeskusten jäähdytykseen.",
-   "haettu": "2026-07-27T17:11:56+00:00"
-  },
-  {
-   "id": "0f09c19939380f30",
-   "teema": "Jäähdytys",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "LG ELECTRONICS EARNS NVIDIA AI FACTORY VALIDATION FOR ITS 600KW COOLANT DISTRIBUTION UNIT - StreetInsider",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcUhqeGxuX1BNbkxVM0N0M1lwQnBWWk9IaW5waV9LVENPWi15RXBzdm5RY1VyMFMxZ3Z5U3lTaXZqbjFrWFBSU2JFVFdhcTlqYUhqZU8zREhwMlBoY2dTRU1FY3gyMEQ1NWx3UUoyRmh4VVNMdTRsTlNwWFY3UEpHMW42NWFrdlA1cjhKam5qTFhLTDU2cUR1TVFWRF8xMy00Qmh6VzB1YVZCdTV0UDBsd2lSS0dLT0FTa08zQ1gzYm01dm1HdVRJU2JvZ2ItbjNKV1drRmV1VGtodWw2?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 08:39:09 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "LG Electronics saa Nvidian tekoäly-tehtaiden validoinnin 600kW jäähdytysnesteiden jakeluyksikölleen.",
-   "haettu": "2026-07-27T17:11:56+00:00"
-  },
-  {
-   "id": "e924fcdc341a5f13",
+   "id": "f213a42c58d2f17f",
    "teema": "Verkotus ja optiikka",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Can STM Turn AI Data Centers Into a $2 Billion Business by 2027? - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVmhyM0xBbGk4X1kwQ0JqZGVnVWtMVTVseFdfUzFZejhzS3NpX1RfelRObUZFZE9rMGdaSmJ6c2lsTjRVRGlNNmZZN2VUWS1LdW5kcXVqaVNqQndUWU5ZSmhOTmNUbTNZNE5jSTFENlhQcEdXbWRlSnNyUEZCM2FveHgwRV91NUNzbmhqSi1SRWVqalVWRFNFX0hySTVJZDBDNjRLSm5DSktLT2JKbDR1djhUdld5Q054amc?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 15:24:00 GMT",
+   "otsikko": "GlobalFoundries to receive $300M for silicon photonics R&D By Investing.com - Investing.com Canada",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONnVMczdaUlgySE54QjFlVnNUNXVvRmk3V2RIZHZlcWR1VUFCZUc1ejIwNnQtbE5CcGh6ZjNGM0tPaVFsTlFUUWRWc1ZwMEtMUFdTQjBsT2loQlk0VEdQa2F5U0prWmd1NDA2cmlNaXI2dXdXUVBsM0tBd1N1c1BFXzZLWFN2OG1yTEJyUXB5Ry1NZ3BSRlh0VjJJOHUzMFhjWjZFR3NLV1NiT0hIRUhQSE1GWkd6VjFs?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 10:39:12 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "GlobalFoundries saa 300 miljoonaa dollaria piikifotoniikan tutkimus- ja kehitystyöhön.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "a957c15d5edad098",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "UMC Expands Singapore and Taiwan Fabs to Support AI, Silicon Photonics Demand - EE Times Asia",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOekFlQ2NFdFY0OWloM3A1VExzYTlGUHE0RTNhTHhGNFAtS2hFNHdheFhmRUMwTXo5cFFIczJVRk9kWWpVY3BMYVB0N1hpa0F3b3FQM3RiZ0U4anlCWWt2MHlmT3dNZ21WVlcwR05QblRqdHNBOUNKb2dEZjNZY1RjTHdaaG1SMGNOa2ZrUFpESlM2eG1RTVFpSFlxQ2pMc3VFNFR3?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 12:16:06 GMT",
    "kriittisyys": 7,
-   "tiivistelma": "STM pyrkii kasvattamaan tekoälyn datakeskusten liiketoimintaa 2 miljardiin dollariin vuoteen 2027 mennessä.",
-   "haettu": "2026-07-28T23:32:54+00:00"
+   "tiivistelma": "UMC laajentaa fabeja Singaporessa ja Taiwanissa vastaamaan tekoälyn ja piikifotoniikan kasvaneeseen kysyntään.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "b87f37478c59450d",
+   "id": "3eb82811d098a993",
    "teema": "Verkotus ja optiikka",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "TSMC Raises 2026 CapEx Budget to Capture Long-Term AI, HPC Demand - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa2pZLVM1ZWlyNkttNlZQQ1BGSjFfaW5fYkNNbHY4NjhyTW9Sa0JWVzBxMV9wQ2hjS3AxUTBtUndaSXpVeld2aHVFSWZ2SWVDSjl0RV9ScnBlNm5TeW9jMFZZRXBGQnhSMEFRN1BUV3N1TUU4M2xibllEVzNBQkVrbnJNNnZoblpneTJodEExTUZ6aENEbmlrcklqT1FzVUNoT2NtN0NnaHhCaFFqaUszU0VmLW01dVoxREgzeg?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 12:39:00 GMT",
+   "otsikko": "GlobalFoundries Expects $300 Million US Award to Advance Silicon Photonics Research - marketscreener.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQenVTdkdPQmNLMjlOMDF0VzdNWVlvOEtQTTdSX3VzdGhRazR4RE1rM01zN3huTm1VbE9QdHMxZXo1OGp2U3Y4Q0paazQ0aUdSekVnZFFZMnZQUEJwSHFuVktuUGtkbFR6N2xlUWRqNWRiRFltb0ZfMFJCV1dha2x0YmZUV3FYNGxjX2JjLWxrbTFaazF5akRTd3VsdVpsZFNMTVJsbWExTW4yMHpCRncwTkcyS0M2ZkNYTGlEQ1l2N3lkX3VYZ2NUdkY1ZlJidU1S?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 14:48:37 GMT",
    "kriittisyys": 8,
-   "tiivistelma": "TSMC nostaa 2026 pääomakuluarviotaan vastaamaan tekoälyn ja HPC:n pitkäaikaiseen kysyntään.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "GlobalFoundries saa 300 miljoonan dollarin palkinnon piikifotoniikkatutkimuksen edistämiseen.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "88c6fb0dffbcb9e5",
+   "id": "4ea9256af20cfbfe",
    "teema": "Verkotus ja optiikka",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "AEHR TEST SYSTEMS FY 2026: Revenue $50M, EPS ($0.23) — 10-K Summary - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnBleWczeWhobUlKc1Q2Ykg2V3pGdjB0bDZvdVJDa3l6NmxkYnBISXN4b2FEUXFkamFFZEprdm91X052eWFXdlJGVFBKS28tTFVvUnlnbnVzS3dJR042OGRmcUwxOXJlOGpNS2NaRzF4bS11Y0JBUzVad2ZkOC1aOEpCaWxKUXN4Y1lVcEE1NXp6OGFWY1EycXdkVTJsVXd0V3JJT3h1UzdQMjFJTkVuZzFIZkU2OHdkeDI4elF3?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 20:25:04 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Aehr Test Systems raportoi kasvavaa tuottoa puolijohdetestausratkaisuissa.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "otsikko": "US Government to Fund $300 Million for Silicon Photonics Research - Seoul Economic Daily",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGZsc2NhY3BYSjFtdll0U3FES1g3ZEU2UWpqN24tUlBHOGRWejh2YmdUX0s4V2preGRhaTZuOVRTaXBtRVhrQ2hHSzIySmZBNjU5bm0wcWNoc1VYR0g0YUt5NVFXQ3pHYkxpOVJDTlkwQ1BDeWNfcWR5dFhQdFdrLW1aU0RSc1pRZGFmemwtb01WNHFESUlSbXE1MjRhRUZoYkRTdHZn?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 12:17:30 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "USA rahoittaa 300 miljoonalla dollarilla piikifotoniikkatutkimusta, joka on kriittinen tekoälyn datakeskusten korkealaatuiselle verkkoyhteyksille.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "e9bc3842e3f8ae98",
+   "id": "b6b76776ae05d5fc",
    "teema": "Verkotus ja optiikka",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Mixx Technologies Acquires Sophic Silicon, Partners With Kaynes Semicon - Electronics For You BUSINESS",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnAwVDNCR2hDOFM1QXVFMDVXVWFRU00zclNSLUFfRUhtdzZzclg4cXluaFNRSWlna3prOEM4SS1LTlNoOWx4R2lYRm0tcFBzT2ViTnlpOEppTzV1N1dxTkJQVmtmeF9FM2RtZU1LT2dlOXJpN3hwWThqVUJiNUlKT2E0WkpDV1lWMzNtU0ZZeENjMktDNkFnRDhGRHdkQmVocVU3ODZ5RUw3bE04TFZ6SFV4Q1I4alh0YUxN?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 05:10:00 GMT",
+   "otsikko": "GlobalFoundries jumps on $300M U.S. award for silicon photonics (GFS:NASDAQ) - Seeking Alpha",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLWZNUmJFeENuNnVkaGRJUVRZekVoZ253b01JQ1pWdzBqbVBKWUVRMk1PenhHck1yQlNKM3JPYU5RNDBTNFJCNU02amZXcDkzdFZsaXdtS0ZEeUZmRE1WZTM1T19uVjZDRzZfNXpHV2R5OHV6VGxRUjVoTThVZ1k4cUdxcG41T2VhVWkwYmd0V2NnRE5aMGlVQUhzUDEtM1U?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 10:52:54 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "GlobalFoundries hyppää 300 miljoonan dollarin USA:n palkinnon varaan piikottisen fotoniikatutkimukselle.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "85e7da8ab59e2ea9",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "GlobalFoundries Gets $300M CHIPS Award Boost From Trump Administration — NVDA's Jensen Huang Calls Silicon Photonics 'Essential' To AI Future - TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRFI2Y1dCYThSWmhPVWZZWUFZWTdEdHFwMTBTQnNURi1QeFhYNU5vLU90NnZTZU5LbEFHLTQ4eVY2N1BhT0o4NGRoem5xakxMdXNYRHJFNjdOY3JBRTNOdUY1OGpDaEUxWnJEN1VWVkxCZGt5bko5VUpCRE1UU0d5QS1EYXNPRTFOWmUwYkpNT1YxM2l5UFJZQ19rZEdfOWxDMks4R0NfVk5JRHNPN0lBenNpbXcxTV9jSmloRW50MlEyTHdBTnU2ck5UZ29DbXZKWEx3cHlsSTdXb1VOcml2c1BZeEZGV3liSkJ2QUUxeVd0dHBodFpMWHBYZ3dPM1d1T2RraGt6NXlhbU9mRENCR2ppbTNhdzZSTV9WOG9aQ0Y4ajA?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 12:15:39 GMT",
+   "kriittisyys": 9,
+   "tiivistelma": "GlobalFoundries saa 300 miljoonan dollarin CHIPS-palkinnon ja Nvidian Jensen Huang kutsuu piikottisen fotoniikan oleelliseksi tekoälyn tulevaisuudelle.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "7fc6b01c09ab48f9",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "US to award GlobalFoundries $300 million to develop faster AI chip links - Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 10:37:44 GMT",
+   "kriittisyys": 9,
+   "tiivistelma": "USA myöntää GlobalFoundriesille 300 miljoonaa dollaria nopeampien tekoäly-siru yhteyksien kehittämiseen piikottisen fotoniikatutkimuksella.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "9084701efa5eeb79",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "From Co-Packaged Optics to Nanolasers: Photonics Moves Inward - eetimes.com",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdi03TklJZF9JNXhHZjc4MmdVZHpPVjM3YU5RNkQ4WnVuV1JsM3I0eEFCZ2VtMElkcUFhRjdVY1ROQ1Z5V0s1Vy16cWo0UVNtbUpzVnhZY3RMR1pmRlh5bzlRd1I0djY4V1h4UFpSM1FTSmZxVElOTUQ3NTVJQkdjU3dsSDZUNWFCTXVHQ0FR?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 08:03:07 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "Fotoniikat siirtyvät sisäänpäin: yhdessä pakattu optiikka ja nanolaiserit muuttavat tekoäly-sirujen yhteyksiä.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "a77ef90d889698f9",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "GlobalFoundries Wins $300M CHIPS Award to Scale Silicon Photonics for US AI Infrastructure - Tech Times",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSXpneFptTlgxUGN6Q3RTOGNLRWR6bV9RbGx5cS1IN1VmRXlBb0NjcFFTNWk3VEhkV3NxQi1PTHFNTHNxR1BPMUYxbUFhVjNadTA5UmlsbGxRV3hxNEpsOHYzaTM0QzdwV0NwQnYxTy1mdTZUUXlyTEdYWlQ5VW81YjZJZTlFOFlSOUVtWVRQSC1oTFc1LV9KVE5RTzdjSzZfVVMyRlNibkZlSjJXSW56NEtjaE44WlZGcnZmX0d4dEg2cnlSenJ1NTRNa01GSDU3SlpN?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 15:42:47 GMT",
+   "kriittisyys": 9,
+   "tiivistelma": "GlobalFoundries voittaa 300 miljoonan dollarin CHIPS-palkinnon piikottisen fotoniikatutkimukselle USA:n tekoäly-infrastruktuurin skaalaamisen tueksi.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "bc21caf660afa2aa",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "GlobalFoundries Announces $300 Million LOI With U.S. Commerce Department to Advance Silicon Photonics R&D - Quiver Quantitative",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV200anhCZTZJLUZnY0hCUldhWm5WR19HTjQ3endNMnJkdXJTNW8tdU14V3lPd3BULVJMOExTUUxpXzF0X1hYWm5GWTB3OWUwdmtNaGQxeEpiYkhINk5lRGJFaTU2bk05VlhpanBHT1E0VXVqOHBHZVhRVFRDRUVGakpzenhyVWw2VzdZSEcxcmo5Q05qTkFQNHVSS3pWZFJXVjVQOTItbTRrak5hQ29WTm5zVk1XaWp5ekJRVU1ublh5YjdPdWhkX2dubnhSWVhyQjJOYThyQ0VRZw?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 10:42:00 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "GlobalFoundries ilmoittaa 300 miljoonan dollarin aikekirjeestä Kauppaministeriön kanssa piikottisen fotoniikatutkimuksen edistämiseen.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "7ec20915557e1c49",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "GlobalFoundries Signs LOI For $300 Million U.S. CHIPS R&D Award To Advance Silicon Photonics - Pulse 2.0",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFN3eFI2bVFSNzc1dHg1QlhXTmxJT01kV1dFa0dTTmw3SlVJYmhELVl0Q2Y3aGpqQm01TDQ1eWxKNVVvd05FWHpBWndGYTZZcDJFNUNZWFoyRHJ4Rzd3a3pvZWFibUlZS3pCeElaVW4tcXpEWXJ1NjZ4bEU0a3NTV1l0OEY5VUtqOXFfeUllaFNWNXlFVWR6b2pwY3hWSEdJaXpnTzRVRHAxdk84TmfSAbMBQVVfeXFMUEV1V085d2RUTERCd0huZlFFVzl1WDVHVWU5UnNiWTVheFRLdkV6WTZsOXRWWE5LUjBqZDdDdmlLSk80VWhNeUlvRW9OMUFaNU9tWHlCajZod211M3JMU2sxbGFJa3kyOG9sUGJSX2RpUUItUE1mUUpTUGE1R0RIUkFobm5lWUhER29hTE1nOTBqWHlWcjBJSnVJenJhT2Q3V3Q0RUx3VkNXMVlqNEFKY0VJY1k?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 11:41:42 GMT",
+   "kriittisyys": 8,
+   "tiivistelma": "GlobalFoundries allekirjoittaa 300 miljoonan dollarin kirjeen piikottisen fotoniikatutkimuksen edistämiseen.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "4aa133a5681b5f51",
+   "teema": "Verkotus ja optiikka",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "SCHUMER APPLAUDS $300 MILLION FEDERAL CH... - Senator Chuck Schumer (.gov)",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNbC1GVDBtR3BiQ2lkaUpCTDRyb29zY29LMVZMcU8xRXF6OE1tcjZfTHlSTGVzTy03WlpDOTVLU05RSGFMQ2VBMFRqT1lFVzFuV0tDdF80RFhtZURpT1VXV1Y1MFpiV1FjV2ZtVFBDSDhORW9jTEhMSWxxVGlQLW9adS11Z3FDVWI2TW1NeVFrcVFORDk2NXh4V2lrRDk4eHlHdVRoTWZSUUc1ZmxIUHRUNDRSZzdzNUlqa2ZKVEdCMGtzMTZaaUZaR21vblN0cktGTXNQaXRXdmxwZnFNdEdaOGlDMVk1NWFHTHpibEpTTElJbXFNYW81U01jZllmTjJEdWVmdW5fdWVSZmJ6UU1tNHFWeE9PTVp1MU9FM1JtdElhSVMyS3FGd3VtVHNESy1aemF2cE9B?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 15:36:56 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "Senaattori Schumer tervehtii 300 miljoonan dollarin liittovaltion CHIPS Act -palkintoa piikottisen fotoniikatutkimukselle.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "12597201b7d88632",
+   "teema": "Kriittiset mineraalit",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Missouri S&T lands $38 million to grow critical minerals hub - AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CTGlqWjJBVGZIU01TajNNbjlxdGRFVlRUT3NmWXJYaERib2xMNzVfSUlXX1VYRjgtRXhYVldGUFRxVHRnNHNETVNzVjI1NUp2d0QzUWlTa290OE9ud0hqTXpTdTN3VWJKUms1LV9DNnZuSEFRSDFGWXB5cw?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 07:50:46 GMT",
    "kriittisyys": 5,
-   "tiivistelma": "Mixx Technologies hankkii Sophic Siliconia ja kumppanuus Kaynes Semikonin kanssa.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "Missouri S&T saa 38 miljoonaa dollaria kriittisten mineraalien tutkimuskeskuksen kehittämiseen.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "18d84f7bf081a2af",
-   "teema": "Verkotus ja optiikka",
+   "id": "8b819984539c05ec",
+   "teema": "Kriittiset mineraalit",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "CPO’s Biggest Bottleneck Is Not Optics—It Is High-Volume Testing - semivision",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlRfMU1EVzc4TnJOYTFwZ1pia2JlVlpYZTFYOUd2WG4xekx0X1hwZktfeDIzQjRxODBYTTlDeERaNF8xeGRPdWJ0R3o1UGhlcFRYWnB2OGpQQ0JQLVJ0UXpQN2pFTFk2djJFQjFGR084R1AyN1ZLME13NzVEQ2V0MTBOTkdtNEk?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 02:12:02 GMT",
+   "otsikko": "Global Powers Race for Critical Minerals: WTO Flags Risk of Locking Nations Into the Lowest Level of Production - newsbites.hktdc.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IVnNWSUhLWjM5dzkxTXE4eFRqQXJVZnNFZTVCYTAyTE84NGFadWVldVdGZktSdDVZVWxmZEdEVl9JU05tUWdoMDQtSnpxaTZUeGdYemJJaHBPLWttLUthdG95WGk?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 07:41:05 GMT",
+   "kriittisyys": 6,
+   "tiivistelma": "WTO varoittaa kriittisten mineraalien maailmanlaajuisesta kilpailusta ja tuotannon rajoituksista.",
+   "haettu": "2026-07-29T15:59:09+00:00"
+  },
+  {
+   "id": "2fee8962a5e3738d",
+   "teema": "Kriittiset mineraalit",
+   "tyyppi": "teema",
+   "lahde": "Google News",
+   "otsikko": "Perpetual Resources Acquires Historic Nevada Scheelite Tungsten Mine as Flagship Critical Minerals Asset - Kalkine",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObmZSTFJaX0k2SVFldWRnVlBJSXgxNGJ1YzBmenNZcVdZUWVnSlAyN1VTT1B6RzhYY0dDd18yeVhJTEdDM1ppLXUzYkM4M3VKWU5PZy1wdjgzemJCakN0NEptU3BKUGlGS1IzSC1pRjVkWDRPWVNMOU9mRGdqNkZzM1kwMl95SXRBSDZVbzdoeWQxQjczNDY4T2NKRE1hZnoyQlhqeFB0c2hlcGlVdzZTZjRzWDJZQXo2eExHaHZZZ3VGWFdJQjVHbm5QV2RGTDloOGlIZWRDNzFIQ3N6T2Jr?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 05:57:31 GMT",
    "kriittisyys": 7,
-   "tiivistelma": "CPO-kytkimissä suurin pullonkaula on testaus, ei optiikka.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "Perpetual Resources hankkii historiallisen volframiinikaivoksen Nevada-pellolla kriittisten mineraalien tuotantokapasiteetin parantamiseksi.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "4a03748b730e2e4a",
-   "teema": "Verkotus ja optiikka",
+   "id": "f9be55fd85ae2cdf",
+   "teema": "Kriittiset mineraalit",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "TrendForce: NVIDIA and Broadcom Begin Volume Ramp of CPO Switches - EE Times Asia",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZDB3NjhQR05iVlU5TjJaazNhSjFrTkFCWVVFZWFRZ0IzZGR6NHFYMjBzcE9DUFRIT0RCR1ZjcUdldjk4c2lYMFJFbzhyYTMySHVWNWZWQ3NTUnFCUnd1TzMzS2FZWWwtZHFteS1waWozcUlBbmtndTJYdFVDWlFVRGpCX3AwbjlIQXhaYWwxdjduOGc?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 02:40:44 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "Nvidia ja Broadcom aloittavat CPO-optisten kytkimien massatuotannon.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "otsikko": "The U.S. is betting on Madagascar to break China's mineral dominance - Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd2E4VFFHeGliOEJsTkZiRndjYmJWd09QU09uZ3FVSV8wajhRbk9IVjlOSWhtb0dUak1TcHF3eE1DbXYxU0JBTXdiVjNqei0zU1d1a2VYSHlqbHhEV0RsMEJSN2h2QlRPRjh0Rm1KZElSLUNTa1Q1eENMeVdHaGxuVjZrS3F2QW81bWFwa1VoRW1QekJlal9vWG5nRUVkSS1VNVptdVdLaVNpcXpNYUhhY1lmUFJHNXVVZXQ0LUJOWQ?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 08:13:55 GMT",
+   "kriittisyys": 7,
+   "tiivistelma": "USA pyrkii haastamaan Kiinan mineraalien dominanssia Madagaskarin kautta, mikä merkitsee kriittisten materiaaliketjun uudelleenarviointia.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "4832aa0ee70b6770",
-   "teema": "Verkotus ja optiikka",
+   "id": "0388405a00219cbf",
+   "teema": "Kriittiset mineraalit",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Tower Semiconductor (TSEM) Expands In Japan As AI Demand Meets An Undervalued Narrative - simplywall.st",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWFUcTB4NExjeTF6ZDNzR0hRQTFNLThyaEZqbzNPR0w2SEpHN2IwNTQ1dE0wSXNHaFJibGdnTzlhSkd5UGE4MkFicVJGSDZQeDdwX1N0czBXWl8yR0pTcGVDdUZ4NjUwck5MTkx6NGlzRnR2cEtSbTdxMmZ0QklLVmNkaUx0ZTAxMGgzM2I4T2ZETzlnWVB0S016MGlJYU5mdHNPelpSUVRCRjdXaUZnbjdEMmVKSi1GdmNYSzVFMndlVUhtZW9sdTg5VzFKclpBUFdQLXZPSTlEdXE40gHiAUFVX3lxTE5KWDBtNU1PRm8zcFo2V0hrb0hKal8zdlgteGZBZldvU3phdWw1aEN2Q0w0a010NmN2Qm1sU1YtUWtpem9WVktVWnZOM1huS2Nlek8yVGFpMlBUNFhndWt6ZVdYRE1TbEE5SERrVzZtOUZpd1ctMzJHNjhrZW12bXVfeFdJNWZGa21tYmJTLTBkWFlmQ3FZdFVVd1NwRDhOdC03ZnB0a3lxVmpUemNlNGpqTGt0ejVEWWRpVEdNQV8za21ybTZCWDZyVW1KUUhrZlZRTWN3N2F4eHRQeHh3MjZWdXc?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 21:30:59 GMT",
+   "otsikko": "Ecora Royalties Delivers Strong Q2 Cash Flow as Critical Minerals Portfolio Drives Growth - Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFAyMVp4MFFVQ1IyeFJXRUZGMUxTV2o4WlU5MjgzMXAzNlJnQ3lQQlM5cndpREx6M3BWR04yWjV2aTg1QkFZYmsybVd1d3IzbXprcFJlekd6c0tRNDdmeE15T3hRUDJ1Y3JEeExLSS1FVkJxTGVhQVBYa2cyTEx6VGFjWlU4YThpQmFz?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 07:09:07 GMT",
    "kriittisyys": 5,
-   "tiivistelma": "Tower Semiconductor laajentaa Japaniin tekoälykysynnän kasvaessa.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "Ecora Royalties hyötyy kriittisten mineraalien salkusta ja tuottaa vahvaa kassavirtaa.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "4668c96e635da559",
-   "teema": "Verkotus ja optiikka",
+   "id": "f17c57454afb8e1c",
+   "teema": "Kriittiset mineraalit",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "MetaOptics To Deploy Its Direct Laser Writer At University Of Arizona’s Center Of Semiconductor Manufacturing - Pulse 2.0",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFZjaGlPZEtaaDFrV1YzYXBxOHlObE1qOXUtNXI4VkFqcWVxYjE2Wk5vQjNvVllQVW9DWEFxSHFRWUJ2VnZnRWFOTEJPcTAyeW9aLV96NUNYNENFRENucTJjMzZoWnlfOUhuZVdtSUx5OF9mcHM3WlR4Z05tMFFoUHhQOFhNTDlXNE4zYjNlRnRSR251Z1RCTFZEa3Q4XzZFcFVBYWswQjVpVWNHM0FmV0JURjlQLXFwYVFvUW1aUEZoSnR3TnpmSUpBRVDSAcwBQVVfeXFMTVBWY2hpT2RLWmgxa1dWM2FwcTh5TmxNajl1LTVyOFZBanFlcWIxNlpOb0Izb1ZZUFVvQ1hBcUhxUVlCdlZ2Z0VhTkxCT3EwMnlvWi1fejVDWDRDRURDbnEyYzM2aFp5XzlIbmVXbUlMeThfZnBzN1pUeGdObTBRaFB4UDhYTUw5VzROM2IzZUZ0UkdudWdUQkxWRGt0OF82RXBVQWFrMEI1aVVjRzNBZldCVEY5UC1xcGFRb1FtWlBGaEp0d056ZklKQUVQ?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 17:21:12 GMT",
+   "otsikko": "Demand for critical minerals fuels conflict but could help resource-rich nations, WTO says - WBAL News Radio",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUIwWHFtRl9WVkRPVVdJRHBwZUFqc3NqNVdXRnZMeHVEREJVa1NLbzZ4cjhYR0pVaHNZcjA1YWg3aTFFSHpCUjVhLTdxZXdvRE9jbTZPQWQ2MlRFNjlGbnZWeTBMdEdnOXJCbHFIMVp2UjdmMzBlQ29ZUmFvMWlkM19NU0c4NXRTc1U0aU53cDY3R1R2TGtSbVlHdTZtc3lGT3A2elFKdWl4eENucnhJ?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 05:42:54 GMT",
    "kriittisyys": 6,
-   "tiivistelma": "MetaOptics ottaa käyttöön laser-kirjoitusjärjestelmää puolijohdevalmistukseen.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "Kriittisten mineraalien kysyntä kasvaa tekoälyn takia, mutta toimittajien keskittyminen ja konfliktit muodostavat riskin.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "3be8eef77850c986",
-   "teema": "Verkotus ja optiikka",
+   "id": "6ca6e3a22ad0ab61",
+   "teema": "Kriittiset mineraalit",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "Let There Be Light: Investing in the AI Networking and Photonics Buildout - KraneShares",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWVXNVdYT2FLWTJnVDFCU3JqM0dza0w1R1lnbndwRGQzc0dQT0N0ZzQ1UHBHTm1PU3JOQy04aXU3d3pENnRqMmg2SldNQmIxdmhyalRhS01yR0xTUEVCZU52a3NGN0xUT3dQZGQ4U1RLNmZNTnQ0NXZ4MzhxN3VJajd4RDVuWUo5TlNHS1RpSWoyLWJyc1MzaGp6NlVJdk1YdThRakQyLWFmZw?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 23:42:18 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "Sijoitusopas tekoälyn verkotus- ja fotoniikkarakentamisen kasvuun.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "otsikko": "Critical minerals have a capital, not a geology, problem: Hotter Commodities - fastmarkets.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2xGOF9hZVBhcDJFYVFDR2laMTIyN016YmJpS2pVaW1EbzRnZ09FMHEwX0dOM1JVUXRXLUhuSXZpTERlRjEtMENNTDdSMTNza3VaYlUtSktPX3AtQ2F1M2ROWHlKalNKX1NtcFo0Z094alRsRjdKUFVITlZJbHBzalRZTDQxeGVNLTJUXzhWbUdHaTZtTksxYUUtNTA2blB5U21QYjhDZlkxUnJYNjJQcw?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 14:15:32 GMT",
+   "kriittisyys": 5,
+   "tiivistelma": "Kriittisten mineraalien pula on pohjimmiltaan pääomaproblematiikka, ei geologinen kysymys.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
-   "id": "dd655255be8b2647",
-   "teema": "Verkotus ja optiikka",
+   "id": "389e945d21df86a8",
+   "teema": "Kriittiset mineraalit",
    "tyyppi": "teema",
    "lahde": "Google News",
-   "otsikko": "MaxLinear Rides on AI Infrastructure Momentum: More Upside Ahead? - TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPckZzRnZNOWx3NHBsdnJQZXBGTklGNDZ0ZU11TmxsU1FEWHc2RDd3LW9GdFpBWGNIR3JUYzNSR2xpLXE2bmhjR3pKaW9CUlpnNWlaZU5wNG5zMExoMURlMUFnRkx2YXFzeVF1S0tVa0xNbWtJQXZvZk5oSjVvQTBrYVJzWklTZURzOXBKZXBuRkctVFRLMUs5XzAtQW51N1AwZlR4Nzkybmlrdnp4WEFybTVEZzh3RnVYT1ZB?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 17:03:00 GMT",
-   "kriittisyys": 7,
-   "tiivistelma": "MaxLinear hyötyy tekoälyn infrastruktuurikasvusta verkonliitäntäpiirien kautta.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "c80420f4d199ede1",
-   "teema": "Verkotus ja optiikka",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "India launches indigenous silicon photonics solutions at IIT-Madras, boosting semiconductor self-reliance - DD News",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ3I1SUdKRW9xMG9ybnpidHZkUnhBMEJ6d1VuX2xQX0N4b3NDUHhjZ0VFc082NGpKWFlTRnZrMU1rOXVReDlhWnNETDg4Q1Nua29zeVBDcDRYUjRFNW4zeDZDRl9tR3ZXbEFLU25takdrUVhud2g5UlF2N2tuNlF2YXI4QU9YdnVzX0l6Qko3VlVmUGRhdU0yZnpBX2JhYVFpYklGUzJGdTYyVTFyWnhBWUpVWjVhRHhqbWdVeEdqeGhhamNhUUI5NzZR?oc=5",
-   "julkaistu": "Mon, 27 Jul 2026 19:34:49 GMT",
+   "otsikko": "Fast Metals is treating waste with more waste to extract critical minerals - TechCrunch",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdy15Q1puLXZXZENTelNNNGpxZ3h0dmZEOXB3YjRTS3p1TW9WTXpwdFZaa2NkYi1EZ0JvRzFrUmVjUFBHQUE2ZUFYYmE2SGw2ZmlRWlhaSDhfSHFxNFdCOEwzQ2ZsbldPZkUyMmlMMndCV0VKQmxaSi1pUDZERUVKZTB4ZEV6SHRtaFl0RHVteDc4dmJfelJrRmpCb29NSzBJRW5rRnV3SXVzUXZIcVE?oc=5",
+   "julkaistu": "Wed, 29 Jul 2026 12:00:00 GMT",
    "kriittisyys": 6,
-   "tiivistelma": "Intia kehittää omia silicon photonics -ratkaisuja tekoälyn verkotukselle.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "e4bc068080c9ad2d",
-   "teema": "Verkotus ja optiikka",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Ligitek Skips 800G, Targets 1.6T Silicon Photonics; AI Business Share Surges to 45%, Stock Rebounds - finance.biggo.com",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84ZXJobEVqU2JlM3ZJNk1saTZzdXhIbVRWNnBFSEJxVEdLMmxkUEFvcjZvdXF5Rk5uTWNLWnlGdUcxT3lZSkEwalFjZGxKUkxjbEtoSFl1bUJ0SDlIQm5tN054amZCT2YzaFFGZFgxX1BQM3o1SXc?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 05:55:00 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "Ligitek siirtää piifotonisen tekniikan 1.6T nopeuksiin, ratkaisten verkon pullonkaulaa tekoälyn infrastruktuurissa.",
-   "haettu": "2026-07-28T16:21:02+00:00"
+   "tiivistelma": "Fast Metals kehittää uutta tekniikkaa kriittisten mineraalien louhimiseksi jätevirrasta.",
+   "haettu": "2026-07-29T15:59:09+00:00"
   },
   {
    "id": "7c9399f1ff156345",
@@ -949,113 +1045,34 @@
    "kriittisyys": 7,
    "tiivistelma": "First Phosphate erottuu kriittisten mineraalien kehittäjänä analyytikkojen arvioissa.",
    "haettu": "2026-07-28T23:32:54+00:00"
-  },
-  {
-   "id": "268aadb44596a369",
-   "teema": "Kriittiset mineraalit",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "The Quad is still treating critical minerals as a mining problem - The Strategist | ASPI's analysis and commentary site",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblkwajJRd3RPbHBEU0wyaXJfZHV1ZURCNGlvUndEQS1JbnhJQlVHOUtrSnBfLU5aTmw2NWN5V2hYYlZrWl9tR0d4LUdscVNFa25XU09IR3hzMnF3QWFLaFZ6cjRpbF93UU81bUxaeTI3R1FqVjhSSlhGOUM2d3p4TUZCWHdhcUh2WGwzbzd3SXFCLWNjOUJFWnF6aUNxT2M3?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 20:04:58 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Quad-maiden tulisi lähestyä kriittisiä mineraaleita myös prosessointinäkökulmasta, ei vain kaivannaistoimintana.",
-   "haettu": "2026-07-28T23:32:54+00:00"
-  },
-  {
-   "id": "26e1031b839ee943",
-   "teema": "Kriittiset mineraalit",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Reliance on Imported Critical Minerals Leaves the U.S. Exposed. How Can Emerging Technologies Help? - U.S. Government Accountability Office (.gov)",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOXpDMWVXVUFrclFKTEl5SlQzUnNaNXEwN0lzSTYxUEVvYjM0OUMxOVJybTVPdDAzU3RyRFhWeXhoZ1lqaHlKMmJwQlhjdXRYSk9IOFBkUnlIQUpSeUpnSS1QRUFaaFZTdWZoZlFHV2xoMGkxXzRaRFNMNi1saUN2b0ljY1lMV1JlMHlIV3hsUEYtVjlRUEpiV2dmYzFFdkx4UE5WTktWSG1oWFpDbm5pbWhtbw?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 12:38:12 GMT",
-   "kriittisyys": 8,
-   "tiivistelma": "USA:n riippuvuus tuoduista kriittisistä mineraaleista uhkaa tekoälyn infrastruktuuria, ratkaisuksi uudet teknologiat.",
-   "haettu": "2026-07-28T23:32:54+00:00"
-  },
-  {
-   "id": "2066861db3b7859e",
-   "teema": "Kriittiset mineraalit",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "North American Niobium and Critical Minerals Corp. Completes 2026 Drill Program At Bardy - marketscreener.com",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMnpOWkdBa3NDem5Na0NGRVVCalEwZTR4Qm5BZExNMkRuMlhja013WE9FRmJwVEVKS01Ha3RSMEdFX1FhdkJxb2MzM0htbFNVU0pPS0ozZC0wYnFoS01DU2ZRTG5nYjR0QmZmTU5ONm1TNVBaQm44c19zazdQdnJPVmNBWVM2cWJnLUdxY2xBZjZTUmRoZDk4RmQzdl9mTkp4MXNDUUNreHZ4UmZ3VXAydXlyZ3F5akxpVmxBWkVFdEZLQXVYT0VCMzBTUGJXQ1psd3Q5ZnMydw?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 13:23:34 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Pohjoismeriikan niobium- ja kriittisten mineraalien yritys valmistui 2026 porausohjelmaansa Bardyn alueella.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "ffc803f81143f86b",
-   "teema": "Kriittiset mineraalit",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Africa and the Next Phase of India-Japan Critical Minerals Strategy - India's World",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM0pzNnd5RjRlRUFHZm9hWjl4RkdHWnl5NURSOXJtcDZKeTRLeVRXV3NrSFFFVU43emthTVEyZElzdVRreFdoZXZZREVpaXFqTFJBNWdLbU03eUZyUXRpYU9kYzZON2ZtVlZ6SWhZdGRfZFRwdVljbXNfR1ZiZ2tWYVg0Y0Q5eEMzdHZrNUR2WTB1NlMzS0E?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 07:29:06 GMT",
-   "kriittisyys": 5,
-   "tiivistelma": "Intia ja Japani laajentavat yhteistä kriittisten mineraalien strategiaa Afrikassa.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "cb2ee9b552080f45",
-   "teema": "Kriittiset mineraalit",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Korea, Brazil link critical minerals with defense, aerospace - Aju Press",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sczk0MTI5NXRNNjRxcm0wUUNlUi1aUUo2RzhfWlpuelNhSXlTS3dnbU9sTGxaN3YzMTBnZ3N3dWhsWU84cGhNeTl1TjZwdnBjMFVZd1l4LXViTjjSAVdBVV95cUxORGtKQUV5NlRVTm0ybE1xdUdPVEMtR1hyV1BVNFZ0cDF0aVBGaFdkV2s0QkxlaU1NQWtJZ3cyRndVakNaNjdKWFZDdFBRSE01elE1OE40cWs?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 04:54:11 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Etelä-Korea ja Brasilia yhdistävät kriittisten mineraalien strategiat puolustus- ja ilmailuteollisuuteen.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "2c91acdd4ea6e0a0",
-   "teema": "Kriittiset mineraalit",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Africa urged to process bauxite and \"other\" critical minerals locally to drive industrial growth - AL Circle",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS016VV9KeWdfQ2xGWXZuYlRYVjRBMVFyc2Jqbk1mclhmaE8tdFg4Snc0QWNKQWlIbjdrb2RCLXpIY29rcWJraVNNSElnWXFZYVdVWmM5VWJ1S0d4LU1uLTNNbjc5MlBBUFJXR0VPM1JmWF9sUWwwWlhTdjhVMTFjNzVWdEY3YVFTR210VFZSZk5zbExuWlZ2UXBpX0J2enlqWUlxTnlJcjBqX1lXOVltc1NBN2dyUmtoeDlCdzl1c2o1bzAta1lleFdYRQ?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 12:31:58 GMT",
-   "kriittisyys": 7,
-   "tiivistelma": "Afrikaa kehotetaan jalostamaan bauxiittia ja kriittisiä mineraaleja paikallisesti teollisuuden kehitykseksi.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "a0409235e4b64ee8",
-   "teema": "Kriittiset mineraalit",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Critical minerals start-up threatens to quit Britain - AOL.com",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZnJ2QkEwWjM3Wk9DNi0wVnJYc1ZjRWNEWFpZVzdmWi11QThWQktXMl94M1lyeC1qMVljLXJxVkh1NUplRFZHdG5TMkRKSVpRbVphcVNnaTEzVUlwR29sMjJfQ3BEblcyWXRBZnVmZkR6SUE4UjM4dzJCUUpzd2xnclZjODlQU3RHenc?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 07:57:46 GMT",
-   "kriittisyys": 6,
-   "tiivistelma": "Kriittisten mineraalien startup-yritys uhkaa poistua Britanniasta.",
-   "haettu": "2026-07-28T16:21:02+00:00"
-  },
-  {
-   "id": "a472d99c462f1603",
-   "teema": "Kriittiset mineraalit",
-   "tyyppi": "teema",
-   "lahde": "Google News",
-   "otsikko": "Lee, Lula agree to cooperate on critical minerals, speed along Korea-Mercosur trade pact in Brazil summit - Korea JoongAng Daily",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSm1PWmk2MEZ1bzdjTzY4ZnVFMlJnc3Nucy1fbFpSWUpKR1RWcW5xcEFfbE84ZHJ0WG4xc2NXNGR4dXVEMmtyd2o4OE01WHpIT0UwYlZRQ0w0TFQzSC1sQW85WlBFSnRReGpzOXd0RHhwUUQyQjNxcUVXQVE0WnhpMHh1Q1dLLUQxek5YWUZxSzNIcXU3ZkhDVHMzdERDZ3ZoZG1MLVZPZ2d6WkJIdEM2Z2xwN0gtdW1JbzgxRDhSMHJDSjhScGxVb1g2Q2U5amV1UDRvdEtheDU2UlFPWTlVU2pzZUNLcTQ?oc=5",
-   "julkaistu": "Tue, 28 Jul 2026 09:22:34 GMT",
-   "kriittisyys": 7,
-   "tiivistelma": "Etelä-Korea ja Brasilia sopivat kriittisten mineraalien yhteistyöstä ja kauppakumppanuuksista.",
-   "haettu": "2026-07-28T16:21:02+00:00"
   }
  ],
  "yhtiot": [
   {
    "nimi": "Nvidia",
    "ticker": "NVDA",
-   "mainintoja": 29,
+   "mainintoja": 35,
    "teemat": [
     "Laskentakapasiteetti ja sirut",
     "Muisti (HBM/DRAM)",
     "Jäähdytys",
+    "Verkotus ja optiikka"
+   ]
+  },
+  {
+   "nimi": "SK Hynix",
+   "ticker": "SKHY",
+   "mainintoja": 13,
+   "teemat": [
+    "Muisti (HBM/DRAM)",
+    "Laskentakapasiteetti ja sirut"
+   ]
+  },
+  {
+   "nimi": "GlobalFoundries",
+   "ticker": "GFS",
+   "mainintoja": 11,
+   "teemat": [
     "Verkotus ja optiikka"
    ]
   },
@@ -1078,7 +1095,7 @@
   {
    "nimi": "Samsung",
    "ticker": "SSNLF",
-   "mainintoja": 8,
+   "mainintoja": 9,
    "teemat": [
     "Laskentakapasiteetti ja sirut",
     "Jäähdytys",
@@ -1096,11 +1113,10 @@
    ]
   },
   {
-   "nimi": "SK Hynix",
-   "ticker": "SKHY",
-   "mainintoja": 6,
+   "nimi": "Huawei",
+   "ticker": "",
+   "mainintoja": 4,
    "teemat": [
-    "Muisti (HBM/DRAM)",
     "Laskentakapasiteetti ja sirut"
    ]
   },
@@ -1168,6 +1184,22 @@
    "mainintoja": 2,
    "teemat": [
     "Kriittiset mineraalit"
+   ]
+  },
+  {
+   "nimi": "Micron Technology",
+   "ticker": "MU",
+   "mainintoja": 2,
+   "teemat": [
+    "Muisti (HBM/DRAM)"
+   ]
+  },
+  {
+   "nimi": "Anthropic",
+   "ticker": "",
+   "mainintoja": 2,
+   "teemat": [
+    "Laskentakapasiteetti ja sirut"
    ]
   },
   {
@@ -1253,14 +1285,6 @@
   {
    "nimi": "MKS Instruments",
    "ticker": "MKSI",
-   "mainintoja": 1,
-   "teemat": [
-    "Muisti (HBM/DRAM)"
-   ]
-  },
-  {
-   "nimi": "Micron Technology",
-   "ticker": "MU",
    "mainintoja": 1,
    "teemat": [
     "Muisti (HBM/DRAM)"
@@ -1360,22 +1384,6 @@
    "mainintoja": 1,
    "teemat": [
     "Kriittiset mineraalit"
-   ]
-  },
-  {
-   "nimi": "Huawei",
-   "ticker": "",
-   "mainintoja": 1,
-   "teemat": [
-    "Laskentakapasiteetti ja sirut"
-   ]
-  },
-  {
-   "nimi": "Anthropic",
-   "ticker": "",
-   "mainintoja": 1,
-   "teemat": [
-    "Laskentakapasiteetti ja sirut"
    ]
   },
   {
@@ -1513,9 +1521,130 @@
    "teemat": [
     "Kriittiset mineraalit"
    ]
+  },
+  {
+   "nimi": "Etched",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Laskentakapasiteetti ja sirut"
+   ]
+  },
+  {
+   "nimi": "Jane Street",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Laskentakapasiteetti ja sirut"
+   ]
+  },
+  {
+   "nimi": "KLA",
+   "ticker": "KLAC",
+   "mainintoja": 1,
+   "teemat": [
+    "Muisti (HBM/DRAM)"
+   ]
+  },
+  {
+   "nimi": "Samsung Electronics",
+   "ticker": "005930",
+   "mainintoja": 1,
+   "teemat": [
+    "Muisti (HBM/DRAM)"
+   ]
+  },
+  {
+   "nimi": "Entergy",
+   "ticker": "ETR",
+   "mainintoja": 1,
+   "teemat": [
+    "Energia ja sähköverkot"
+   ]
+  },
+  {
+   "nimi": "Antares",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Ydinvoima ja uraani"
+   ]
+  },
+  {
+   "nimi": "Ready Server",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Jäähdytys"
+   ]
+  },
+  {
+   "nimi": "LG",
+   "ticker": "LG",
+   "mainintoja": 1,
+   "teemat": [
+    "Jäähdytys"
+   ]
+  },
+  {
+   "nimi": "United Microelectronics Corporation (UMC)",
+   "ticker": "UMC",
+   "mainintoja": 1,
+   "teemat": [
+    "Verkotus ja optiikka"
+   ]
+  },
+  {
+   "nimi": "Fast Metals",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Kriittiset mineraalit"
+   ]
+  },
+  {
+   "nimi": "Ecora Royalties",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Kriittiset mineraalit"
+   ]
+  },
+  {
+   "nimi": "Perpetual Resources",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Kriittiset mineraalit"
+   ]
+  },
+  {
+   "nimi": "Missouri University of Science and Technology",
+   "ticker": "",
+   "mainintoja": 1,
+   "teemat": [
+    "Kriittiset mineraalit"
+   ]
   }
  ],
  "uudet_ehdokkaat": [
+  {
+   "nimi": "SK Hynix",
+   "ticker": "SKHY",
+   "mainintoja": 13,
+   "teemat": [
+    "Muisti (HBM/DRAM)",
+    "Laskentakapasiteetti ja sirut"
+   ]
+  },
+  {
+   "nimi": "GlobalFoundries",
+   "ticker": "GFS",
+   "mainintoja": 11,
+   "teemat": [
+    "Verkotus ja optiikka"
+   ]
+  },
   {
    "nimi": "LG Electronics",
    "ticker": "LG",
@@ -1535,20 +1664,11 @@
   {
    "nimi": "Samsung",
    "ticker": "SSNLF",
-   "mainintoja": 8,
+   "mainintoja": 9,
    "teemat": [
     "Laskentakapasiteetti ja sirut",
     "Jäähdytys",
     "Muisti (HBM/DRAM)"
-   ]
-  },
-  {
-   "nimi": "SK Hynix",
-   "ticker": "SKHY",
-   "mainintoja": 6,
-   "teemat": [
-    "Muisti (HBM/DRAM)",
-    "Laskentakapasiteetti ja sirut"
    ]
   },
   {
