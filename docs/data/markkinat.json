@@ -1,11 +1,11 @@
 {
- "paivitetty": "2026-07-30T10:02:03+00:00",
+ "paivitetty": "2026-07-30T16:05:18+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 10.74,
+   "hinta": 11.43,
    "valuutta": "USD",
-   "muutos_1pv": -5.2,
-   "muutos_5pv": -12.8,
+   "muutos_1pv": 6.4,
+   "muutos_5pv": -4.8,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
@@ -16,73 +16,73 @@
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 84.57,
+   "hinta": 87.57,
    "valuutta": "USD",
-   "muutos_1pv": -2.7,
-   "muutos_5pv": -6.4,
+   "muutos_1pv": 3.6,
+   "muutos_5pv": -2.0,
    "nimi": "Cameco"
   },
   "MU": {
-   "hinta": 739.0,
+   "hinta": 859.54,
    "valuutta": "USD",
-   "muutos_1pv": -9.9,
-   "muutos_5pv": -23.0,
+   "muutos_1pv": 16.3,
+   "muutos_5pv": -13.2,
    "nimi": "Micron Technology"
   },
   "NVDA": {
-   "hinta": 190.01,
+   "hinta": 193.9,
    "valuutta": "USD",
-   "muutos_1pv": -3.6,
-   "muutos_5pv": -10.4,
+   "muutos_1pv": 2.0,
+   "muutos_5pv": -7.1,
    "nimi": "Nvidia"
   },
   "POWL": {
-   "hinta": 186.39,
+   "hinta": 205.1,
    "valuutta": "USD",
-   "muutos_1pv": -7.3,
-   "muutos_5pv": -22.6,
+   "muutos_1pv": 10.0,
+   "muutos_5pv": -15.4,
    "nimi": "Powell Industries"
   },
   "LITE": {
-   "hinta": 602.35,
+   "hinta": 688.28,
    "valuutta": "USD",
-   "muutos_1pv": -7.6,
-   "muutos_5pv": -27.4,
+   "muutos_1pv": 14.3,
+   "muutos_5pv": -17.4,
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 36.84,
+   "hinta": 40.78,
    "valuutta": "USD",
-   "muutos_1pv": -6.9,
-   "muutos_5pv": -17.2,
+   "muutos_1pv": 10.7,
+   "muutos_5pv": -7.3,
    "nimi": "Oklo"
   },
   "AVGO": {
-   "hinta": 370.32,
+   "hinta": 386.75,
    "valuutta": "USD",
-   "muutos_1pv": -2.8,
-   "muutos_5pv": -6.7,
+   "muutos_1pv": 4.4,
+   "muutos_5pv": -1.5,
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 142.81,
+   "hinta": 148.78,
    "valuutta": "USD",
-   "muutos_1pv": -3.9,
-   "muutos_5pv": -14.4,
+   "muutos_1pv": 4.2,
+   "muutos_5pv": -12.0,
    "nimi": "Vistra Corp"
   },
   "MP": {
-   "hinta": 38.1,
+   "hinta": 40.5,
    "valuutta": "USD",
-   "muutos_1pv": -7.7,
-   "muutos_5pv": -16.6,
+   "muutos_1pv": 6.3,
+   "muutos_5pv": -9.3,
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 222.05,
+   "hinta": 247.28,
    "valuutta": "USD",
-   "muutos_1pv": -8.7,
-   "muutos_5pv": -28.9,
+   "muutos_1pv": 11.4,
+   "muutos_5pv": -21.1,
    "nimi": "Coherent Corp"
   }
  }
