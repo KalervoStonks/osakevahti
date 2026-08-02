@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-07-26T18:23:19+00:00",
+ "paivitetty": "2026-08-02T18:23:24+00:00",
  "osakkeet": [
   {
    "ticker": "UUUU",
@@ -84,6 +84,90 @@
    "lahde": "auto",
    "syy": "Analyysi: Optisten komponenttien ja laserien valmistaja, joka hyötyy datakeskusten verkkokapasiteetin ja optisen kytkennän kasvavasta kysynnästä.",
    "lisatty": "2026-07-26T18:23:19+00:00"
+  },
+  {
+   "ticker": "GFS",
+   "nimi": "GlobalFoundries",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 29 mainintaa (Verkotus ja optiikka)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "SKHY",
+   "nimi": "SK Hynix",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 23 mainintaa (Muisti (HBM/DRAM), Laskentakapasiteetti ja sirut)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "SMR",
+   "nimi": "NuScale Power",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 13 mainintaa (Ydinvoima ja uraani)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "LG",
+   "nimi": "LG Electronics",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 11 mainintaa (Jäähdytys)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "SSNLF",
+   "nimi": "Samsung",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 11 mainintaa (Laskentakapasiteetti ja sirut, Jäähdytys, Muisti (HBM/DRAM))",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "AMD",
+   "nimi": "AMD",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 6 mainintaa (Laskentakapasiteetti ja sirut, Muisti (HBM/DRAM), Energia ja sähköverkot)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "MTCM",
+   "nimi": "MediaTek",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 6 mainintaa (Laskentakapasiteetti ja sirut)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "005930",
+   "nimi": "Samsung Electronics",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 6 mainintaa (Muisti (HBM/DRAM))",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "GOOGL",
+   "nimi": "Google",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 4 mainintaa (Laskentakapasiteetti ja sirut, Energia ja sähköverkot)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "TSM",
+   "nimi": "TSMC",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 3 mainintaa (Laskentakapasiteetti ja sirut, Muisti (HBM/DRAM), Verkotus ja optiikka)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "GEV",
+   "nimi": "GE Vernova",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 3 mainintaa (Ydinvoima ja uraani, Energia ja sähköverkot)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "ticker": "MSFT",
+   "nimi": "Microsoft",
+   "lahde": "auto",
+   "syy": "Uutisvirta: 3 mainintaa (Energia ja sähköverkot, Laskentakapasiteetti ja sirut)",
+   "lisatty": "2026-08-02T18:23:24+00:00"
   }
  ]
 }

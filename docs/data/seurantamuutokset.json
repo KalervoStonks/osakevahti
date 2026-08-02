@@ -1,6 +1,90 @@
 {
- "paivitetty": "2026-07-26T18:23:19+00:00",
+ "paivitetty": "2026-08-02T18:23:24+00:00",
  "muutokset": [
+  {
+   "tyyppi": "lisays",
+   "ticker": "GFS",
+   "nimi": "GlobalFoundries",
+   "syy": "Uutisvirta: 29 mainintaa (Verkotus ja optiikka)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "SKHY",
+   "nimi": "SK Hynix",
+   "syy": "Uutisvirta: 23 mainintaa (Muisti (HBM/DRAM), Laskentakapasiteetti ja sirut)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "SMR",
+   "nimi": "NuScale Power",
+   "syy": "Uutisvirta: 13 mainintaa (Ydinvoima ja uraani)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "LG",
+   "nimi": "LG Electronics",
+   "syy": "Uutisvirta: 11 mainintaa (Jäähdytys)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "SSNLF",
+   "nimi": "Samsung",
+   "syy": "Uutisvirta: 11 mainintaa (Laskentakapasiteetti ja sirut, Jäähdytys, Muisti (HBM/DRAM))",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "AMD",
+   "nimi": "AMD",
+   "syy": "Uutisvirta: 6 mainintaa (Laskentakapasiteetti ja sirut, Muisti (HBM/DRAM), Energia ja sähköverkot)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "MTCM",
+   "nimi": "MediaTek",
+   "syy": "Uutisvirta: 6 mainintaa (Laskentakapasiteetti ja sirut)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "005930",
+   "nimi": "Samsung Electronics",
+   "syy": "Uutisvirta: 6 mainintaa (Muisti (HBM/DRAM))",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "GOOGL",
+   "nimi": "Google",
+   "syy": "Uutisvirta: 4 mainintaa (Laskentakapasiteetti ja sirut, Energia ja sähköverkot)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "TSM",
+   "nimi": "TSMC",
+   "syy": "Uutisvirta: 3 mainintaa (Laskentakapasiteetti ja sirut, Muisti (HBM/DRAM), Verkotus ja optiikka)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "GEV",
+   "nimi": "GE Vernova",
+   "syy": "Uutisvirta: 3 mainintaa (Ydinvoima ja uraani, Energia ja sähköverkot)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
+  {
+   "tyyppi": "lisays",
+   "ticker": "MSFT",
+   "nimi": "Microsoft",
+   "syy": "Uutisvirta: 3 mainintaa (Energia ja sähköverkot, Laskentakapasiteetti ja sirut)",
+   "aika": "2026-08-02T18:23:24+00:00"
+  },
   {
    "tyyppi": "lisays",
    "ticker": "AVGO",
