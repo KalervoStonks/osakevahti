@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-08-02T14:47:07+00:00",
+ "paivitetty": "2026-08-02T20:38:38+00:00",
  "kurssit": {
   "UUUU": {
    "hinta": 11.44,
@@ -84,6 +84,69 @@
    "muutos_1pv": 5.6,
    "muutos_5pv": -6.9,
    "nimi": "Coherent Corp"
+  },
+  "GFS": {
+   "hinta": 49.99,
+   "valuutta": "USD",
+   "muutos_1pv": 0.2,
+   "muutos_5pv": -6.6,
+   "nimi": "GlobalFoundries"
+  },
+  "SKHY": {
+   "hinta": 143.73,
+   "valuutta": "USD",
+   "muutos_1pv": -3.5,
+   "muutos_5pv": -7.0,
+   "nimi": "SK Hynix"
+  },
+  "SMR": {
+   "hinta": 8.42,
+   "valuutta": "USD",
+   "muutos_1pv": -2.1,
+   "muutos_5pv": 4.1,
+   "nimi": "NuScale Power"
+  },
+  "SSNLF": {
+   "hinta": 65.21,
+   "valuutta": "USD",
+   "muutos_1pv": 0.0,
+   "muutos_5pv": 0.0,
+   "nimi": "Samsung"
+  },
+  "AMD": {
+   "hinta": 476.15,
+   "valuutta": "USD",
+   "muutos_1pv": -1.9,
+   "muutos_5pv": -8.8,
+   "nimi": "AMD"
+  },
+  "GOOGL": {
+   "hinta": 356.13,
+   "valuutta": "USD",
+   "muutos_1pv": 6.7,
+   "muutos_5pv": 11.4,
+   "nimi": "Google"
+  },
+  "TSM": {
+   "hinta": 404.25,
+   "valuutta": "USD",
+   "muutos_1pv": 0.2,
+   "muutos_5pv": 0.2,
+   "nimi": "TSMC"
+  },
+  "GEV": {
+   "hinta": 990.29,
+   "valuutta": "USD",
+   "muutos_1pv": 0.8,
+   "muutos_5pv": -2.4,
+   "nimi": "GE Vernova"
+  },
+  "MSFT": {
+   "hinta": 464.72,
+   "valuutta": "USD",
+   "muutos_1pv": 3.0,
+   "muutos_5pv": 21.8,
+   "nimi": "Microsoft"
   }
  }
 }
