@@ -1,11 +1,11 @@
 {
- "paivitetty": "2026-08-12T20:10:45+00:00",
+ "paivitetty": "2026-08-12T20:28:35+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 14.48,
+   "hinta": 14.47,
    "valuutta": "USD",
-   "muutos_1pv": -2.0,
-   "muutos_5pv": 16.4,
+   "muutos_1pv": -2.1,
+   "muutos_5pv": 16.3,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
@@ -16,10 +16,10 @@
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 99.08,
+   "hinta": 99.03,
    "valuutta": "USD",
-   "muutos_1pv": 0.4,
-   "muutos_5pv": 5.1,
+   "muutos_1pv": 0.3,
+   "muutos_5pv": 5.0,
    "nimi": "Cameco"
   },
   "MU": {
@@ -51,10 +51,10 @@
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 45.11,
+   "hinta": 45.13,
    "valuutta": "USD",
    "muutos_1pv": -4.0,
-   "muutos_5pv": 4.9,
+   "muutos_5pv": 5.0,
    "nimi": "Oklo"
   },
   "AVGO": {
@@ -65,23 +65,23 @@
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 146.71,
+   "hinta": 146.68,
    "valuutta": "USD",
    "muutos_1pv": 1.2,
-   "muutos_5pv": 4.4,
+   "muutos_5pv": 4.3,
    "nimi": "Vistra Corp"
   },
   "MP": {
-   "hinta": 54.1,
+   "hinta": 54.11,
    "valuutta": "USD",
-   "muutos_1pv": -2.1,
+   "muutos_1pv": -2.0,
    "muutos_5pv": 12.9,
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 355.86,
+   "hinta": 355.64,
    "valuutta": "USD",
-   "muutos_1pv": 8.3,
+   "muutos_1pv": 8.2,
    "muutos_5pv": 8.4,
    "nimi": "Coherent Corp"
   },
@@ -100,10 +100,10 @@
    "nimi": "SK Hynix"
   },
   "SMR": {
-   "hinta": 9.58,
+   "hinta": 9.59,
    "valuutta": "USD",
-   "muutos_1pv": -3.1,
-   "muutos_5pv": 2.1,
+   "muutos_1pv": -3.0,
+   "muutos_5pv": 2.2,
    "nimi": "NuScale Power"
   },
   "SSNLF": {
@@ -128,14 +128,14 @@
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 429.07,
+   "hinta": 429.15,
    "valuutta": "USD",
    "muutos_1pv": 1.7,
-   "muutos_5pv": 3.6,
+   "muutos_5pv": 3.7,
    "nimi": "TSMC"
   },
   "GEV": {
-   "hinta": 1039.92,
+   "hinta": 1039.9,
    "valuutta": "USD",
    "muutos_1pv": 2.8,
    "muutos_5pv": 2.2,
