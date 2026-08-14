@@ -1,11 +1,11 @@
 {
- "paivitetty": "2026-08-14T20:04:41+00:00",
+ "paivitetty": "2026-08-14T20:18:48+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 15.09,
+   "hinta": 15.1,
    "valuutta": "USD",
-   "muutos_1pv": 3.5,
-   "muutos_5pv": 6.7,
+   "muutos_1pv": 3.6,
+   "muutos_5pv": 6.8,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
@@ -16,9 +16,9 @@
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 97.75,
+   "hinta": 97.74,
    "valuutta": "USD",
-   "muutos_1pv": 0.0,
+   "muutos_1pv": -0.0,
    "muutos_5pv": 0.4,
    "nimi": "Cameco"
   },
@@ -51,10 +51,10 @@
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 44.37,
+   "hinta": 44.38,
    "valuutta": "USD",
    "muutos_1pv": -4.5,
-   "muutos_5pv": -8.4,
+   "muutos_5pv": -8.3,
    "nimi": "Oklo"
   },
   "AVGO": {
@@ -65,7 +65,7 @@
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 148.15,
+   "hinta": 148.13,
    "valuutta": "USD",
    "muutos_1pv": 1.2,
    "muutos_5pv": 5.4,
@@ -79,10 +79,10 @@
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 325.93,
+   "hinta": 325.83,
    "valuutta": "USD",
    "muutos_1pv": -0.4,
-   "muutos_5pv": -14.0,
+   "muutos_5pv": -14.1,
    "nimi": "Coherent Corp"
   },
   "GFS": {
@@ -128,14 +128,14 @@
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 426.32,
+   "hinta": 426.35,
    "valuutta": "USD",
    "muutos_1pv": -1.0,
    "muutos_5pv": 1.5,
    "nimi": "TSMC"
   },
   "GEV": {
-   "hinta": 1063.32,
+   "hinta": 1063.25,
    "valuutta": "USD",
    "muutos_1pv": 1.3,
    "muutos_5pv": 7.4,
