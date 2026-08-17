@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-08-17T20:34:54+00:00",
+ "paivitetty": "2026-08-17T21:15:06+00:00",
  "kurssit": {
   "UUUU": {
    "hinta": 14.79,
@@ -112,6 +112,13 @@
    "muutos_1pv": 0.0,
    "muutos_5pv": 0.0,
    "nimi": "Samsung"
+  },
+  "AMD": {
+   "hinta": 506.0,
+   "valuutta": "USD",
+   "muutos_1pv": -1.6,
+   "muutos_5pv": 7.8,
+   "nimi": "AMD"
   },
   "GOOGL": {
    "hinta": 344.0,
