@@ -1,18 +1,18 @@
 {
- "paivitetty": "2026-08-19T06:23:07+00:00",
+ "paivitetty": "2026-08-19T07:29:14+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 14.79,
+   "hinta": 14.09,
    "valuutta": "USD",
-   "muutos_1pv": -2.1,
-   "muutos_5pv": 3.5,
+   "muutos_1pv": -4.7,
+   "muutos_5pv": -4.7,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
    "hinta": 0.32,
    "valuutta": "AUD",
-   "muutos_1pv": 0.6,
-   "muutos_5pv": -0.9,
+   "muutos_1pv": 1.6,
+   "muutos_5pv": 0.0,
    "nimi": "EQ Resources"
   },
   "CCJ": {
@@ -51,10 +51,10 @@
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 43.88,
+   "hinta": 41.36,
    "valuutta": "USD",
-   "muutos_1pv": -1.1,
-   "muutos_5pv": -1.4,
+   "muutos_1pv": -5.7,
+   "muutos_5pv": -12.0,
    "nimi": "Oklo"
   },
   "AVGO": {
@@ -79,17 +79,17 @@
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 351.22,
+   "hinta": 306.43,
    "valuutta": "USD",
-   "muutos_1pv": 7.8,
-   "muutos_5pv": 8.0,
+   "muutos_1pv": -12.8,
+   "muutos_5pv": -6.7,
    "nimi": "Coherent Corp"
   },
   "GFS": {
-   "hinta": 53.44,
+   "hinta": 49.9,
    "valuutta": "USD",
-   "muutos_1pv": -2.1,
-   "muutos_5pv": 6.8,
+   "muutos_1pv": -6.6,
+   "muutos_5pv": -1.8,
    "nimi": "GlobalFoundries"
   },
   "SKHY": {
