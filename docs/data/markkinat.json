@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-08-20T03:36:45+00:00",
+ "paivitetty": "2026-08-20T04:24:42+00:00",
  "kurssit": {
   "UUUU": {
    "hinta": 14.85,
@@ -9,10 +9,10 @@
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
-   "hinta": 0.33,
+   "hinta": 0.34,
    "valuutta": "AUD",
-   "muutos_1pv": 3.1,
-   "muutos_5pv": 10.0,
+   "muutos_1pv": 5.3,
+   "muutos_5pv": 12.3,
    "nimi": "EQ Resources"
   },
   "CCJ": {
@@ -23,7 +23,7 @@
    "nimi": "Cameco"
   },
   "MU": {
-   "hinta": 937.1,
+   "hinta": 937.11,
    "valuutta": "USD",
    "muutos_1pv": -0.4,
    "muutos_5pv": 2.8,
