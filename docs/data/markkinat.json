@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-08-21T03:40:34+00:00",
+ "paivitetty": "2026-08-21T04:27:10+00:00",
  "kurssit": {
   "UUUU": {
    "hinta": 13.9,
@@ -11,15 +11,15 @@
   "EQR.AX": {
    "hinta": 0.37,
    "valuutta": "AUD",
-   "muutos_1pv": 7.4,
-   "muutos_5pv": 17.7,
+   "muutos_1pv": 8.8,
+   "muutos_5pv": 19.4,
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 95.59,
+   "hinta": 97.98,
    "valuutta": "USD",
-   "muutos_1pv": -2.4,
-   "muutos_5pv": -2.2,
+   "muutos_1pv": 2.0,
+   "muutos_5pv": -1.1,
    "nimi": "Cameco"
   },
   "MU": {
@@ -114,7 +114,7 @@
    "nimi": "Samsung"
   },
   "AMD": {
-   "hinta": 469.45,
+   "hinta": 469.46,
    "valuutta": "USD",
    "muutos_1pv": 0.7,
    "muutos_5pv": -2.8,
@@ -128,10 +128,10 @@
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 416.0,
+   "hinta": 412.09,
    "valuutta": "USD",
-   "muutos_1pv": 0.9,
-   "muutos_5pv": -3.4,
+   "muutos_1pv": -0.3,
+   "muutos_5pv": -4.0,
    "nimi": "TSMC"
   },
   "GEV": {
