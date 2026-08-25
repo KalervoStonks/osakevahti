@@ -1,11 +1,11 @@
 {
- "paivitetty": "2026-08-25T20:13:33+00:00",
+ "paivitetty": "2026-08-25T20:37:33+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 15.99,
+   "hinta": 15.97,
    "valuutta": "USD",
-   "muutos_1pv": 7.5,
-   "muutos_5pv": 13.5,
+   "muutos_1pv": 7.3,
+   "muutos_5pv": 13.3,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
@@ -51,7 +51,7 @@
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 44.26,
+   "hinta": 44.27,
    "valuutta": "USD",
    "muutos_1pv": 11.5,
    "muutos_5pv": 7.0,
@@ -65,7 +65,7 @@
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 139.04,
+   "hinta": 139.03,
    "valuutta": "USD",
    "muutos_1pv": 2.5,
    "muutos_5pv": -1.1,
@@ -79,10 +79,10 @@
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 288.41,
+   "hinta": 288.14,
    "valuutta": "USD",
-   "muutos_1pv": 4.7,
-   "muutos_5pv": -5.9,
+   "muutos_1pv": 4.6,
+   "muutos_5pv": -6.0,
    "nimi": "Coherent Corp"
   },
   "GFS": {
@@ -100,10 +100,10 @@
    "nimi": "SK Hynix"
   },
   "SMR": {
-   "hinta": 9.8,
+   "hinta": 9.81,
    "valuutta": "USD",
-   "muutos_1pv": 8.2,
-   "muutos_5pv": 13.4,
+   "muutos_1pv": 8.4,
+   "muutos_5pv": 13.5,
    "nimi": "NuScale Power"
   },
   "SSNLF": {
@@ -128,17 +128,17 @@
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 417.38,
+   "hinta": 417.41,
    "valuutta": "USD",
    "muutos_1pv": 1.8,
    "muutos_5pv": 1.0,
    "nimi": "TSMC"
   },
   "GEV": {
-   "hinta": 926.0,
+   "hinta": 926.73,
    "valuutta": "USD",
-   "muutos_1pv": -1.7,
-   "muutos_5pv": -7.8,
+   "muutos_1pv": -1.6,
+   "muutos_5pv": -7.7,
    "nimi": "GE Vernova"
   },
   "MSFT": {
