@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-09-02T20:03:14+00:00",
+ "paivitetty": "2026-09-02T22:03:18+00:00",
  "kurssit": {
   "UUUU": {
    "hinta": 14.29,
@@ -16,10 +16,10 @@
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 96.4,
+   "hinta": 96.38,
    "valuutta": "USD",
    "muutos_1pv": 0.1,
-   "muutos_5pv": -10.2,
+   "muutos_5pv": -9.9,
    "nimi": "Cameco"
   },
   "MU": {
@@ -40,14 +40,14 @@
    "hinta": 170.51,
    "valuutta": "USD",
    "muutos_1pv": -0.9,
-   "muutos_5pv": -11.1,
+   "muutos_5pv": -10.3,
    "nimi": "Powell Industries"
   },
   "LITE": {
    "hinta": 870.58,
    "valuutta": "USD",
    "muutos_1pv": 0.2,
-   "muutos_5pv": -7.3,
+   "muutos_5pv": -1.7,
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
@@ -65,10 +65,10 @@
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 143.47,
+   "hinta": 143.46,
    "valuutta": "USD",
    "muutos_1pv": 3.9,
-   "muutos_5pv": 2.5,
+   "muutos_5pv": 2.4,
    "nimi": "Vistra Corp"
   },
   "MP": {
@@ -79,17 +79,17 @@
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 268.3,
+   "hinta": 268.64,
    "valuutta": "USD",
-   "muutos_1pv": -1.4,
-   "muutos_5pv": -8.9,
+   "muutos_1pv": -1.2,
+   "muutos_5pv": -8.7,
    "nimi": "Coherent Corp"
   },
   "GFS": {
    "hinta": 43.97,
    "valuutta": "USD",
    "muutos_1pv": 0.1,
-   "muutos_5pv": -3.7,
+   "muutos_5pv": -4.2,
    "nimi": "GlobalFoundries"
   },
   "SKHY": {
@@ -102,7 +102,7 @@
   "SMR": {
    "hinta": 9.56,
    "valuutta": "USD",
-   "muutos_1pv": 3.7,
+   "muutos_1pv": 3.8,
    "muutos_5pv": 3.1,
    "nimi": "NuScale Power"
   },
@@ -128,17 +128,17 @@
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 415.57,
+   "hinta": 415.5,
    "valuutta": "USD",
    "muutos_1pv": 0.4,
    "muutos_5pv": -0.5,
    "nimi": "TSMC"
   },
   "GEV": {
-   "hinta": 921.75,
+   "hinta": 921.94,
    "valuutta": "USD",
    "muutos_1pv": 2.6,
-   "muutos_5pv": -3.3,
+   "muutos_5pv": -0.5,
    "nimi": "GE Vernova"
   },
   "MSFT": {
