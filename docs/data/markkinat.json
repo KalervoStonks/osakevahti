@@ -1,11 +1,11 @@
 {
- "paivitetty": "2026-09-25T14:48:20+00:00",
+ "paivitetty": "2026-09-25T17:53:12+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 11.26,
+   "hinta": 11.43,
    "valuutta": "USD",
-   "muutos_1pv": -0.5,
-   "muutos_5pv": -3.8,
+   "muutos_1pv": 0.9,
+   "muutos_5pv": -2.4,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
@@ -16,94 +16,94 @@
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 88.28,
+   "hinta": 87.96,
    "valuutta": "USD",
-   "muutos_1pv": 0.2,
-   "muutos_5pv": -3.6,
+   "muutos_1pv": -0.2,
+   "muutos_5pv": -4.0,
    "nimi": "Cameco"
   },
   "MU": {
-   "hinta": 1086.0,
+   "hinta": 1081.97,
    "valuutta": "USD",
-   "muutos_1pv": 0.5,
-   "muutos_5pv": 6.9,
+   "muutos_1pv": 0.1,
+   "muutos_5pv": 6.5,
    "nimi": "Micron Technology"
   },
   "NVDA": {
-   "hinta": 223.79,
+   "hinta": 224.65,
    "valuutta": "USD",
-   "muutos_1pv": -0.4,
-   "muutos_5pv": 0.7,
+   "muutos_1pv": 0.0,
+   "muutos_5pv": 1.1,
    "nimi": "Nvidia"
   },
   "POWL": {
-   "hinta": 187.92,
+   "hinta": 189.63,
    "valuutta": "USD",
-   "muutos_1pv": -1.9,
-   "muutos_5pv": 2.2,
+   "muutos_1pv": -1.0,
+   "muutos_5pv": 3.1,
    "nimi": "Powell Industries"
   },
   "LITE": {
-   "hinta": 935.61,
+   "hinta": 944.07,
    "valuutta": "USD",
-   "muutos_1pv": 0.7,
-   "muutos_5pv": 0.5,
+   "muutos_1pv": 1.6,
+   "muutos_5pv": 1.4,
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 37.7,
+   "hinta": 37.99,
    "valuutta": "USD",
-   "muutos_1pv": -1.5,
-   "muutos_5pv": -0.8,
+   "muutos_1pv": -0.8,
+   "muutos_5pv": -0.0,
    "nimi": "Oklo"
   },
   "AVGO": {
-   "hinta": 351.46,
+   "hinta": 352.8,
    "valuutta": "USD",
-   "muutos_1pv": 0.3,
-   "muutos_5pv": -1.7,
+   "muutos_1pv": 0.7,
+   "muutos_5pv": -1.3,
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 138.68,
+   "hinta": 136.48,
    "valuutta": "USD",
-   "muutos_1pv": 0.5,
-   "muutos_5pv": -1.4,
+   "muutos_1pv": -1.1,
+   "muutos_5pv": -3.0,
    "nimi": "Vistra Corp"
   },
   "MP": {
-   "hinta": 48.37,
+   "hinta": 49.01,
    "valuutta": "USD",
-   "muutos_1pv": -1.9,
-   "muutos_5pv": 2.3,
+   "muutos_1pv": -0.6,
+   "muutos_5pv": 3.7,
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 293.69,
+   "hinta": 299.94,
    "valuutta": "USD",
-   "muutos_1pv": 1.1,
-   "muutos_5pv": -7.5,
+   "muutos_1pv": 3.2,
+   "muutos_5pv": -5.5,
    "nimi": "Coherent Corp"
   },
   "GFS": {
-   "hinta": 48.86,
+   "hinta": 48.78,
    "valuutta": "USD",
-   "muutos_1pv": 3.8,
-   "muutos_5pv": 2.2,
+   "muutos_1pv": 3.7,
+   "muutos_5pv": 2.0,
    "nimi": "GlobalFoundries"
   },
   "SKHY": {
-   "hinta": 190.46,
+   "hinta": 191.32,
    "valuutta": "USD",
-   "muutos_1pv": 2.2,
-   "muutos_5pv": 1.6,
+   "muutos_1pv": 2.7,
+   "muutos_5pv": 2.0,
    "nimi": "SK Hynix"
   },
   "SMR": {
-   "hinta": 8.38,
+   "hinta": 8.4,
    "valuutta": "USD",
-   "muutos_1pv": -1.1,
-   "muutos_5pv": 1.3,
+   "muutos_1pv": -0.9,
+   "muutos_5pv": 1.5,
    "nimi": "NuScale Power"
   },
   "SSNLF": {
@@ -114,38 +114,38 @@
    "nimi": "Samsung"
   },
   "AMD": {
-   "hinta": 633.09,
+   "hinta": 630.32,
    "valuutta": "USD",
-   "muutos_1pv": 0.6,
-   "muutos_5pv": 13.1,
+   "muutos_1pv": 0.2,
+   "muutos_5pv": 12.6,
    "nimi": "AMD"
   },
   "GOOGL": {
-   "hinta": 342.76,
+   "hinta": 344.08,
    "valuutta": "USD",
-   "muutos_1pv": 0.1,
-   "muutos_5pv": -1.9,
+   "muutos_1pv": 0.5,
+   "muutos_5pv": -1.6,
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 451.84,
+   "hinta": 451.01,
    "valuutta": "USD",
-   "muutos_1pv": 0.2,
-   "muutos_5pv": 4.0,
+   "muutos_1pv": -0.0,
+   "muutos_5pv": 3.8,
    "nimi": "TSMC"
   },
   "GEV": {
-   "hinta": 950.1,
+   "hinta": 952.51,
    "valuutta": "USD",
-   "muutos_1pv": -0.5,
-   "muutos_5pv": 1.0,
+   "muutos_1pv": -0.3,
+   "muutos_5pv": 1.3,
    "nimi": "GE Vernova"
   },
   "MSFT": {
-   "hinta": 514.84,
+   "hinta": 517.37,
    "valuutta": "USD",
-   "muutos_1pv": 3.4,
-   "muutos_5pv": 4.3,
+   "muutos_1pv": 3.9,
+   "muutos_5pv": 4.8,
    "nimi": "Microsoft"
   }
  }
