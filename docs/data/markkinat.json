@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-09-27T22:36:39+00:00",
+ "paivitetty": "2026-09-28T02:22:14+00:00",
  "kurssit": {
   "UUUU": {
    "hinta": 11.35,
@@ -9,10 +9,10 @@
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
-   "hinta": 0.45,
+   "hinta": 0.43,
    "valuutta": "AUD",
-   "muutos_1pv": -10.0,
-   "muutos_5pv": -7.2,
+   "muutos_1pv": -5.6,
+   "muutos_5pv": -8.6,
    "nimi": "EQ Resources"
   },
   "CCJ": {
