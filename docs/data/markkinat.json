@@ -1,5 +1,5 @@
 {
- "paivitetty": "2026-10-07T23:43:19+00:00",
+ "paivitetty": "2026-10-07T23:53:54+00:00",
  "kurssit": {
   "UUUU": {
    "hinta": 10.26,
@@ -9,10 +9,10 @@
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
-   "hinta": 0.33,
+   "hinta": 0.32,
    "valuutta": "AUD",
-   "muutos_1pv": -3.8,
-   "muutos_5pv": -26.5,
+   "muutos_1pv": -5.3,
+   "muutos_5pv": -27.6,
    "nimi": "EQ Resources"
   },
   "CCJ": {
@@ -79,10 +79,10 @@
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 323.15,
+   "hinta": 334.56,
    "valuutta": "USD",
-   "muutos_1pv": -4.5,
-   "muutos_5pv": 12.3,
+   "muutos_1pv": -1.1,
+   "muutos_5pv": 16.2,
    "nimi": "Coherent Corp"
   },
   "GFS": {
