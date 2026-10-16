@@ -1,11 +1,11 @@
 {
- "paivitetty": "2026-10-16T17:18:20+00:00",
+ "paivitetty": "2026-10-16T20:01:40+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 8.3,
+   "hinta": 8.48,
    "valuutta": "USD",
-   "muutos_1pv": -3.2,
-   "muutos_5pv": -16.7,
+   "muutos_1pv": -1.0,
+   "muutos_5pv": -14.8,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
@@ -16,94 +16,94 @@
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 81.28,
+   "hinta": 81.53,
    "valuutta": "USD",
-   "muutos_1pv": -2.3,
-   "muutos_5pv": -7.7,
+   "muutos_1pv": -2.0,
+   "muutos_5pv": -7.4,
    "nimi": "Cameco"
   },
   "MU": {
-   "hinta": 891.37,
+   "hinta": 878.84,
    "valuutta": "USD",
-   "muutos_1pv": -4.3,
-   "muutos_5pv": -13.4,
+   "muutos_1pv": -5.6,
+   "muutos_5pv": -14.6,
    "nimi": "Micron Technology"
   },
   "NVDA": {
-   "hinta": 215.32,
+   "hinta": 214.13,
    "valuutta": "USD",
-   "muutos_1pv": -0.9,
-   "muutos_5pv": -6.1,
+   "muutos_1pv": -1.4,
+   "muutos_5pv": -6.6,
    "nimi": "Nvidia"
   },
   "POWL": {
-   "hinta": 165.52,
+   "hinta": 165.14,
    "valuutta": "USD",
-   "muutos_1pv": -3.1,
-   "muutos_5pv": -13.8,
+   "muutos_1pv": -3.3,
+   "muutos_5pv": -14.0,
    "nimi": "Powell Industries"
   },
   "LITE": {
-   "hinta": 833.72,
+   "hinta": 824.13,
    "valuutta": "USD",
-   "muutos_1pv": -4.1,
-   "muutos_5pv": -24.4,
+   "muutos_1pv": -5.2,
+   "muutos_5pv": -25.3,
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 27.93,
+   "hinta": 27.99,
    "valuutta": "USD",
-   "muutos_1pv": -6.9,
-   "muutos_5pv": -19.5,
+   "muutos_1pv": -6.7,
+   "muutos_5pv": -19.4,
    "nimi": "Oklo"
   },
   "AVGO": {
-   "hinta": 331.92,
+   "hinta": 328.75,
    "valuutta": "USD",
-   "muutos_1pv": -3.6,
-   "muutos_5pv": -8.2,
+   "muutos_1pv": -4.5,
+   "muutos_5pv": -9.1,
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 153.26,
+   "hinta": 152.01,
    "valuutta": "USD",
-   "muutos_1pv": -0.6,
-   "muutos_5pv": -5.1,
+   "muutos_1pv": -1.4,
+   "muutos_5pv": -5.9,
    "nimi": "Vistra Corp"
   },
   "MP": {
-   "hinta": 40.58,
+   "hinta": 40.15,
    "valuutta": "USD",
-   "muutos_1pv": -2.5,
-   "muutos_5pv": -12.1,
+   "muutos_1pv": -3.5,
+   "muutos_5pv": -13.0,
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 234.7,
+   "hinta": 232.95,
    "valuutta": "USD",
-   "muutos_1pv": -6.3,
-   "muutos_5pv": -24.9,
+   "muutos_1pv": -7.0,
+   "muutos_5pv": -25.5,
    "nimi": "Coherent Corp"
   },
   "GFS": {
-   "hinta": 47.1,
+   "hinta": 46.68,
    "valuutta": "USD",
-   "muutos_1pv": -3.4,
-   "muutos_5pv": -2.4,
+   "muutos_1pv": -4.3,
+   "muutos_5pv": -3.2,
    "nimi": "GlobalFoundries"
   },
   "SKHY": {
-   "hinta": 137.62,
+   "hinta": 136.49,
    "valuutta": "USD",
-   "muutos_1pv": -5.8,
-   "muutos_5pv": -18.6,
+   "muutos_1pv": -6.6,
+   "muutos_5pv": -19.3,
    "nimi": "SK Hynix"
   },
   "SMR": {
-   "hinta": 5.82,
+   "hinta": 5.83,
    "valuutta": "USD",
-   "muutos_1pv": -5.3,
-   "muutos_5pv": -19.1,
+   "muutos_1pv": -5.2,
+   "muutos_5pv": -19.0,
    "nimi": "NuScale Power"
   },
   "SSNLF": {
@@ -114,38 +114,38 @@
    "nimi": "Samsung"
   },
   "AMD": {
-   "hinta": 535.16,
+   "hinta": 528.75,
    "valuutta": "USD",
-   "muutos_1pv": -4.8,
-   "muutos_5pv": -12.0,
+   "muutos_1pv": -6.0,
+   "muutos_5pv": -13.0,
    "nimi": "AMD"
   },
   "GOOGL": {
-   "hinta": 341.42,
+   "hinta": 340.59,
    "valuutta": "USD",
-   "muutos_1pv": -2.2,
-   "muutos_5pv": -2.9,
+   "muutos_1pv": -2.5,
+   "muutos_5pv": -3.1,
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 412.86,
+   "hinta": 412.59,
    "valuutta": "USD",
-   "muutos_1pv": -2.2,
-   "muutos_5pv": -8.9,
+   "muutos_1pv": -2.3,
+   "muutos_5pv": -9.0,
    "nimi": "TSMC"
   },
   "GEV": {
-   "hinta": 930.45,
+   "hinta": 921.02,
    "valuutta": "USD",
-   "muutos_1pv": 0.4,
-   "muutos_5pv": -7.4,
+   "muutos_1pv": -0.6,
+   "muutos_5pv": -8.3,
    "nimi": "GE Vernova"
   },
   "MSFT": {
-   "hinta": 525.08,
+   "hinta": 529.05,
    "valuutta": "USD",
-   "muutos_1pv": -2.7,
-   "muutos_5pv": -1.9,
+   "muutos_1pv": -1.9,
+   "muutos_5pv": -1.1,
    "nimi": "Microsoft"
   }
  }
