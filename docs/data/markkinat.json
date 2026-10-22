@@ -1,10 +1,10 @@
 {
- "paivitetty": "2026-10-22T17:55:07+00:00",
+ "paivitetty": "2026-10-22T21:26:43+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 7.68,
+   "hinta": 7.69,
    "valuutta": "USD",
-   "muutos_1pv": -6.3,
+   "muutos_1pv": -6.2,
    "muutos_5pv": -10.3,
    "nimi": "Energy Fuels"
   },
@@ -16,94 +16,94 @@
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 78.67,
+   "hinta": 78.93,
    "valuutta": "USD",
-   "muutos_1pv": -4.1,
-   "muutos_5pv": -5.5,
+   "muutos_1pv": -3.8,
+   "muutos_5pv": -5.2,
    "nimi": "Cameco"
   },
   "MU": {
-   "hinta": 864.6,
+   "hinta": 856.49,
    "valuutta": "USD",
-   "muutos_1pv": -5.4,
-   "muutos_5pv": -7.2,
+   "muutos_1pv": -6.3,
+   "muutos_5pv": -8.0,
    "nimi": "Micron Technology"
   },
   "NVDA": {
-   "hinta": 212.72,
+   "hinta": 212.21,
    "valuutta": "USD",
-   "muutos_1pv": -4.2,
-   "muutos_5pv": -2.1,
+   "muutos_1pv": -4.4,
+   "muutos_5pv": -2.3,
    "nimi": "Nvidia"
   },
   "POWL": {
-   "hinta": 152.76,
+   "hinta": 150.71,
    "valuutta": "USD",
-   "muutos_1pv": -10.3,
-   "muutos_5pv": -10.6,
+   "muutos_1pv": -11.5,
+   "muutos_5pv": -11.8,
    "nimi": "Powell Industries"
   },
   "LITE": {
-   "hinta": 760.15,
+   "hinta": 752.54,
    "valuutta": "USD",
-   "muutos_1pv": -10.6,
-   "muutos_5pv": -12.6,
+   "muutos_1pv": -11.5,
+   "muutos_5pv": -13.5,
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 26.55,
+   "hinta": 27.01,
    "valuutta": "USD",
-   "muutos_1pv": -4.3,
-   "muutos_5pv": -11.5,
+   "muutos_1pv": -2.6,
+   "muutos_5pv": -10.0,
    "nimi": "Oklo"
   },
   "AVGO": {
-   "hinta": 324.4,
+   "hinta": 323.24,
    "valuutta": "USD",
-   "muutos_1pv": -4.0,
-   "muutos_5pv": -5.8,
+   "muutos_1pv": -4.3,
+   "muutos_5pv": -6.1,
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 140.35,
+   "hinta": 140.83,
    "valuutta": "USD",
-   "muutos_1pv": -10.1,
-   "muutos_5pv": -9.0,
+   "muutos_1pv": -9.8,
+   "muutos_5pv": -8.7,
    "nimi": "Vistra Corp"
   },
   "MP": {
-   "hinta": 37.75,
+   "hinta": 38.56,
    "valuutta": "USD",
-   "muutos_1pv": -4.4,
-   "muutos_5pv": -9.3,
+   "muutos_1pv": -2.4,
+   "muutos_5pv": -7.3,
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 206.42,
+   "hinta": 207.82,
    "valuutta": "USD",
-   "muutos_1pv": -13.1,
-   "muutos_5pv": -17.6,
+   "muutos_1pv": -12.5,
+   "muutos_5pv": -17.1,
    "nimi": "Coherent Corp"
   },
   "GFS": {
-   "hinta": 43.64,
+   "hinta": 43.37,
    "valuutta": "USD",
-   "muutos_1pv": -8.5,
-   "muutos_5pv": -10.5,
+   "muutos_1pv": -9.1,
+   "muutos_5pv": -11.1,
    "nimi": "GlobalFoundries"
   },
   "SKHY": {
-   "hinta": 133.42,
+   "hinta": 131.69,
    "valuutta": "USD",
-   "muutos_1pv": -6.9,
-   "muutos_5pv": -8.7,
+   "muutos_1pv": -8.1,
+   "muutos_5pv": -9.9,
    "nimi": "SK Hynix"
   },
   "SMR": {
-   "hinta": 5.34,
+   "hinta": 5.38,
    "valuutta": "USD",
-   "muutos_1pv": -2.9,
-   "muutos_5pv": -13.2,
+   "muutos_1pv": -2.2,
+   "muutos_5pv": -12.5,
    "nimi": "NuScale Power"
   },
   "SSNLF": {
@@ -114,38 +114,38 @@
    "nimi": "Samsung"
   },
   "AMD": {
-   "hinta": 510.92,
+   "hinta": 507.93,
    "valuutta": "USD",
-   "muutos_1pv": -7.6,
-   "muutos_5pv": -9.1,
+   "muutos_1pv": -8.1,
+   "muutos_5pv": -9.7,
    "nimi": "AMD"
   },
   "GOOGL": {
-   "hinta": 325.2,
+   "hinta": 324.22,
    "valuutta": "USD",
-   "muutos_1pv": -2.9,
-   "muutos_5pv": -6.9,
+   "muutos_1pv": -3.1,
+   "muutos_5pv": -7.2,
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 411.6,
+   "hinta": 412.35,
    "valuutta": "USD",
-   "muutos_1pv": -4.7,
-   "muutos_5pv": -2.5,
+   "muutos_1pv": -4.5,
+   "muutos_5pv": -2.3,
    "nimi": "TSMC"
   },
   "GEV": {
-   "hinta": 824.51,
+   "hinta": 827.42,
    "valuutta": "USD",
-   "muutos_1pv": -11.0,
-   "muutos_5pv": -11.0,
+   "muutos_1pv": -10.6,
+   "muutos_5pv": -10.7,
    "nimi": "GE Vernova"
   },
   "MSFT": {
-   "hinta": 523.81,
+   "hinta": 521.08,
    "valuutta": "USD",
-   "muutos_1pv": -1.7,
-   "muutos_5pv": -2.9,
+   "muutos_1pv": -2.2,
+   "muutos_5pv": -3.4,
    "nimi": "Microsoft"
   }
  }
