@@ -1,11 +1,11 @@
 {
- "paivitetty": "2026-10-30T13:41:39+00:00",
+ "paivitetty": "2026-10-30T16:17:22+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 7.61,
+   "hinta": 7.68,
    "valuutta": "USD",
-   "muutos_1pv": -7.6,
-   "muutos_5pv": 1.1,
+   "muutos_1pv": -6.6,
+   "muutos_5pv": 2.2,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
@@ -16,94 +16,94 @@
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 75.06,
+   "hinta": 75.88,
    "valuutta": "USD",
-   "muutos_1pv": -10.1,
-   "muutos_5pv": -4.5,
+   "muutos_1pv": -9.1,
+   "muutos_5pv": -3.5,
    "nimi": "Cameco"
   },
   "MU": {
-   "hinta": 891.54,
+   "hinta": 882.66,
    "valuutta": "USD",
-   "muutos_1pv": -4.6,
-   "muutos_5pv": 1.6,
+   "muutos_1pv": -5.5,
+   "muutos_5pv": 0.6,
    "nimi": "Micron Technology"
   },
   "NVDA": {
-   "hinta": 206.11,
+   "hinta": 204.87,
    "valuutta": "USD",
-   "muutos_1pv": -3.5,
-   "muutos_5pv": -2.3,
+   "muutos_1pv": -4.1,
+   "muutos_5pv": -2.9,
    "nimi": "Nvidia"
   },
   "POWL": {
-   "hinta": 160.51,
+   "hinta": 158.4,
    "valuutta": "USD",
-   "muutos_1pv": -4.7,
-   "muutos_5pv": 6.3,
+   "muutos_1pv": -6.0,
+   "muutos_5pv": 4.9,
    "nimi": "Powell Industries"
   },
   "LITE": {
-   "hinta": 857.56,
+   "hinta": 828.56,
    "valuutta": "USD",
-   "muutos_1pv": -6.7,
-   "muutos_5pv": 13.4,
+   "muutos_1pv": -9.9,
+   "muutos_5pv": 9.6,
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 25.02,
+   "hinta": 25.13,
    "valuutta": "USD",
-   "muutos_1pv": -6.7,
-   "muutos_5pv": -5.0,
+   "muutos_1pv": -6.3,
+   "muutos_5pv": -4.6,
    "nimi": "Oklo"
   },
   "AVGO": {
-   "hinta": 328.68,
+   "hinta": 325.32,
    "valuutta": "USD",
-   "muutos_1pv": -4.7,
-   "muutos_5pv": 2.2,
+   "muutos_1pv": -5.7,
+   "muutos_5pv": 1.1,
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 137.9,
+   "hinta": 137.03,
    "valuutta": "USD",
-   "muutos_1pv": -2.2,
-   "muutos_5pv": -1.6,
+   "muutos_1pv": -2.8,
+   "muutos_5pv": -2.2,
    "nimi": "Vistra Corp"
   },
   "MP": {
-   "hinta": 40.06,
+   "hinta": 39.54,
    "valuutta": "USD",
-   "muutos_1pv": -3.8,
-   "muutos_5pv": 4.6,
+   "muutos_1pv": -5.0,
+   "muutos_5pv": 3.2,
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 217.35,
+   "hinta": 207.04,
    "valuutta": "USD",
-   "muutos_1pv": -8.4,
-   "muutos_5pv": 3.9,
+   "muutos_1pv": -12.7,
+   "muutos_5pv": -1.1,
    "nimi": "Coherent Corp"
   },
   "GFS": {
-   "hinta": 42.3,
+   "hinta": 41.76,
    "valuutta": "USD",
-   "muutos_1pv": -7.7,
-   "muutos_5pv": -4.7,
+   "muutos_1pv": -8.9,
+   "muutos_5pv": -5.9,
    "nimi": "GlobalFoundries"
   },
   "SKHY": {
-   "hinta": 152.2,
+   "hinta": 149.04,
    "valuutta": "USD",
-   "muutos_1pv": -6.1,
-   "muutos_5pv": 11.1,
+   "muutos_1pv": -8.0,
+   "muutos_5pv": 8.8,
    "nimi": "SK Hynix"
   },
   "SMR": {
-   "hinta": 5.55,
+   "hinta": 5.57,
    "valuutta": "USD",
-   "muutos_1pv": -6.3,
-   "muutos_5pv": 3.1,
+   "muutos_1pv": -5.9,
+   "muutos_5pv": 3.5,
    "nimi": "NuScale Power"
   },
   "SSNLF": {
@@ -114,38 +114,38 @@
    "nimi": "Samsung"
   },
   "AMD": {
-   "hinta": 512.08,
+   "hinta": 504.96,
    "valuutta": "USD",
-   "muutos_1pv": -9.6,
-   "muutos_5pv": -0.9,
+   "muutos_1pv": -10.8,
+   "muutos_5pv": -2.3,
    "nimi": "AMD"
   },
   "GOOGL": {
-   "hinta": 281.64,
+   "hinta": 280.95,
    "valuutta": "USD",
-   "muutos_1pv": -0.8,
-   "muutos_5pv": -12.0,
+   "muutos_1pv": -1.0,
+   "muutos_5pv": -12.3,
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 416.13,
+   "hinta": 406.89,
    "valuutta": "USD",
-   "muutos_1pv": -3.6,
-   "muutos_5pv": -0.6,
+   "muutos_1pv": -5.8,
+   "muutos_5pv": -2.8,
    "nimi": "TSMC"
   },
   "GEV": {
-   "hinta": 876.53,
+   "hinta": 862.18,
    "valuutta": "USD",
-   "muutos_1pv": -1.3,
-   "muutos_5pv": 7.5,
+   "muutos_1pv": -2.9,
+   "muutos_5pv": 5.8,
    "nimi": "GE Vernova"
   },
   "MSFT": {
-   "hinta": 520.08,
+   "hinta": 521.57,
    "valuutta": "USD",
-   "muutos_1pv": -1.9,
-   "muutos_5pv": -0.8,
+   "muutos_1pv": -1.6,
+   "muutos_5pv": -0.6,
    "nimi": "Microsoft"
   }
  }
