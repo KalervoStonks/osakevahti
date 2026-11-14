@@ -1,11 +1,11 @@
 {
- "paivitetty": "2026-11-14T00:59:13+00:00",
+ "paivitetty": "2026-11-14T01:06:41+00:00",
  "kurssit": {
   "UUUU": {
-   "hinta": 6.59,
+   "hinta": 6.68,
    "valuutta": "USD",
-   "muutos_1pv": -1.3,
-   "muutos_5pv": -1.1,
+   "muutos_1pv": -3.6,
+   "muutos_5pv": 1.4,
    "nimi": "Energy Fuels"
   },
   "EQR.AX": {
@@ -16,94 +16,94 @@
    "nimi": "EQ Resources"
   },
   "CCJ": {
-   "hinta": 70.73,
+   "hinta": 71.78,
    "valuutta": "USD",
-   "muutos_1pv": -1.5,
-   "muutos_5pv": -0.8,
+   "muutos_1pv": -3.4,
+   "muutos_5pv": 5.0,
    "nimi": "Cameco"
   },
   "MU": {
-   "hinta": 778.31,
+   "hinta": 798.44,
    "valuutta": "USD",
-   "muutos_1pv": -2.5,
-   "muutos_5pv": 12.8,
+   "muutos_1pv": -1.6,
+   "muutos_5pv": 21.6,
    "nimi": "Micron Technology"
   },
   "NVDA": {
-   "hinta": 162.85,
+   "hinta": 166.19,
    "valuutta": "USD",
-   "muutos_1pv": -2.0,
-   "muutos_5pv": -12.7,
+   "muutos_1pv": -4.3,
+   "muutos_5pv": -8.5,
    "nimi": "Nvidia"
   },
   "POWL": {
-   "hinta": 142.72,
+   "hinta": 141.77,
    "valuutta": "USD",
-   "muutos_1pv": 0.7,
-   "muutos_5pv": 7.2,
+   "muutos_1pv": -2.8,
+   "muutos_5pv": 13.4,
    "nimi": "Powell Industries"
   },
   "LITE": {
-   "hinta": 596.62,
+   "hinta": 624.65,
    "valuutta": "USD",
-   "muutos_1pv": -4.5,
-   "muutos_5pv": 10.8,
+   "muutos_1pv": -3.6,
+   "muutos_5pv": 22.6,
    "nimi": "Lumentum Holdings"
   },
   "OKLO": {
-   "hinta": 23.92,
+   "hinta": 24.45,
    "valuutta": "USD",
-   "muutos_1pv": -2.2,
-   "muutos_5pv": 1.6,
+   "muutos_1pv": -5.5,
+   "muutos_5pv": 27.3,
    "nimi": "Oklo"
   },
   "AVGO": {
-   "hinta": 347.01,
+   "hinta": 364.36,
    "valuutta": "USD",
-   "muutos_1pv": -4.8,
-   "muutos_5pv": 18.2,
+   "muutos_1pv": 5.5,
+   "muutos_5pv": 25.0,
    "nimi": "Broadcom"
   },
   "VST": {
-   "hinta": 133.01,
+   "hinta": 134.51,
    "valuutta": "USD",
-   "muutos_1pv": -1.1,
-   "muutos_5pv": 6.6,
+   "muutos_1pv": 0.8,
+   "muutos_5pv": 19.2,
    "nimi": "Vistra Corp"
   },
   "MP": {
-   "hinta": 38.76,
+   "hinta": 37.45,
    "valuutta": "USD",
-   "muutos_1pv": 3.5,
-   "muutos_5pv": 9.5,
+   "muutos_1pv": 2.0,
+   "muutos_5pv": 11.0,
    "nimi": "MP Materials"
   },
   "COHR": {
-   "hinta": 218.15,
+   "hinta": 232.08,
    "valuutta": "USD",
-   "muutos_1pv": -6.0,
-   "muutos_5pv": 13.1,
+   "muutos_1pv": -1.0,
+   "muutos_5pv": 36.7,
    "nimi": "Coherent Corp"
   },
   "GFS": {
-   "hinta": 41.47,
+   "hinta": 42.62,
    "valuutta": "USD",
-   "muutos_1pv": -2.7,
-   "muutos_5pv": 7.4,
+   "muutos_1pv": -0.5,
+   "muutos_5pv": 17.2,
    "nimi": "GlobalFoundries"
   },
   "SKHY": {
-   "hinta": 131.79,
+   "hinta": 137.71,
    "valuutta": "USD",
-   "muutos_1pv": -4.3,
-   "muutos_5pv": 3.5,
+   "muutos_1pv": -3.2,
+   "muutos_5pv": 11.1,
    "nimi": "SK Hynix"
   },
   "SMR": {
-   "hinta": 4.66,
+   "hinta": 4.82,
    "valuutta": "USD",
-   "muutos_1pv": -3.3,
-   "muutos_5pv": -8.3,
+   "muutos_1pv": -7.8,
+   "muutos_5pv": 10.3,
    "nimi": "NuScale Power"
   },
   "SSNLF": {
@@ -114,38 +114,38 @@
    "nimi": "Samsung"
   },
   "AMD": {
-   "hinta": 534.06,
+   "hinta": 585.3,
    "valuutta": "USD",
-   "muutos_1pv": -8.8,
-   "muutos_5pv": 18.9,
+   "muutos_1pv": 5.9,
+   "muutos_5pv": 44.7,
    "nimi": "AMD"
   },
   "GOOGL": {
-   "hinta": 295.77,
+   "hinta": 298.7,
    "valuutta": "USD",
-   "muutos_1pv": -1.0,
-   "muutos_5pv": 3.9,
+   "muutos_1pv": 1.8,
+   "muutos_5pv": 5.7,
    "nimi": "Google"
   },
   "TSM": {
-   "hinta": 398.73,
+   "hinta": 405.49,
    "valuutta": "USD",
-   "muutos_1pv": -1.7,
-   "muutos_5pv": 6.2,
+   "muutos_1pv": -1.9,
+   "muutos_5pv": 14.8,
    "nimi": "TSMC"
   },
   "GEV": {
-   "hinta": 803.13,
+   "hinta": 818.49,
    "valuutta": "USD",
-   "muutos_1pv": -1.9,
-   "muutos_5pv": 3.7,
+   "muutos_1pv": 1.3,
+   "muutos_5pv": 6.2,
    "nimi": "GE Vernova"
   },
   "MSFT": {
-   "hinta": 523.88,
+   "hinta": 523.0,
    "valuutta": "USD",
-   "muutos_1pv": 0.2,
-   "muutos_5pv": -1.3,
+   "muutos_1pv": 0.4,
+   "muutos_5pv": -2.4,
    "nimi": "Microsoft"
   }
  }
